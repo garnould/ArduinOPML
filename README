@@ -1,6 +1,20 @@
-ArduinOPML, an OPML file contains RSS feeds of blogs talking (mainly) about Arduino, DYI, etc.
+ArduinOPML
+ - an OPML file containing RSS feeds of blogs talking (mainly) about Arduino, DYI, etc.
 
-Feel free to contribute by sending your feeds and/or OPML to garnould@oxoxo.net (your email subject should contain "[ArduinOPML]" please!), I'll update this file ASAP.
+Feel free to contribute by sending your blogs, feeds and/or OPML to garnould@oxoxo.net
+ - your email subject should contain "[ArduinOPML]" please!), I'll update this file ASAP.
+
+How to read those blogs ?
+ - Upload file ArduinOPML.xml into your preferred RSS feed reader (e.g. Google Reader) and enjoy.
+
+How to contribute ?
+ - (preferred) send me your OPML file if classified
+   it should contain __ONLY__ arduino/electronics/related RSS feeds
+ - send me the RSS feeds this OPML should contain
+
+Improvements
+ - One OPML per spoken language ?  
 
 2011-07-17
 	Initial commit and push on git@github.com:garnould/ArduinOPML.git
+	README improved
