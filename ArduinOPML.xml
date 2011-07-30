@@ -14,6 +14,11 @@
             <outline text="adafruit industries blog"
                 title="adafruit industries blog" type="rss"
                 xmlUrl="http://www.adafruit.com/blog/feed/" htmlUrl="http://www.adafruit.com/blog"/>
+            <outline
+                text="Adventures of a programmer in embedded electronics"
+                title="Adventures of a programmer in embedded electronics"
+                type="rss"
+                xmlUrl="http://mcumix.blogspot.com/feeds/posts/default" htmlUrl="http://mcumix.blogspot.com/"/>
             <outline text="Alan's Ramblings" title="Alan's Ramblings"
                 type="rss" xmlUrl="http://bleaklow.com/rss.xml" htmlUrl="http://bleaklow.com:80/"/>
             <outline text="All About Open Hardware"
@@ -67,6 +72,8 @@
             <outline text="Birds on the Wire" title="Birds on the Wire"
                 type="rss"
                 xmlUrl="http://feeds.feedburner.com/BirdsOnTheWire" htmlUrl="http://blog.littlebirdelectronics.com"/>
+            <outline text="Blog de Snootlab" title="Blog de Snootlab"
+                type="rss" xmlUrl="http://blog.snootlab.com/feed/" htmlUrl="http://blog.snootlab.com"/>
             <outline text="Bot Thoughts" title="Bot Thoughts" type="rss"
                 xmlUrl="http://www.bot-thoughts.com/feeds/posts/default" htmlUrl="http://www.bot-thoughts.com/"/>
             <outline text="bunnie's blog" title="bunnie's blog"
@@ -261,7 +268,7 @@
             <outline
                 text="I'd Rather Be Building Robots » Released: 3rd Party ROBOTC Driver Suite V1.6"
                 title="I'd Rather Be Building Robots » Released: 3rd Party ROBOTC Driver Suite V1.6"
-                type="rss" xmlUrl="http://mightor.wordpress.com/feed/" htmlUrl="http://mightor.wordpress.com"/>
+                type="rss" xmlUrl="http://mightor.wordpress.com/feed/" htmlUrl="http://botbench.com/blog"/>
             <outline text="IDEO Labs" title="IDEO Labs" type="rss"
                 xmlUrl="http://labs.ideo.com/feed/" htmlUrl="http://labs.ideo.com"/>
             <outline text="imsolidstate" title="imsolidstate" type="rss"
@@ -488,6 +495,9 @@
             <outline text="Steve's Stuff" title="Steve's Stuff"
                 type="rss"
                 xmlUrl="http://daisyhill.net/steve/?feed=rss2" htmlUrl="http://daisyhill.net/steve"/>
+            <outline text="SuddenDevelopment" title="SuddenDevelopment"
+                type="rss"
+                xmlUrl="http://suddendevelopment.com/?feed=rss2" htmlUrl="http://SuddenDevelopment.com"/>
             <outline text="Synthetos" title="Synthetos" type="rss"
                 xmlUrl="https://www.synthetos.com/blog/feed/" htmlUrl="https://www.synthetos.com/blog"/>
             <outline text="t r o n i x    s t u f f"
@@ -510,6 +520,9 @@
                 title="The Augmented Tonoscope - Digital Sketchbook"
                 type="rss"
                 xmlUrl="http://tumblr.augmentedtonoscope.net/rss" htmlUrl="http://tumblr.augmentedtonoscope.net/"/>
+            <outline text="The Brokentoaster Blog"
+                title="The Brokentoaster Blog" type="rss"
+                xmlUrl="http://www.brokentoaster.com/blog/?feed=rss2" htmlUrl="http://www.brokentoaster.com/blog"/>
             <outline text="The Cheap Vegetable Gardener"
                 title="The Cheap Vegetable Gardener" type="rss"
                 xmlUrl="http://www.cheapvegetablegardener.com/feed" htmlUrl="http://www.cheapvegetablegardener.com"/>
@@ -602,6 +615,10 @@
             <outline text="‹‹ Stµpid Hax ››" title="‹‹ Stµpid Hax ››"
                 type="rss"
                 xmlUrl="http://stupidhax.blogspot.com/feeds/posts/default" htmlUrl="http://stupidhax.blogspot.com/"/>
+        </outline>
+        <outline title="Arduino.german" text="Arduino.german">
+            <outline text="Arduino Praxis" title="Arduino Praxis"
+                type="rss" xmlUrl="http://arduino-praxis.ch/feed/" htmlUrl="http://arduino-praxis.ch"/>
         </outline>
     </body>
 </opml>
