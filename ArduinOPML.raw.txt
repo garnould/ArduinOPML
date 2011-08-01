@@ -13,6 +13,7 @@ http://arduinofun.com/blog/feed/
 http://arduinoprojects.com/rss.xml
 http://arduinotronics.blogspot.com/feeds/posts/default
 http://arduitter.blogspot.com/feeds/posts/default
+http://arduous.orcinus.me/feed/
 http://asselinpaul.posterous.com/rss.xml
 http://azear.wordpress.com/feed/
 http://balau82.wordpress.com/feed/
@@ -71,6 +72,7 @@ http://filear.com/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;form
 http://fourwalledcubicle.com/blog/feed/
 http://freaklabs.org/index.php/rss-feed/Blog-News/
 http://freaklabs.org/index.php/rss-feed/Zigbee-News/
+http://fritzing.org/news/feeds/rss/
 http://gonium.net/md/feed/
 http://grieg.gotdns.com/blog/?feed=rss2
 http://hackaday.com/feed/
@@ -109,6 +111,8 @@ http://mightyohm.com/blog/feed/
 http://mike-ibioloid.blogspot.com/feeds/posts/default
 http://news.jeelabs.org/feed/
 http://nicko01.com/?feed=rss2
+http://nocubedesigns.com/?feed=rss2
+http://noiseislife.tumblr.com/rss
 http://octopart.com/html/rss.xml
 http://odgregg.wordpress.com/feed/
 http://ossmann.blogspot.com/feeds/posts/default
@@ -190,6 +194,7 @@ http://www.fazjaxton.net/feed/
 http://www.flylogic.net/blog/?feed=rss2
 http://www.freetronics.com/blogs/news.atom
 http://www.gadgetgangster.com/scripts/projectsrss.php
+http://www.galileo-7.com/?mode=rss
 http://www.glacialwanderer.com/hobbyrobotics/?feed=rss2
 http://www.google.com/reader/public/atom/webfeed/13308286659783755939
 http://www.gsm-modem.de/M2M/feed/

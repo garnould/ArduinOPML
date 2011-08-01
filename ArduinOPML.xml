@@ -4,15 +4,28 @@
         <title>Georges subscriptions in Google Reader</title>
     </head>
     <body>
+        <outline title="Arduino.de" text="Arduino.de">
+            <outline text="Arduino Praxis" title="Arduino Praxis"
+                type="rss" xmlUrl="http://arduino-praxis.ch/feed/" htmlUrl="http://arduino-praxis.ch"/>
+        </outline>
+        <outline title="Arduino.jp" text="Arduino.jp">
+            <outline text="＋galileo7＋ Arduinoシールドの輸入・オリジナル製品の販売"
+                title="＋galileo7＋ Arduinoシールドの輸入・オリジナル製品の販売" type="rss"
+                xmlUrl="http://www.galileo-7.com/?mode=rss" htmlUrl="http://www.galileo-7.com/"/>
+        </outline>
         <outline title="Arduino.new" text="Arduino.new">
             <outline text="Arduiniana" title="Arduiniana" type="rss"
                 xmlUrl="http://arduiniana.org/feed/" htmlUrl="http://arduiniana.org"/>
+            <outline text="Arduous" title="Arduous" type="rss"
+                xmlUrl="http://arduous.orcinus.me/feed/" htmlUrl="http://arduous.orcinus.me"/>
             <outline text="code, circuits, &amp; construction"
                 title="code, circuits, &amp; construction" type="rss"
                 xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom" htmlUrl="http://www.tigoe.net/pcomp/code"/>
             <outline text="Electronics - Tuts, tips and much more ..."
                 title="Electronics - Tuts, tips and much more ..."
                 type="rss" xmlUrl="http://elecrom.wordpress.com/feed/" htmlUrl="http://elecrom.wordpress.com"/>
+            <outline text="Latest news" title="Latest news" type="rss"
+                xmlUrl="http://fritzing.org/news/feeds/rss/" htmlUrl="http://fritzing.org/"/>
             <outline text="Magic Smoke" title="Magic Smoke" type="rss"
                 xmlUrl="http://magicsmoke.downingterrazas.com/feed/" htmlUrl="http://magicsmoke.downingterrazas.com"/>
             <outline text="Mekonikuv blog" title="Mekonikuv blog"
@@ -20,6 +33,10 @@
             <outline text="Memos From the Cube"
                 title="Memos From the Cube" type="rss"
                 xmlUrl="http://fourwalledcubicle.com/blog/feed/" htmlUrl="http://fourwalledcubicle.com/blog"/>
+            <outline text="noise is life" title="noise is life"
+                type="rss" xmlUrl="http://noiseislife.tumblr.com/rss" htmlUrl="http://noiseislife.tumblr.com/"/>
+            <outline text="no³ designs" title="no³ designs" type="rss"
+                xmlUrl="http://nocubedesigns.com/?feed=rss2" htmlUrl="http://nocubedesigns.com"/>
             <outline text="Omega's Electronics"
                 title="Omega's Electronics" type="rss"
                 xmlUrl="http://blog.omegacs.net/feed/" htmlUrl="http://blog.omegacs.net"/>
@@ -647,10 +664,6 @@
             <outline text="‹‹ Stµpid Hax ››" title="‹‹ Stµpid Hax ››"
                 type="rss"
                 xmlUrl="http://stupidhax.blogspot.com/feeds/posts/default" htmlUrl="http://stupidhax.blogspot.com/"/>
-        </outline>
-        <outline title="Arduino.german" text="Arduino.german">
-            <outline text="Arduino Praxis" title="Arduino Praxis"
-                type="rss" xmlUrl="http://arduino-praxis.ch/feed/" htmlUrl="http://arduino-praxis.ch"/>
         </outline>
     </body>
 </opml>

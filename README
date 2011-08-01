@@ -1,4 +1,6 @@
-ArduinOPML, RSS feeds about Arduino and DIY for your blog reader!
+ArduinOPML, _many_ RSS feeds about Arduino and DIY for your blog reader!
+Upload this file into your RSS reader and enjoy!
+
  - contains ArduinOPML.xml, an OPML file (should be uploadable into your reader)
  - contains ArduinOPML.raw.txt, a text file containing a raw list of feeds 
 
@@ -15,16 +17,3 @@ How to contribute ?
 
 Improvements
  - One OPML per spoken language ?  
-
-*** History ***
-
-2011-01-31
-	Still adding feeds, created a Arduino.new folder for new feeds
-	Added a ./scripts/rawizer.sh script to [trashly] extract feeds from OPML
-
-2011-07-20
-	Added some feeds
-
-2011-07-17
-	Initial commit and push on git@github.com:garnould/ArduinOPML.git
-	README improved
