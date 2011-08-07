@@ -23,6 +23,7 @@ http://benshobbycorner.nl/?feed=rss2
 http://bildr.org/feed/
 http://bleaklow.com/rss.xml
 http://blog.aztronics.com/?feed=rss2
+http://blog.datasingularity.com/?feed=rss2
 http://blog.erikdebruijn.nl/feeds/index.rss2
 http://blog.flytron.com/feed
 http://blog.gadgetfactory.net/feeds/posts/default
@@ -33,8 +34,10 @@ http://blog.reprap.org/feeds/posts/default
 http://blog.screamingcircuits.com/atom.xml
 http://blog.snootlab.com/feed/
 http://blog.spitzenpfeil.org/wordpress/feed/
+http://blog.stevemarple.co.uk/feeds/posts/default
 http://blog.thingiverse.com/feed/
 http://blog.whattomake.co.kr/rss
+http://blogs.fsfe.org/clemens/feed/
 http://blogs.leaflabs.com/?feed=rss2
 http://blogs.sun.com/davidgs/feed/entries/atom
 http://braincraft.com/rss
@@ -95,6 +98,7 @@ http://jmsaavedra.com/weblog/?feed=rss2
 http://jmsarduino.blogspot.com/feeds/posts/default
 http://johnsexploits.blogspot.com/feeds/posts/default
 http://jon.oxer.com.au/sb/modules/blog/feeds/rss2.xml
+http://jpmandon.blogspot.com/feeds/posts/default
 http://justanotherlanguage.org/rss.xml
 http://kennethfinnegan.blogspot.com/feeds/posts/default
 http://lab.guilhermemartins.net/feed/
@@ -130,6 +134,7 @@ http://piclock.wordpress.com/feed/
 http://picnote.blogspot.com/feeds/posts/default
 http://pleasantsoftware.com/developer/3d/feed/
 http://profmason.com/?feed=rss2
+http://retromaster.wordpress.com/feed/
 http://robotgrrl.com/blog/feed/
 http://robotics.reefat.com/feed/
 http://rossum.posterous.com/rss.xml
@@ -186,6 +191,7 @@ http://www.cheapvegetablegardener.com/feed
 http://www.circuitgeek.com/blog/feed
 http://www.circuitlake.com/feed
 http://www.circuitsathome.com/feed
+http://www.coolcircuit.com/gadgets/feed/
 http://www.coolcircuit.com/gadgets/feed/atom/
 http://www.damonkohler.com/feeds/posts/default
 http://www.dannyboy.se/blog/?feed=rss

@@ -35,9 +35,15 @@
                 xmlUrl="http://arduiniana.org/feed/" htmlUrl="http://arduiniana.org"/>
             <outline text="Arduous" title="Arduous" type="rss"
                 xmlUrl="http://arduous.orcinus.me/feed/" htmlUrl="http://arduous.orcinus.me"/>
+            <outline text="CMD-c &amp;&amp; CMD-v"
+                title="CMD-c &amp;&amp; CMD-v" type="rss"
+                xmlUrl="http://blog.datasingularity.com/?feed=rss2" htmlUrl="http://blog.datasingularity.com"/>
             <outline text="code, circuits, &amp; construction"
                 title="code, circuits, &amp; construction" type="rss"
                 xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom" htmlUrl="http://www.tigoe.net/pcomp/code"/>
+            <outline text="Cool Electronic projects blog"
+                title="Cool Electronic projects blog" type="rss"
+                xmlUrl="http://www.coolcircuit.com/gadgets/feed/" htmlUrl="http://www.coolcircuit.com/gadgets"/>
             <outline text="Dr Terrible's House of Bloggable"
                 title="Dr Terrible's House of Bloggable" type="rss"
                 xmlUrl="http://charliex2.wordpress.com/feed/" htmlUrl="http://charliex2.wordpress.com"/>
@@ -47,6 +53,9 @@
             <outline text="ElektorEmbedded" title="ElektorEmbedded"
                 type="rss"
                 xmlUrl="http://elektorembedded.blogspot.com/feeds/posts/default" htmlUrl="http://elektorembedded.blogspot.com/"/>
+            <outline text="Hackinglab News" title="Hackinglab News"
+                type="rss"
+                xmlUrl="http://jpmandon.blogspot.com/feeds/posts/default" htmlUrl="http://jpmandon.blogspot.com/"/>
             <outline text="Just Another JAL Website"
                 title="Just Another JAL Website" type="rss"
                 xmlUrl="http://justanotherlanguage.org/rss.xml" htmlUrl="http://justanotherlanguage.org"/>
@@ -59,6 +68,8 @@
             <outline text="Memos From the Cube"
                 title="Memos From the Cube" type="rss"
                 xmlUrl="http://fourwalledcubicle.com/blog/feed/" htmlUrl="http://fourwalledcubicle.com/blog"/>
+            <outline text="möp, möp!" title="möp, möp!" type="rss"
+                xmlUrl="http://blogs.fsfe.org/clemens/feed/" htmlUrl="http://blogs.fsfe.org/clemens"/>
             <outline text="noise is life" title="noise is life"
                 type="rss" xmlUrl="http://noiseislife.tumblr.com/rss" htmlUrl="http://noiseislife.tumblr.com/"/>
             <outline text="no³ designs" title="no³ designs" type="rss"
@@ -69,6 +80,9 @@
             <outline text="peltierfridge" title="peltierfridge"
                 type="rss"
                 xmlUrl="http://peltierfridge.wordpress.com/feed/" htmlUrl="http://peltierfridge.wordpress.com"/>
+            <outline text="Retromaster's Electronics Projects"
+                title="Retromaster's Electronics Projects" type="rss"
+                xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="http://retromaster.wordpress.com"/>
             <outline text="scanlime" title="scanlime" type="rss"
                 xmlUrl="http://scanlime.org/feed/" htmlUrl="http://scanlime.org"/>
             <outline text="Solder In The Veins » Arduino"
@@ -77,6 +91,9 @@
             <outline text="Solder In The Veins » AVR"
                 title="Solder In The Veins » AVR" type="rss"
                 xmlUrl="http://solderintheveins.co.uk/category/microcontrolers/avr-microcontrolers/feed/" htmlUrl="http://solderintheveins.co.uk"/>
+            <outline text="Steve Marple's blog"
+                title="Steve Marple's blog" type="rss"
+                xmlUrl="http://blog.stevemarple.co.uk/feeds/posts/default" htmlUrl="http://blog.stevemarple.co.uk/"/>
             <outline text="Tehnik Service" title="Tehnik Service"
                 type="rss" xmlUrl="http://tehnikservice.net/feed/" htmlUrl="http://tehnikservice.net"/>
             <outline text="(title unknown)" title="(title unknown)"
