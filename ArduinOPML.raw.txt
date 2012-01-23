@@ -4,6 +4,7 @@ http://aaroneiche.com/feed/
 http://abigmagnet.blogspot.com/feeds/posts/default
 http://alpaph.free.fr/feed.php?rss
 http://antipastohw.blogspot.com/feeds/posts/default
+http://appsforarduino.com/blog/feed/
 http://arduiniana.org/feed/
 http://arduino-praxis.ch/feed/
 http://arduino.cc/blog/?feed=rss2
@@ -50,12 +51,14 @@ http://brohogan.blogspot.com/feeds/posts/default
 http://ch00ftech.com/feed/
 http://charliex2.wordpress.com/feed/
 http://chicowebsite.free.fr/?feed=rss2
+http://chrisgammell.com/feed/
 http://circuitfun.wordpress.com/feed/
 http://circuitgizmos.com/wordpress/?feed=rss2
 http://daisyhill.net/steve/?feed=rss2
 http://dammitcoetzee.com/feed/
 http://dangerousprototypes.com/feed/
 http://danstrother.com/feed/
+http://dashroom66.org/?feed=rss2
 http://debugmo.de/?feed=rss2
 http://dereenigne.org/category/electronics/feed
 http://diyautolab.blogspot.com/feeds/posts/default
@@ -161,6 +164,8 @@ http://revoltlab.com/feed/
 http://robotgrrl.com/blog/feed/
 http://robotics.reefat.com/feed/
 http://rossum.posterous.com/rss.xml
+http://rucalgary.hackhut.com/feed/
+http://runawaybrainz.blogspot.com/feeds/posts/default
 http://rusticengineering.wordpress.com/feed/
 http://ryanjmclaughlin.com/blog/feed/
 http://scanlime.org/feed/
@@ -290,6 +295,8 @@ http://www.spikenzielabs.com/blog/?feed=rss2
 http://www.sqlskills.com/blogs/paulselec/syndication.axd?format=rss
 http://www.starlino.com/feed
 http://www.stephenhobley.com/blog/feed/
+http://www.suspectdevices.com/blahg/feed/
+http://www.theamphour.com/feed/
 http://www.thekanes.org/index.php/feed/
 http://www.tigoe.net/pcomp/code/feed
 http://www.tigoe.net/pcomp/code/feed/atom

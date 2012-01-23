@@ -25,7 +25,7 @@
                 xmlUrl="http://www.robovergne.com/fr/feed/" htmlUrl="http://www.robovergne.com/fr"/>
             <outline text="Skyduino - Le DIY à la française"
                 title="Skyduino - Le DIY à la française" type="rss"
-                xmlUrl="http://skyduino.wordpress.com/feed/" htmlUrl="https://skyduino.wordpress.com"/>
+                xmlUrl="http://skyduino.wordpress.com/feed/" htmlUrl="http://skyduino.wordpress.com"/>
         </outline>
         <outline title="3D Printing" text="3D Printing">
             <outline text="3D Printer - High Resolution - DIY"
@@ -45,6 +45,8 @@
                 xmlUrl="http://elco.crsndoo.com/wordpress/feed/" htmlUrl="http://elco.crsndoo.com/wordpress"/>
             <outline text="Andy's Life" title="Andy's Life" type="rss"
                 xmlUrl="http://blog.thiseldo.co.uk/?feed=rss2" htmlUrl="http://blog.thiseldo.co.uk"/>
+            <outline text="Apps For Arduino" title="Apps For Arduino"
+                type="rss" xmlUrl="http://appsforarduino.com/blog/feed/" htmlUrl="http://appsforarduino.com/blog"/>
             <outline text="Arduiniana" title="Arduiniana" type="rss"
                 xmlUrl="http://arduiniana.org/feed/" htmlUrl="http://arduiniana.org"/>
             <outline text="Arduino" title="Arduino" type="rss"
@@ -65,6 +67,9 @@
             <outline text="ch00ftech Industries"
                 title="ch00ftech Industries" type="rss"
                 xmlUrl="http://ch00ftech.com/feed/" htmlUrl="http://ch00ftech.com"/>
+            <outline text="Chris Gammell's Analog Life"
+                title="Chris Gammell's Analog Life" type="rss"
+                xmlUrl="http://chrisgammell.com/feed/" htmlUrl="http://chrisgammell.com"/>
             <outline text="CMD-c &amp;&amp; CMD-v"
                 title="CMD-c &amp;&amp; CMD-v" type="rss"
                 xmlUrl="http://blog.datasingularity.com/?feed=rss2" htmlUrl="http://blog.datasingularity.com"/>
@@ -76,6 +81,8 @@
             <outline text="Cool Electronic projects blog"
                 title="Cool Electronic projects blog" type="rss"
                 xmlUrl="http://www.coolcircuit.com/gadgets/feed/" htmlUrl="http://www.coolcircuit.com/gadgets"/>
+            <outline text="Da Shroom66" title="Da Shroom66" type="rss"
+                xmlUrl="http://dashroom66.org/?feed=rss2" htmlUrl="http://dashroom66.org"/>
             <outline text="deep darc » Electronics"
                 title="deep darc » Electronics" type="rss"
                 xmlUrl="http://www.deepdarc.com/category/electronics/feed/atom/" htmlUrl="http://www.deepdarc.com/category/electronics/"/>
@@ -102,6 +109,8 @@
                 xmlUrl="http://blog.elektronicastynus.be/feed" htmlUrl="http://blog.elektronicastynus.be"/>
             <outline text="epictronics" title="epictronics" type="rss"
                 xmlUrl="http://epictronics.wordpress.com/feed/" htmlUrl="http://epictronics.wordpress.com"/>
+            <outline text="FishSticks" title="FishSticks" type="rss"
+                xmlUrl="http://rucalgary.hackhut.com/feed/" htmlUrl="http://rucalgary.hackhut.com"/>
             <outline text="HACK A WEEK" title="HACK A WEEK" type="rss"
                 xmlUrl="http://hackaweek.com/hacks/?feed=rss2" htmlUrl="http://hackaweek.com/hacks"/>
             <outline text="Hackinglab News" title="Hackinglab News"
@@ -147,6 +156,9 @@
                 xmlUrl="http://blogs.fsfe.org/clemens/feed/" htmlUrl="http://blogs.fsfe.org/clemens"/>
             <outline text="neophob.com" title="neophob.com" type="rss"
                 xmlUrl="http://neophob.com/feed/" htmlUrl="http://neophob.com"/>
+            <outline text="News @ Suspect Devices"
+                title="News @ Suspect Devices" type="rss"
+                xmlUrl="http://www.suspectdevices.com/blahg/feed/" htmlUrl="http://www.suspectdevices.com/blahg"/>
             <outline text="noise is life" title="noise is life"
                 type="rss" xmlUrl="http://noiseislife.tumblr.com/rss" htmlUrl="http://noiseislife.tumblr.com/"/>
             <outline text="no³ designs" title="no³ designs" type="rss"
@@ -179,6 +191,9 @@
                 xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="http://retromaster.wordpress.com"/>
             <outline text="Revolt Lab" title="Revolt Lab" type="rss"
                 xmlUrl="http://revoltlab.com/feed/" htmlUrl="http://revoltlab.com"/>
+            <outline text="Run Away Brainz" title="Run Away Brainz"
+                type="rss"
+                xmlUrl="http://runawaybrainz.blogspot.com/feeds/posts/default" htmlUrl="http://runawaybrainz.blogspot.com/"/>
             <outline text="scanlime" title="scanlime" type="rss"
                 xmlUrl="http://scanlime.org/feed/" htmlUrl="http://scanlime.org"/>
             <outline text="Solder In The Veins » Arduino"
@@ -200,6 +215,8 @@
                 xmlUrl="http://leighdaviesofficial.co.uk/blog/feed/" htmlUrl="http://leighdaviesofficial.co.uk/blog"/>
             <outline text="Tehnik Service" title="Tehnik Service"
                 type="rss" xmlUrl="http://tehnikservice.net/feed/" htmlUrl="http://tehnikservice.net"/>
+            <outline text="The Amp Hour" title="The Amp Hour" type="rss"
+                xmlUrl="http://www.theamphour.com/feed/" htmlUrl="http://www.theamphour.com"/>
             <outline text="(title unknown)" title="(title unknown)"
                 type="rss" xmlUrl="http://oomlout.co.uk/?feed=rss2" htmlUrl="http://oomlout.co.uk"/>
             <outline text="todbot blog" title="todbot blog" type="rss"
@@ -305,7 +322,7 @@
                 xmlUrl="http://www.tigoe.net/pcomp/code/feed" htmlUrl="http://www.tigoe.net/pcomp/code"/>
             <outline text="Conversations with spaces"
                 title="Conversations with spaces" type="rss"
-                xmlUrl="http://hcgilje.wordpress.com/feed/" htmlUrl="http://hcgilje.wordpress.com"/>
+                xmlUrl="http://hcgilje.wordpress.com/feed/" htmlUrl="https://hcgilje.wordpress.com"/>
             <outline text="Cool Electronic projects blog"
                 title="Cool Electronic projects blog" type="rss"
                 xmlUrl="http://www.coolcircuit.com/gadgets/feed/atom/" htmlUrl="http://www.coolcircuit.com/gadgets"/>
