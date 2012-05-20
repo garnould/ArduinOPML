@@ -54,6 +54,7 @@ http://chicowebsite.free.fr/?feed=rss2
 http://chrisgammell.com/feed/
 http://circuitfun.wordpress.com/feed/
 http://circuitgizmos.com/wordpress/?feed=rss2
+http://circuitish.com/feed/
 http://daisyhill.net/steve/?feed=rss2
 http://dammitcoetzee.com/feed/
 http://dangerousprototypes.com/feed/
@@ -78,6 +79,7 @@ http://false.ekta.is/feed/
 http://feedproxy.google.com/Circuit-Projects-RSS-Feed
 http://feeds.feedburner.com/BirdsOnTheWire
 http://feeds.feedburner.com/CuriousInventor_Blog
+http://feeds.feedburner.com/DubiousHacks
 http://feeds.feedburner.com/Electropages/
 http://feeds.feedburner.com/PeteBrown
 http://feeds.feedburner.com/Ponoko
@@ -159,6 +161,7 @@ http://picnote.blogspot.com/feeds/posts/default
 http://pleasantsoftware.com/developer/3d/feed/
 http://principialabs.com/feed/
 http://profmason.com/?feed=rss2
+http://reibot.org/feed/
 http://retromaster.wordpress.com/feed/
 http://revoltlab.com/feed/
 http://robotgrrl.com/blog/feed/
@@ -228,6 +231,7 @@ http://www.circuitgeek.com/blog/feed
 http://www.circuitlake.com/feed
 http://www.circuitsathome.com/feed
 http://www.cmiyc.com/feed/
+http://www.cooking-hacks.com/news.rss
 http://www.coolcircuit.com/gadgets/feed/
 http://www.coolcircuit.com/gadgets/feed/atom/
 http://www.damonkohler.com/feeds/posts/default
@@ -309,5 +313,4 @@ http://www.windmeadow.com/node/feed
 http://www.wsnblog.com/feed/
 http://www.wsnbuzz.com/?feed=rss2
 http://www.youritronics.com/feed/
-http://www3.interscience.wiley.com/rss/journal/76507157
 https://www.synthetos.com/blog/feed/

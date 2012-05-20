@@ -22,7 +22,7 @@
                 title="Moi et mon Arduino, pour le fun" type="rss"
                 xmlUrl="http://funwitharduino.blogspot.com/feeds/posts/default" htmlUrl="http://funwitharduino.blogspot.com/"/>
             <outline text="Robovergne" title="Robovergne" type="rss"
-                xmlUrl="http://www.robovergne.com/fr/feed/" htmlUrl="http://www.robovergne.com/fr"/>
+                xmlUrl="http://www.robovergne.com/fr/feed/" htmlUrl="http://www.robovergne.com"/>
             <outline text="Skyduino - Le DIY à la française"
                 title="Skyduino - Le DIY à la française" type="rss"
                 xmlUrl="http://skyduino.wordpress.com/feed/" htmlUrl="http://skyduino.wordpress.com"/>
@@ -70,6 +70,8 @@
             <outline text="Chris Gammell's Analog Life"
                 title="Chris Gammell's Analog Life" type="rss"
                 xmlUrl="http://chrisgammell.com/feed/" htmlUrl="http://chrisgammell.com"/>
+            <outline text="Circuitish" title="Circuitish" type="rss"
+                xmlUrl="http://circuitish.com/feed/" htmlUrl="http://circuitish.com"/>
             <outline text="CMD-c &amp;&amp; CMD-v"
                 title="CMD-c &amp;&amp; CMD-v" type="rss"
                 xmlUrl="http://blog.datasingularity.com/?feed=rss2" htmlUrl="http://blog.datasingularity.com"/>
@@ -77,7 +79,7 @@
                 type="rss" xmlUrl="http://www.cmiyc.com/feed/" htmlUrl="http://www.cmiyc.com"/>
             <outline text="code, circuits, &amp; construction"
                 title="code, circuits, &amp; construction" type="rss"
-                xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom" htmlUrl="http://www.tigoe.net/pcomp/code"/>
+                xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom" htmlUrl="http://www.tigoe.com/pcomp/code"/>
             <outline text="Cool Electronic projects blog"
                 title="Cool Electronic projects blog" type="rss"
                 xmlUrl="http://www.coolcircuit.com/gadgets/feed/" htmlUrl="http://www.coolcircuit.com/gadgets"/>
@@ -88,10 +90,13 @@
                 xmlUrl="http://www.deepdarc.com/category/electronics/feed/atom/" htmlUrl="http://www.deepdarc.com/category/electronics/"/>
             <outline text="Dr Terrible's House of Bloggable"
                 title="Dr Terrible's House of Bloggable" type="rss"
-                xmlUrl="http://charliex2.wordpress.com/feed/" htmlUrl="http://charliex2.wordpress.com"/>
+                xmlUrl="http://charliex2.wordpress.com/feed/" htmlUrl="https://charliex2.wordpress.com"/>
             <outline text="Dr. Monk's DIY Electronics Blog"
                 title="Dr. Monk's DIY Electronics Blog" type="rss"
-                xmlUrl="http://srmonk.blogspot.com/feeds/posts/default" htmlUrl="http://srmonk.blogspot.com/"/>
+                xmlUrl="http://srmonk.blogspot.com/feeds/posts/default" htmlUrl="http://www.doctormonk.com/"/>
+            <outline text="Dubious Hacks" title="Dubious Hacks"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/DubiousHacks" htmlUrl="http://www.dubioushacks.co.uk/dubiousfeed.rss"/>
             <outline text="Electronics ( Arduino)"
                 title="Electronics ( Arduino)" type="rss"
                 xmlUrl="http://tushev.org/articles/electronics?format=feed&amp;type=rss" htmlUrl="http://tushev.org/articles/electronics"/>
@@ -186,6 +191,8 @@
                 xmlUrl="http://embeddederic.blogspot.com/feeds/posts/default" htmlUrl="http://embeddederic.blogspot.com/"/>
             <outline text="Raspberry Pi" title="Raspberry Pi" type="rss"
                 xmlUrl="http://www.raspberrypi.org/feed" htmlUrl="http://www.raspberrypi.org"/>
+            <outline text="ReiBot.org" title="ReiBot.org" type="rss"
+                xmlUrl="http://reibot.org/feed/" htmlUrl="http://reibot.org"/>
             <outline text="Retromaster's Electronics Projects"
                 title="Retromaster's Electronics Projects" type="rss"
                 xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="http://retromaster.wordpress.com"/>
@@ -218,7 +225,7 @@
             <outline text="The Amp Hour" title="The Amp Hour" type="rss"
                 xmlUrl="http://www.theamphour.com/feed/" htmlUrl="http://www.theamphour.com"/>
             <outline text="(title unknown)" title="(title unknown)"
-                type="rss" xmlUrl="http://oomlout.co.uk/?feed=rss2" htmlUrl="http://oomlout.co.uk"/>
+                type="rss" xmlUrl="http://oomlout.co.uk/?feed=rss2" htmlUrl="http://oomlout.co.uk/blog"/>
             <outline text="todbot blog" title="todbot blog" type="rss"
                 xmlUrl="http://todbot.com/blog/feed/atom/" htmlUrl="http://todbot.com/blog"/>
         </outline>
@@ -319,10 +326,13 @@
                 type="rss" xmlUrl="http://www.circuitsathome.com/feed" htmlUrl="http://www.circuitsathome.com"/>
             <outline text="code, circuits, &amp; construction"
                 title="code, circuits, &amp; construction" type="rss"
-                xmlUrl="http://www.tigoe.net/pcomp/code/feed" htmlUrl="http://www.tigoe.net/pcomp/code"/>
+                xmlUrl="http://www.tigoe.net/pcomp/code/feed" htmlUrl="http://www.tigoe.com/pcomp/code"/>
             <outline text="Conversations with spaces"
                 title="Conversations with spaces" type="rss"
-                xmlUrl="http://hcgilje.wordpress.com/feed/" htmlUrl="https://hcgilje.wordpress.com"/>
+                xmlUrl="http://hcgilje.wordpress.com/feed/" htmlUrl="http://hcgilje.wordpress.com"/>
+            <outline text="Cooking Hacks Blog"
+                title="Cooking Hacks Blog" type="rss"
+                xmlUrl="http://www.cooking-hacks.com/news.rss" htmlUrl="http://www.cooking-hacks.com/index.php/blog/"/>
             <outline text="Cool Electronic projects blog"
                 title="Cool Electronic projects blog" type="rss"
                 xmlUrl="http://www.coolcircuit.com/gadgets/feed/atom/" htmlUrl="http://www.coolcircuit.com/gadgets"/>
@@ -608,7 +618,7 @@
                 type="rss" xmlUrl="http://www.ohmpie.com/frontpage/feed" htmlUrl="http://www.ohmpie.com/frontpage"/>
             <outline text="On the SPOT: David G. Simmons"
                 title="On the SPOT: David G. Simmons" type="rss"
-                xmlUrl="http://blogs.sun.com/davidgs/feed/entries/atom" htmlUrl="http://blogs.oracle.com/davidgs/"/>
+                xmlUrl="http://blogs.sun.com/davidgs/feed/entries/atom" htmlUrl="https://blogs.oracle.com/davidgs/"/>
             <outline text="Once Around the Block"
                 title="Once Around the Block" type="rss"
                 xmlUrl="http://thedialist.wordpress.com/feed/" htmlUrl="http://thedialist.wordpress.com"/>
@@ -813,13 +823,9 @@
                 xmlUrl="http://benshobbycorner.nl/?feed=rss2" htmlUrl="http://benshobbycorner.nl"/>
             <outline text="Windmeadow Labs" title="Windmeadow Labs"
                 type="rss" xmlUrl="http://www.windmeadow.com/node/feed" htmlUrl="http://www.windmeadow.com"/>
-            <outline text="Wireless Communications and Mobile Computing"
-                title="Wireless Communications and Mobile Computing"
-                type="rss"
-                xmlUrl="http://www3.interscience.wiley.com/rss/journal/76507157" htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291530-8677"/>
             <outline text="Wireless Sensor Networks"
                 title="Wireless Sensor Networks" type="rss"
-                xmlUrl="http://www.wsnblog.com/feed/" htmlUrl="http://www.wsnblog.com"/>
+                xmlUrl="http://www.wsnblog.com/feed/" htmlUrl="http://wsnblog.com"/>
             <outline text="Wise time with Arduino"
                 title="Wise time with Arduino" type="rss"
                 xmlUrl="http://timewitharduino.blogspot.com/feeds/posts/default" htmlUrl="http://timewitharduino.blogspot.com/"/>
