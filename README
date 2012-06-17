@@ -1,6 +1,9 @@
 ArduinOPML, _many_ RSS feeds about Arduino and DIY for your blog reader!
 Upload this file into your RSS reader and enjoy!
 
+UPDATE: Add https://github.com/garnould/ArduinOPML/commits/master to your reader
+        if you want to be notified when ArduinOPML is modified!
+
  - contains ArduinOPML.xml, an OPML file (should be uploadable into your reader)
  - contains ArduinOPML.raw.txt, a text file containing a raw list of feeds 
 
@@ -15,5 +18,7 @@ How to contribute ?
    it should contain __ONLY__ arduino/electronics/related RSS feeds
  - send me the RSS feeds this OPML should contain
 
-Improvements
- - One OPML per spoken language ?  
+2012-06-17 Changed folders
+ - "Arduino" contains all previous RSS entries
+ - "Arduino (new entries)" contains ... new RSS entries
+ - "ArduinOMPL (commits)" lets you know that ArduinOPML has been modified (more references) :)

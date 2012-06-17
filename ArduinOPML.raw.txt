@@ -34,6 +34,7 @@ http://blog.flytron.com/feed
 http://blog.gadgetfactory.net/feeds/posts/default
 http://blog.makerbot.com/feed/
 http://blog.makezine.com/archive/arduino/index.xml
+http://blog.moderndevice.com/feed/
 http://blog.omegacs.net/feed/
 http://blog.reprap.org/feeds/posts/default
 http://blog.saleae.com/?feed=rss2
@@ -50,6 +51,7 @@ http://blogs.leaflabs.com/?feed=rss2
 http://blogs.sun.com/davidgs/feed/entries/atom
 http://braincraft.com/rss
 http://brohogan.blogspot.com/feeds/posts/default
+http://cargocollective.com/rss/vivianlo
 http://ch00ftech.com/feed/
 http://charliex2.wordpress.com/feed/
 http://chicowebsite.free.fr/?feed=rss2
@@ -64,6 +66,7 @@ http://dangerousprototypes.com/feed/
 http://danstrother.com/feed/
 http://dashroom66.org/?feed=rss2
 http://debugmo.de/?feed=rss2
+http://denishennessy.com/atom.xml
 http://dereenigne.org/category/electronics/feed
 http://diyautolab.blogspot.com/feeds/posts/default
 http://diydrones.ning.com/profiles/blog/feed?xn_auth=no
@@ -110,6 +113,7 @@ http://hackedfrompieces.wordpress.com/feed/
 http://hackedgadgets.com/feed/
 http://hacknmod.com/feed/
 http://hcgilje.wordpress.com/feed/
+http://hlt.media.mit.edu/?feed=rss2
 http://hwkitchen.com/rss/pf-all.xml
 http://innerqube.com/?feed=rss2
 http://interactive-matter.eu/feed/
@@ -126,9 +130,11 @@ http://jumptuck.com/feed/
 http://justanotherlanguage.org/rss.xml
 http://justinstech.org/feed/rdf/
 http://kennethfinnegan.blogspot.com/feeds/posts/default
+http://knolleary.net/feed/
 http://lab.guilhermemartins.net/feed/
 http://labs.ideo.com/feed/
 http://labs.teague.com/?feed=rss2
+http://learning-arduino.tumblr.com/rss
 http://leighdaviesofficial.co.uk/blog/feed/
 http://leoricksimon.blogspot.com/feeds/posts/default
 http://letsmakerobots.com/frontpage/feed
@@ -145,6 +151,7 @@ http://mekonik.wordpress.com/feed/
 http://mercenarymind.com/arduino?format=feed&amp;type=rss
 http://mercenarymind.com/index.php?format=feed&amp;type=rss
 http://micah.navi.cx/feed/
+http://micro.rorbuilder.info/api/statusnet/tags/timeline/arduino.rss
 http://microtransat.wordpress.com/feed/
 http://mightor.wordpress.com/feed/
 http://mightyohm.com/blog/feed/
@@ -169,6 +176,7 @@ http://picnote.blogspot.com/feeds/posts/default
 http://pleasantsoftware.com/developer/3d/feed/
 http://principialabs.com/feed/
 http://profmason.com/?feed=rss2
+http://pulsesensor.com/feed/
 http://reibot.org/feed/
 http://retromaster.wordpress.com/feed/
 http://revoltlab.com/feed/
@@ -229,6 +237,7 @@ http://www.alkannoide.com/feed/
 http://www.allaboutopenhardware.com/feed/
 http://www.andrewkilpatrick.org/blog/?feed=rss2
 http://www.arcfn.com/feeds/posts/default
+http://www.arduinodev.com/feed/
 http://www.arduinoprojects.com/rss.xml
 http://www.avrbox.com/feed/
 http://www.avrfreaks.net/backend.php
@@ -242,6 +251,7 @@ http://www.cheapvegetablegardener.com/feed
 http://www.circuitgeek.com/blog/feed
 http://www.circuitlake.com/feed
 http://www.circuitsathome.com/feed
+http://www.cmiyc.com/feed
 http://www.cmiyc.com/feed/
 http://www.cooking-hacks.com/news.rss
 http://www.coolcircuit.com/gadgets/feed/
@@ -259,6 +269,7 @@ http://www.electronicsblog.net/feed/
 http://www.electronicsweekly.com/blogs/gadget-master/atom.xml
 http://www.elektor.fr/Rss/Site.lynkx
 http://www.embedds.com/feed/
+http://www.engblaze.com/feed/
 http://www.ermicro.com/blog/?feed=rss2
 http://www.evilmadscientist.com/backend/geeklog.rss
 http://www.extremecircuits.net/feeds/posts/default
@@ -272,6 +283,7 @@ http://www.glacialwanderer.com/hobbyrobotics/?feed=rss2
 http://www.google.com/reader/public/atom/webfeed/13308286659783755939
 http://www.gsm-modem.de/M2M/feed/
 http://www.hessmer.org/blog/feed/
+http://www.ikalogic.com/feed/
 http://www.imsolidstate.com/feed
 http://www.insidegadgets.com/feed/
 http://www.instructables.com/technology/arduino/rss.xml?sort=RECENT
@@ -280,6 +292,7 @@ http://www.janspace.com/b2evolution/arduino.php?tempskin=_rss2
 http://www.jave.de/blog2/?feed=rss2
 http://www.jaycollett.com/feed/
 http://www.johngineer.com/blog/?feed=rss2
+http://www.kickstarter.com/projects/988159748/extracore-arduino-compatible/posts.atom
 http://www.libelium.com/news-rss.php
 http://www.makehackvoid.com/rss.xml
 http://www.makezine.com/blog/archive/electronics/index.xml
@@ -327,4 +340,7 @@ http://www.windmeadow.com/node/feed
 http://www.wsnblog.com/feed/
 http://www.wsnbuzz.com/?feed=rss2
 http://www.youritronics.com/feed/
+https://github.com/arduino/Arduino/commits/master.atom
+https://github.com/garnould/ArduinOPML/commits/master.atom
+https://github.com/queezythegreat/arduino-cmake/commits/master.atom
 https://www.synthetos.com/blog/feed/
