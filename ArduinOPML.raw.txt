@@ -238,6 +238,7 @@ http://www.allaboutopenhardware.com/feed/
 http://www.andrewkilpatrick.org/blog/?feed=rss2
 http://www.arcfn.com/feeds/posts/default
 http://www.arduinodev.com/feed/
+http://www.arduinoos.com/wordpress/?feed=rss2
 http://www.arduinoprojects.com/rss.xml
 http://www.avrbox.com/feed/
 http://www.avrfreaks.net/backend.php
