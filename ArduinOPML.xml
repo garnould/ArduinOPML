@@ -5,10 +5,15 @@
     </head>
     <body>
         <outline title="Arduino (new entries)" text="Arduino (new entries)">
+            <outline text="a5d-project-hub" title="a5d-project-hub"
+                type="rss" xmlUrl="http://pro.a5d.biz/feed/" htmlUrl="http://pro.a5d.biz"/>
             <outline text="Arduinoos" title="Arduinoos" type="rss"
                 xmlUrl="http://www.arduinoos.com/wordpress/?feed=rss2" htmlUrl="http://www.arduinoos.com"/>
             <outline text="IKALOGIC" title="IKALOGIC" type="rss"
                 xmlUrl="http://www.ikalogic.com/feed/" htmlUrl="http://www.ikalogic.com"/>
+            <outline text="Projects of Jaanus Kalde"
+                title="Projects of Jaanus Kalde" type="rss"
+                xmlUrl="http://jaanus.tech-thing.org/feed/" htmlUrl="http://jaanus.tech-thing.org"/>
         </outline>
         <outline title="Arduino" text="Arduino">
             <outline text="10kohms" title="10kohms" type="rss"
@@ -678,7 +683,7 @@
                 xmlUrl="http://blog.reprap.org/feeds/posts/default" htmlUrl="http://blog.reprap.org/"/>
             <outline text="Retromaster's Electronics Projects"
                 title="Retromaster's Electronics Projects" type="rss"
-                xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="http://retromaster.wordpress.com"/>
+                xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="https://retromaster.wordpress.com"/>
             <outline text="Revolt Lab" title="Revolt Lab" type="rss"
                 xmlUrl="http://revoltlab.com/feed/" htmlUrl="http://revoltlab.com"/>
             <outline text="Rob Faludi" title="Rob Faludi" type="rss"

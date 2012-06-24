@@ -120,6 +120,7 @@ http://interactive-matter.eu/feed/
 http://interactive-matter.org/feed/
 http://inventionfactory.blogspot.com/feeds/posts/default
 http://iteadstudio.com/feed/
+http://jaanus.tech-thing.org/feed/
 http://jeremyblum.com/feed/
 http://jmsaavedra.com/weblog/?feed=rss2
 http://jmsarduino.blogspot.com/feeds/posts/default
@@ -175,6 +176,7 @@ http://piclock.wordpress.com/feed/
 http://picnote.blogspot.com/feeds/posts/default
 http://pleasantsoftware.com/developer/3d/feed/
 http://principialabs.com/feed/
+http://pro.a5d.biz/feed/
 http://profmason.com/?feed=rss2
 http://pulsesensor.com/feed/
 http://reibot.org/feed/
