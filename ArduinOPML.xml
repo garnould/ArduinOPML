@@ -4,16 +4,48 @@
         <title>Abonnements de Georges dans Google Reader</title>
     </head>
     <body>
+        <outline text="Sebastian Nilsson" title="Sebastian Nilsson"
+            type="rss" xmlUrl="http://sebastiannilsson.com/en/feed/" htmlUrl="http://sebastiannilsson.com/en/"/>
         <outline title="Arduino (new entries)" text="Arduino (new entries)">
             <outline text="a5d-project-hub" title="a5d-project-hub"
                 type="rss" xmlUrl="http://pro.a5d.biz/feed/" htmlUrl="http://pro.a5d.biz"/>
+            <outline text="Arduino Notepad" title="Arduino Notepad"
+                type="rss"
+                xmlUrl="http://arduino103.blogspot.com/feeds/posts/default" htmlUrl="http://arduino103.blogspot.com/"/>
             <outline text="Arduinoos" title="Arduinoos" type="rss"
                 xmlUrl="http://www.arduinoos.com/wordpress/?feed=rss2" htmlUrl="http://www.arduinoos.com"/>
+            <outline text="Arduteka" title="Arduteka" type="rss"
+                xmlUrl="http://www.arduteka.com/feed/" htmlUrl="http://www.arduteka.com"/>
+            <outline text="C i b o M a h t o . c o m"
+                title="C i b o M a h t o . c o m" type="rss"
+                xmlUrl="http://www.cibomahto.com/feed/" htmlUrl="http://www.cibomahto.com"/>
+            <outline text="Catmacey's stuff" title="Catmacey's stuff"
+                type="rss" xmlUrl="http://catmacey.wordpress.com/feed/" htmlUrl="http://catmacey.wordpress.com"/>
+            <outline text="coolarduino" title="coolarduino" type="rss"
+                xmlUrl="http://coolarduino.wordpress.com/feed/" htmlUrl="http://coolarduino.wordpress.com"/>
+            <outline text="DIYtronics" title="DIYtronics" type="rss"
+                xmlUrl="http://diytronics.blogspot.com/feeds/posts/default" htmlUrl="http://diytronics.blogspot.com/"/>
+            <outline text="Dr. Michael Kroll" title="Dr. Michael Kroll"
+                type="rss" xmlUrl="http://www.mkroll.mobi/?feed=rss2" htmlUrl="http://www.mkroll.mobi"/>
             <outline text="IKALOGIC" title="IKALOGIC" type="rss"
                 xmlUrl="http://www.ikalogic.com/feed/" htmlUrl="http://www.ikalogic.com"/>
+            <outline text="Mighty Prototype" title="Mighty Prototype"
+                type="rss"
+                xmlUrl="http://www.mighty-prototype.com/wordpress/?feed=rss2" htmlUrl="http://www.mighty-prototype.com/wordpress"/>
+            <outline text="NutsAndBoltsAndFlyingSparks"
+                title="NutsAndBoltsAndFlyingSparks" type="rss"
+                xmlUrl="http://nutsandboltsandflyingsparks.blogspot.com/feeds/posts/default" htmlUrl="http://nutsandboltsandflyingsparks.blogspot.com/"/>
+            <outline text="NYC Resistor" title="NYC Resistor" type="rss"
+                xmlUrl="http://www.nycresistor.com/feed/" htmlUrl="http://www.nycresistor.com"/>
+            <outline text="Photoduino" title="Photoduino" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Photoduino" htmlUrl="http://www.photoduino.com"/>
             <outline text="Projects of Jaanus Kalde"
                 title="Projects of Jaanus Kalde" type="rss"
                 xmlUrl="http://jaanus.tech-thing.org/feed/" htmlUrl="http://jaanus.tech-thing.org"/>
+            <outline text="Wikispaces : arduino-info : home - edits"
+                title="Wikispaces : arduino-info : home - edits"
+                type="rss"
+                xmlUrl="http://arduino-info.wikispaces.com/page/xml/home?v=rss_2_0" htmlUrl="http://arduino-info.wikispaces.com/home"/>
         </outline>
         <outline title="Arduino" text="Arduino">
             <outline text="10kohms" title="10kohms" type="rss"
@@ -778,7 +810,7 @@
                 title="Sustainable Suburbia" type="rss"
                 xmlUrl="http://sustburbia.blogspot.com/feeds/posts/default" htmlUrl="http://sustburbia.blogspot.com/"/>
             <outline text="Synthetos" title="Synthetos" type="rss"
-                xmlUrl="https://www.synthetos.com/blog/feed/" htmlUrl="https://www.synthetos.com/blog"/>
+                xmlUrl="https://www.synthetos.com/blog/feed/" htmlUrl="https://www.synthetos.com"/>
             <outline text="t r o n i x    s t u f f"
                 title="t r o n i x    s t u f f" type="rss"
                 xmlUrl="http://tronixstuff.wordpress.com/feed/" htmlUrl="http://tronixstuff.wordpress.com"/>
