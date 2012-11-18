@@ -186,6 +186,7 @@ http://principialabs.com/feed/
 http://pro.a5d.biz/feed/
 http://profmason.com/?feed=rss2
 http://pulsesensor.com/feed/
+http://radioartisan.wordpress.com/feed/
 http://reibot.org/feed/
 http://retromaster.wordpress.com/feed/
 http://revoltlab.com/feed/
@@ -202,6 +203,7 @@ http://sensorapp.net/?feed=rss2
 http://skyduino.wordpress.com/feed/
 http://softsolder.com/feed/
 http://solar-blogg.blogspot.com/feeds/posts/default
+http://soldercore.com/feed/
 http://soldering-irony.blogspot.com/feeds/posts/default
 http://solderintheveins.co.uk/category/microcontrolers/arduino/feed/
 http://solderintheveins.co.uk/category/microcontrolers/avr-microcontrolers/feed/
@@ -304,6 +306,7 @@ http://www.ipem.ugent.be/bartmoens/rss.php
 http://www.janspace.com/b2evolution/arduino.php?tempskin=_rss2
 http://www.jave.de/blog2/?feed=rss2
 http://www.jaycollett.com/feed/
+http://www.jeremyblum.com/feed/
 http://www.johngineer.com/blog/?feed=rss2
 http://www.kickstarter.com/projects/988159748/extracore-arduino-compatible/posts.atom
 http://www.libelium.com/news-rss.php
@@ -344,6 +347,7 @@ http://www.starlino.com/feed
 http://www.stephenhobley.com/blog/feed/
 http://www.suspectdevices.com/blahg/feed/
 http://www.theamphour.com/feed/
+http://www.theinebriator.com/feed/
 http://www.thekanes.org/index.php/feed/
 http://www.tigoe.net/pcomp/code/feed
 http://www.tigoe.net/pcomp/code/feed/atom

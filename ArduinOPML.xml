@@ -4,14 +4,17 @@
         <title>Abonnements de Georges dans Google Reader</title>
     </head>
     <body>
-        <outline text="Sebastian Nilsson" title="Sebastian Nilsson"
-            type="rss" xmlUrl="http://sebastiannilsson.com/en/feed/" htmlUrl="http://sebastiannilsson.com/en/"/>
+        <outline text="Radio Artisan" title="Radio Artisan" type="rss"
+            xmlUrl="http://radioartisan.wordpress.com/feed/" htmlUrl="http://radioartisan.wordpress.com"/>
         <outline title="Arduino (new entries)" text="Arduino (new entries)">
             <outline text="a5d-project-hub" title="a5d-project-hub"
                 type="rss" xmlUrl="http://pro.a5d.biz/feed/" htmlUrl="http://pro.a5d.biz"/>
             <outline text="Arduino Notepad" title="Arduino Notepad"
                 type="rss"
                 xmlUrl="http://arduino103.blogspot.com/feeds/posts/default" htmlUrl="http://arduino103.blogspot.com/"/>
+            <outline text="Arduino Tutorials | JeremyBlum.com"
+                title="Arduino Tutorials | JeremyBlum.com" type="rss"
+                xmlUrl="http://www.jeremyblum.com/feed/" htmlUrl="http://www.jeremyblum.com"/>
             <outline text="Arduinoos" title="Arduinoos" type="rss"
                 xmlUrl="http://www.arduinoos.com/wordpress/?feed=rss2" htmlUrl="http://www.arduinoos.com"/>
             <outline text="Arduteka" title="Arduteka" type="rss"
@@ -42,6 +45,14 @@
             <outline text="Projects of Jaanus Kalde"
                 title="Projects of Jaanus Kalde" type="rss"
                 xmlUrl="http://jaanus.tech-thing.org/feed/" htmlUrl="http://jaanus.tech-thing.org"/>
+            <outline text="Sebastian Nilsson" title="Sebastian Nilsson"
+                type="rss" xmlUrl="http://sebastiannilsson.com/en/feed/" htmlUrl="http://sebastiannilsson.com/en/"/>
+            <outline text="SolderCore" title="SolderCore" type="rss"
+                xmlUrl="http://soldercore.com/feed/" htmlUrl="http://soldercore.com"/>
+            <outline
+                text="The Inebriator | Arduino powered cocktail machine"
+                title="The Inebriator | Arduino powered cocktail machine"
+                type="rss" xmlUrl="http://www.theinebriator.com/feed/" htmlUrl="http://www.theinebriator.com"/>
             <outline text="Wikispaces : arduino-info : home - edits"
                 title="Wikispaces : arduino-info : home - edits"
                 type="rss"
@@ -260,7 +271,7 @@
                 type="rss" xmlUrl="http://dorkbotpdx.org/rss.xml" htmlUrl="http://dorkbotpdx.org"/>
             <outline text="Dr Terrible's House of Bloggable"
                 title="Dr Terrible's House of Bloggable" type="rss"
-                xmlUrl="http://charliex2.wordpress.com/feed/" htmlUrl="http://charliex2.wordpress.com"/>
+                xmlUrl="http://charliex2.wordpress.com/feed/" htmlUrl="https://charliex2.wordpress.com"/>
             <outline text="Dr. Monk's DIY Electronics Blog"
                 title="Dr. Monk's DIY Electronics Blog" type="rss"
                 xmlUrl="http://srmonk.blogspot.com/feeds/posts/default" htmlUrl="http://www.doctormonk.com/"/>
@@ -452,7 +463,7 @@
                 title="Interactive Matter" type="rss"
                 xmlUrl="http://interactive-matter.eu/feed/" htmlUrl="http://interactive-matter.eu"/>
             <outline text="ITead Studio" title="ITead Studio" type="rss"
-                xmlUrl="http://iteadstudio.com/feed/" htmlUrl="http://iteadstudio.com"/>
+                xmlUrl="http://iteadstudio.com/feed/" htmlUrl="http://blog.iteadstudio.com"/>
             <outline text="Jee Labs" title="Jee Labs" type="rss"
                 xmlUrl="http://news.jeelabs.org/feed/" htmlUrl="http://jeelabs.org"/>
             <outline text="Jeff's Arduino Blog"
@@ -715,7 +726,7 @@
                 xmlUrl="http://blog.reprap.org/feeds/posts/default" htmlUrl="http://blog.reprap.org/"/>
             <outline text="Retromaster's Electronics Projects"
                 title="Retromaster's Electronics Projects" type="rss"
-                xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="https://retromaster.wordpress.com"/>
+                xmlUrl="http://retromaster.wordpress.com/feed/" htmlUrl="http://retromaster.wordpress.com"/>
             <outline text="Revolt Lab" title="Revolt Lab" type="rss"
                 xmlUrl="http://revoltlab.com/feed/" htmlUrl="http://revoltlab.com"/>
             <outline text="Rob Faludi" title="Rob Faludi" type="rss"
@@ -898,7 +909,7 @@
             <outline text="Toolex" title="Toolex" type="rss"
                 xmlUrl="http://toolex.blogspot.com/feeds/posts/default" htmlUrl="http://toolex.blogspot.com/"/>
             <outline text="Track Hacker" title="Track Hacker" type="rss"
-                xmlUrl="http://trackhacker.com/feed" htmlUrl="http://trackhacker.com"/>
+                xmlUrl="http://trackhacker.com/feed" htmlUrl="http://www.trackhacker.com"/>
             <outline text="transitlab" title="transitlab" type="rss"
                 xmlUrl="http://transitlab.org/feed" htmlUrl="http://transitlab.org"/>
             <outline text="Trashbear Labs" title="Trashbear Labs"
