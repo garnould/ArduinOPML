@@ -13,14 +13,9 @@ Feel free to contribute by sending your blogs, feeds and/or OPML to garnould@oxo
  - your email subject should contain "[ArduinOPML]" please!, I'll update this file ASAP.
 
 How to read those blogs ?
- - Upload file ArduinOPML.xml into your preferred RSS feed reader (e.g. Google Reader) and enjoy.
+ - Upload file ArduinOPML.xml into your preferred RSS feed reader (e.g. NetNewsWire) and enjoy.
 
 How to contribute ?
  - (preferred) send me your OPML file if classified
    it should contain __ONLY__ arduino/electronics/related RSS feeds
  - send me the RSS feeds this OPML should contain
-
-2012-06-17 Changed folders
- - "Arduino" contains all previous RSS entries
- - "Arduino (new entries)" contains ... new RSS entries
- - "ArduinOMPL (commits)" lets you know that ArduinOPML has been modified (more references) :)
