@@ -27,7 +27,7 @@ while (my $line = <OPML>)
 	my $htmlUrl = ($line =~ /htmlUrl="([^"]*)"/)[0] ;
 	my $xmlUrl = ($line =~ /xmlUrl="([^"]*)"/)[0] ;
 
-	push @output, '* ' . '[' . $title . '](' . $htmlUrl . ( $htmlUrl =~ /\?/ ? '&' : '?' ) . $appendedNoise . ') [RSS](' . $xmlUrl . ')' ;
+	push @output, '* ' . '[' . $title . '](' . $htmlUrl . ( $htmlUrl =~ /\?/ ? '&' : '?' ) . $appendedNoise . ') *([RSS feed](' . $xmlUrl . '))*' ;
     }
 }
 
