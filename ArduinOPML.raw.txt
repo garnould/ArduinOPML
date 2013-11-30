@@ -23,6 +23,7 @@ http://asselinpaul.posterous.com/rss.xml
 http://authenticinvention.com/authentic/?feed=rss2
 http://azear.wordpress.com/feed/
 http://balau82.wordpress.com/feed/
+http://basbrun.com/feed/
 http://benkrasnow.blogspot.com/feeds/posts/default
 http://benshobbycorner.nl/?feed=rss2
 http://bildr.org/feed/
@@ -128,6 +129,7 @@ http://hlt.media.mit.edu/?feed=rss2
 http://hwkitchen.com/rss/pf-all.xml
 http://iloapp.baeyens.it/blog/blog?RSS
 http://indiantinker.wordpress.com/feed/
+http://infar.be/index.php?/feeds/index.rss2
 http://inventionfactory.blogspot.com/feeds/posts/default
 http://jaanus.tech-thing.org/feed/
 http://jeelabs.org/feed/
@@ -313,6 +315,7 @@ http://www.jaycollett.com/feed/
 http://www.jeremyblum.com/feed/
 http://www.jimhung.co.uk/?feed=rss2&amp;cat=21
 http://www.johngineer.com/blog/?feed=rss2
+http://www.kevindarrah.com/?feed=rss2
 http://www.kickstarter.com/projects/988159748/extracore-arduino-compatible/posts.atom
 http://www.kwartzlab.ca/feed/
 http://www.libelium.com/feed/
