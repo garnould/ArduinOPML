@@ -69,6 +69,7 @@
 		<outline text="C i b o M a h t o . c o m" description="" title="C i b o M a h t o . c o m" type="rss" version="RSS" htmlUrl="http://www.cibomahto.com" xmlUrl="http://www.cibomahto.com/feed/"/>
 		<outline text="Catmacey's stuff" description="" title="Catmacey's stuff" type="rss" version="RSS" htmlUrl="http://catmacey.wordpress.com" xmlUrl="http://catmacey.wordpress.com/feed/"/>
 		<outline text="ch00ftech Industries" description="" title="ch00ftech Industries" type="rss" version="RSS" htmlUrl="http://ch00ftech.com" xmlUrl="http://ch00ftech.com/feed/"/>
+		<outline text="Charles Wilkinson" description="" title="Charles Wilkinson" type="rss" version="RSS" htmlUrl="http://charleswilkinson.co.uk" xmlUrl="http://charleswilkinson.co.uk/feed/"/>
 		<outline text="Chip Overclock" description="90% of everything I say is crap. Because 90% of everything is crap." title="Chip Overclock" type="rss" version="RSS" htmlUrl="http://coverclock.blogspot.com/" xmlUrl="http://coverclock.blogspot.com/feeds/posts/default"/>
 		<outline text="Chris Gammell's Analog Life" description="" title="Chris Gammell's Analog Life" type="rss" version="RSS" htmlUrl="http://chrisgammell.com" xmlUrl="http://chrisgammell.com/feed/"/>
 		<outline text="Circuit Lake" description="" title="Circuit Lake" type="rss" version="RSS" htmlUrl="http://www.circuitlake.com" xmlUrl="http://www.circuitlake.com/feed"/>
@@ -127,6 +128,7 @@
 		<outline text="ElektorEmbedded" description="Blog about embedded electronics, new products, product reviews, contests, fun stuff, rants." title="ElektorEmbedded" type="rss" version="RSS" htmlUrl="http://elektorembedded.blogspot.com/" xmlUrl="http://elektorembedded.blogspot.com/feeds/posts/default"/>
 		<outline text="Elektronica Stynus Blog" description="" title="Elektronica Stynus Blog" type="rss" version="RSS" htmlUrl="http://blog.elektronicastynus.be" xmlUrl="http://blog.elektronicastynus.be/feed"/>
 		<outline text="Elektronika.ba" description="" title="Elektronika.ba" type="rss" version="RSS" htmlUrl="http://www.elektronika.ba/" xmlUrl="http://feeds2.feedburner.com/Elektronikaba-en"/>
+		<outline text="ELETTRONICA OPEN SOURCE" description="" title="ELETTRONICA OPEN SOURCE" type="rss" version="RSS" htmlUrl="http://it.emcelettronica.com" xmlUrl="http://feeds.feedburner.com/emcelettronica/it"/>
 		<outline text="Embedded Development on OSX." description="" title="Embedded Development on OSX." type="rss" version="RSS" htmlUrl="http://www.osx-avr.org" xmlUrl="http://www.osx-avr.org/feed/"/>
 		<outline text="Embedded Electrical Engineering Plus" description="" title="Embedded Electrical Engineering Plus" type="rss" version="RSS" htmlUrl="http://embeddedengineer.wordpress.com" xmlUrl="http://embeddedengineer.wordpress.com/feed/"/>
 		<outline text="Embedded Lab" description="" title="Embedded Lab" type="rss" version="RSS" htmlUrl="http://embedded-lab.com/blog" xmlUrl="http://embedded-lab.com/blog/?feed=rss2"/>
@@ -343,6 +345,7 @@
 		<outline text="The Memoirs of Jim 'ung » Hacks" description="" title="The Memoirs of Jim 'ung » Hacks" type="rss" version="RSS" htmlUrl="http://www.jimhung.co.uk" xmlUrl="http://www.jimhung.co.uk/?feed=rss2&amp;cat=21"/>
 		<outline text="The Mind of Bill Porter" description="" title="The Mind of Bill Porter" type="rss" version="RSS" htmlUrl="http://www.billporter.info" xmlUrl="http://www.billporter.info/feed/"/>
 		<outline text="The Rantings of a Techno-Mage" description="" title="The Rantings of a Techno-Mage" type="rss" version="RSS" htmlUrl="http://thefallenindustries.wordpress.com" xmlUrl="http://thefallenindustries.wordpress.com/feed/"/>
+		<outline text="The Resistor Network" description="This blog is a place for me to share my projects with the world. I am very interested in the field of electronics design and software development. I am interested in many aspects of technology including embedded software development, dynamic web applications and electronics design." title="The Resistor Network" type="rss" version="RSS" htmlUrl="http://www.theresistornetwork.com/" xmlUrl="http://www.theresistornetwork.com/feeds/posts/default"/>
 		<outline text="The Smell of Molten Projects in the Morning" description="" title="The Smell of Molten Projects in the Morning" type="rss" version="RSS" htmlUrl="http://softsolder.com" xmlUrl="http://softsolder.com/feed/"/>
 		<outline text="The Transistor" description="" title="The Transistor" type="rss" version="RSS" htmlUrl="http://thetransistor.com" xmlUrl="http://thetransistor.com/feed/"/>
 		<outline text="Thingiverse Blog" description="" title="Thingiverse Blog" type="rss" version="RSS" htmlUrl="http://www.makerbot.com" xmlUrl="http://blog.thingiverse.com/feed/"/>

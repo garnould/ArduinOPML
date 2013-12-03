@@ -59,6 +59,7 @@ http://brohogan.blogspot.com/feeds/posts/default
 http://cargocollective.com/rss/vivianlo
 http://catmacey.wordpress.com/feed/
 http://ch00ftech.com/feed/
+http://charleswilkinson.co.uk/feed/
 http://charliex2.wordpress.com/feed/
 http://chrisgammell.com/feed/
 http://circuitfun.wordpress.com/feed/
@@ -104,6 +105,7 @@ http://feeds.feedburner.com/TheLifeOfKenneth
 http://feeds.feedburner.com/danielsandrade
 http://feeds.feedburner.com/digital-diy-rss
 http://feeds.feedburner.com/digitalmeblog
+http://feeds.feedburner.com/emcelettronica/it
 http://feeds.feedburner.com/hacknmod/qjUG
 http://feeds.feedburner.com/micro-electronics
 http://feeds.feedburner.com/openschemes
@@ -361,6 +363,7 @@ http://www.theamphour.com/feed/
 http://www.theinebriator.com/feed/
 http://www.thekanes.org/index.php/feed/
 http://www.themagpi.com/feed/
+http://www.theresistornetwork.com/feeds/posts/default
 http://www.tigoe.net/pcomp/code/feed/
 http://www.tigoe.net/pcomp/code/feed/atom/
 http://www.toddfun.com/feed/
