@@ -73,6 +73,7 @@ http://dammitcoetzee.com/feed/
 http://dangerousprototypes.com/feed/
 http://danstrother.com/feed/
 http://dashroom66.org/feed/
+http://davidegironi.blogspot.com/feeds/posts/default
 http://debugmo.de/feed/
 http://denishennessy.com/atom.xml
 http://digistump.com/news/feed
@@ -189,6 +190,7 @@ http://pcbheaven.com/rss/rss.xml
 http://peltierfridge.wordpress.com/feed/
 http://piclock.wordpress.com/feed/
 http://picnote.blogspot.com/feeds/posts/default
+http://pinocc.io/blog/feed/
 http://pleasantsoftware.com/developer/3d/feed/
 http://pmonta.com/blog/feed/
 http://pro.a5d.biz/feed/
@@ -321,6 +323,7 @@ http://www.kevindarrah.com/?feed=rss2
 http://www.kickstarter.com/projects/988159748/extracore-arduino-compatible/posts.atom
 http://www.kwartzlab.ca/feed/
 http://www.libelium.com/feed/
+http://www.limpkin.fr/index.php?feed/atom
 http://www.makehackvoid.com/rss.xml
 http://www.makerbot.com/blog/feed/
 http://www.microbuilder.eu/Blog.rss.ashx
