@@ -74,6 +74,7 @@ http://dangerousprototypes.com/feed/
 http://danstrother.com/feed/
 http://dashroom66.org/feed/
 http://davidegironi.blogspot.com/feeds/posts/default
+http://dbynoe.blogspot.com/feeds/posts/default
 http://debugmo.de/feed/
 http://denishennessy.com/atom.xml
 http://digistump.com/news/feed
@@ -116,6 +117,7 @@ http://feeds2.feedburner.com/Elektronikaba-en
 http://feeds2.feedburner.com/chome
 http://feilipu.posterous.com/rss.xml
 http://fourwalledcubicle.com/blog/feed/
+http://fowkc.wordpress.com/feed/
 http://friedcircuits.us/docs/feed/
 http://fritzing.org/news/feeds/rss/
 http://funwitharduino.blogspot.com/feeds/posts/default
@@ -257,6 +259,7 @@ http://wtfmoogle.com/?feed=rss2
 http://www.3ders.org/rss.xml
 http://www.43oh.com/feed/
 http://www.adafruit.com/blog/feed/
+http://www.aerodynes.fr/feed/
 http://www.alivingarchitecture.com/feed/
 http://www.alkannoide.com/feed/
 http://www.allaboutopenhardware.com/feed/
@@ -330,6 +333,7 @@ http://www.microbuilder.eu/Blog.rss.ashx
 http://www.microsyl.com/index.php/feed/
 http://www.mighty-prototype.com/wordpress/?feed=rss2
 http://www.mkroll.mobi/?feed=rss2
+http://www.mobilewill.us/feeds/posts/default
 http://www.musheen.com/feed
 http://www.nerdybynature.com/feed/
 http://www.neufeld.newton.ks.us/electronics/?feed=rss2
@@ -356,6 +360,7 @@ http://www.scienceprog.com/feed/
 http://www.seeedstudio.com/blog/feed/
 http://www.semageek.com/feed/
 http://www.siliconfarmers.com/syndication.axd?format=rss
+http://www.slickstreamer.info/feeds/posts/default
 http://www.solarbotics.com/news/feed/
 http://www.spikenzielabs.com/blog/?feed=rss2
 http://www.sqlskills.com/blogs/paulselec/syndication.axd?format=rss
