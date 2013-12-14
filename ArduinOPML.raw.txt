@@ -1,5 +1,6 @@
 http://3dhomemade.blogspot.com/feeds/posts/default
 http://3namebasis.blogspot.com/feeds/posts/default
+http://43oh.com/feed/
 http://aaroneiche.com/feed/
 http://abigmagnet.blogspot.com/feeds/posts/default
 http://alpaph.free.fr/feed.php?rss
@@ -35,6 +36,7 @@ http://blog.datasingularity.com/?feed=rss2
 http://blog.elektronicastynus.be/feed
 http://blog.erikdebruijn.nl/feeds/index.rss2
 http://blog.flytron.com/feed
+http://blog.fsck.com/atom.xml
 http://blog.kehribar.me/?feed=rss2
 http://blog.moderndevice.com/feed/
 http://blog.mruby.sh/rss.xml
@@ -51,11 +53,13 @@ http://blog.stevemarple.co.uk/feeds/posts/default
 http://blog.thingiverse.com/feed/
 http://blog.thiseldo.co.uk/?feed=rss2
 http://blog.whattomake.co.kr/rss
+http://blog.zakkemble.co.uk/feed/
 http://blogs.fsfe.org/clemens/feed/
 http://botbench.com/blog/feed/
 http://bradsduino.blogspot.com/feeds/posts/default
 http://braincraft.com/rss
 http://brohogan.blogspot.com/feeds/posts/default
+http://burnt-traces.com/?feed=rss2
 http://cargocollective.com/rss/vivianlo
 http://catmacey.wordpress.com/feed/
 http://ch00ftech.com/feed/
@@ -121,6 +125,7 @@ http://fowkc.wordpress.com/feed/
 http://friedcircuits.us/docs/feed/
 http://fritzing.org/news/feeds/rss/
 http://funwitharduino.blogspot.com/feeds/posts/default
+http://geotechbd.blogspot.com/feeds/posts/default
 http://gerrysweeney.com/feed/
 http://gonium.net/md/feed/
 http://groovuino.blogspot.com/feeds/posts/default
@@ -129,6 +134,7 @@ http://hackaweek.com/hacks/?feed=rss2
 http://hackedfrompieces.wordpress.com/feed/
 http://hackedgadgets.com/feed/
 http://hacknmod.com/feed/
+http://haxlr8r.com/blog/feed.rss
 http://hcgilje.wordpress.com/feed/
 http://hlt.media.mit.edu/?feed=rss2
 http://hwkitchen.com/rss/pf-all.xml
@@ -211,11 +217,14 @@ http://rucalgary.hackhut.com/feed/
 http://runawaybrainz.blogspot.com/feeds/posts/default
 http://rusticengineering.com/feed/
 http://ryanjmclaughlin.com/blog/feed/
+http://samelimmat.blogspot.com/feeds/posts/default
+http://sc-fa.com/blog/feed/
 http://scanlime.org/feed/
 http://sebastiannilsson.com/en/feed/
 http://sensorapp.net/?feed=rss2
 http://sigalrm.blogspot.com/feeds/posts/default
 http://skyduino.wordpress.com/feed/
+http://smokedprojects.blogspot.com/feeds/posts/default
 http://softsolder.com/feed/
 http://solar-blogg.blogspot.com/feeds/posts/default
 http://soldercore.com/feed/
@@ -257,7 +266,6 @@ http://vpapanik.blogspot.com/feeds/posts/default
 http://wsnblog.com/feed/
 http://wtfmoogle.com/?feed=rss2
 http://www.3ders.org/rss.xml
-http://www.43oh.com/feed/
 http://www.adafruit.com/blog/feed/
 http://www.aerodynes.fr/feed/
 http://www.alivingarchitecture.com/feed/
@@ -287,6 +295,7 @@ http://www.coolcircuit.com/gadgets/feed/atom/
 http://www.damonkohler.com/feeds/posts/default
 http://www.dannyboy.se/blog/?feed=rss
 http://www.deepdarc.com/category/electronics/feed/atom/
+http://www.devttys0.com/feed/
 http://www.doctormonk.com/feeds/posts/default
 http://www.eevblog.com/feed/
 http://www.eeweb.com/extreme_circuits
@@ -308,6 +317,7 @@ http://www.freaklabs.org/index.php/rss-feed/Blog-News/
 http://www.freetronics.com/blogs/news.atom
 http://www.galileo-7.com/?mode=rss
 http://www.glacialwanderer.com/hobbyrobotics/?feed=rss2
+http://www.grandideastudio.com/feed/atom/
 http://www.gsm-modem.de/M2M/feed/
 http://www.hessmer.org/blog/feed/
 http://www.ikalogic.com/feed/
@@ -355,7 +365,6 @@ http://www.righto.com/feeds/posts/default
 http://www.rjones3.net/feed/
 http://www.robovergne.com/fr/feed/
 http://www.sainsmart.com/blog/rss/index/store_id/1/
-http://www.sc-fa.com/blog/feed/
 http://www.scienceprog.com/feed/
 http://www.seeedstudio.com/blog/feed/
 http://www.semageek.com/feed/
@@ -375,6 +384,7 @@ http://www.theresistornetwork.com/feeds/posts/default
 http://www.tigoe.net/pcomp/code/feed/
 http://www.tigoe.net/pcomp/code/feed/atom/
 http://www.toddfun.com/feed/
+http://www.transfabric.org/feed/
 http://www.uchobby.com/index.php/feed/
 http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom
 http://www.wayneandlayne.com/feed/
