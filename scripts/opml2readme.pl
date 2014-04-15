@@ -19,7 +19,7 @@ while (my $line = <OPML>)
     $line =~ s/^\s+//g ;
     $line =~ s/[\s\n\r]+$//g ;
 
-    if ($line =~ /^<outline/)
+    if ($line =~ /^<outline.*Url/)
     {
 	my $text = ($line =~ /text="([^"]*)"/)[0] ;
 	my $description = ($line =~ /description="([^"]*)"/)[0] ;
