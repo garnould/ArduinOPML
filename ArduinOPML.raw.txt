@@ -5,6 +5,7 @@ http://4ms.org/?feed=rss2
 http://aaroneiche.com/feed/
 http://abigmagnet.blogspot.com/feeds/posts/default
 http://addohms.com/blog?format=rss
+http://alicedownthecoffeepot.wordpress.com/feed/
 http://alpaph.free.fr/feed.php?rss
 http://andrewmemory.wordpress.com/feed/
 http://andybrown.me.uk/wk/feed/
@@ -185,6 +186,7 @@ http://ludzinc.blogspot.com/feeds/posts/default
 http://macetech.com/blog/rss.xml
 http://magicsmoke.downingterrazas.com/feed/
 http://majolsurf.net/wordpress/?feed=rss2
+http://makerflux.com/feed/
 http://maniacalbits.blogspot.com/feeds/posts/default
 http://maniacbug.wordpress.com/feed/
 http://marioboehmer.blogspot.com/feeds/posts/default
@@ -194,6 +196,7 @@ http://mekonik.wordpress.com/feed/
 http://mercenarymind.com/arduino?format=feed&amp;type=rss
 http://mercenarymind.com/index.php?format=feed&amp;type=rss
 http://micah.navi.cx/feed/
+http://michaelteeuw.nl/rss
 http://microtransat.wordpress.com/feed/
 http://mightyohm.com/blog/feed/
 http://mike-ibioloid.blogspot.com/feeds/posts/default
@@ -207,6 +210,7 @@ http://noahfarrington.wordpress.com/feed/
 http://nocubedesigns.com/?feed=rss2
 http://noiseislife.tumblr.com/rss
 http://nootropicdesign.com/projectlab/feed/
+http://nothinglabs.blogspot.com/feeds/posts/default
 http://numato.cc/rss.xml
 http://nut-bolt.nl/feed/
 http://nutsandboltsandflyingsparks.blogspot.com/feeds/posts/default
@@ -263,6 +267,7 @@ http://starfiretech.wordpress.com/feed/
 http://store.curiousinventor.com/blog/rss
 http://stupidhax.blogspot.com/feeds/posts/default
 http://suddendevelopment.com/?feed=rss2
+http://sunbizhosting.co.uk/~spiral/blog/?feed=rss2
 http://superflux.in/newsfeed
 http://sustburbia.blogspot.com/feeds/posts/default
 http://tallerarduino.com/feed/
@@ -296,6 +301,7 @@ http://tronixstuff.com/feed/
 http://tropicarduino.blogspot.com/feeds/posts/default
 http://tsjwang.blogspot.com/feeds/posts/default
 http://ukhaad.in/entries.atom
+http://unsigned.io/?feed=rss2
 http://veys.com/feed/
 http://vidaarduina.blogspot.com/feeds/posts/default
 http://villekl.blogspot.com/feeds/posts/default
@@ -392,6 +398,7 @@ http://www.janspace.com/b2evolution/arduino.php?tempskin=_rss2
 http://www.jave.de/blog2/?feed=rss2
 http://www.jaycollett.com/feed/
 http://www.jeremyblum.com/feed/
+http://www.jhongelectronics.org/feeds/posts/default
 http://www.jimhung.co.uk/?feed=rss2
 http://www.jimhung.co.uk/?feed=rss2&amp;cat=21
 http://www.johngineer.com/blog/?feed=rss2
@@ -405,11 +412,13 @@ http://www.limpkin.fr/index.php?feed/atom
 http://www.makehackvoid.com/feed.xml
 http://www.microbuilder.eu/Blog.rss.ashx
 http://www.microsyl.com/index.php/feed/
+http://www.mictronics.de/feed/
 http://www.mike-stirling.com/feed/
 http://www.mkroll.mobi/?feed=rss2
 http://www.mobilewill.us/feeds/posts/default
 http://www.musheen.com/feed
 http://www.mycontraption.com/feed/
+http://www.n1ir.com/feeds/posts/default
 http://www.nanode.eu/feed/
 http://www.nerdybynature.com/feed/
 http://www.neufeld.newton.ks.us/electronics/?feed=rss2
