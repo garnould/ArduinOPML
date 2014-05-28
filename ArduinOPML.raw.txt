@@ -9,6 +9,7 @@ http://alicedownthecoffeepot.wordpress.com/feed/
 http://alpaph.free.fr/feed.php?rss
 http://andrewmemory.wordpress.com/feed/
 http://andybrown.me.uk/wk/feed/
+http://andybrown.me.uk/wk/feed/atom/
 http://antedoro.blogspot.com/feeds/posts/default
 http://antipastohw.blogspot.com/feeds/posts/default
 http://appsforarduino.com/blog/feed/
@@ -21,8 +22,8 @@ http://arduino103.blogspot.com/feeds/posts/default
 http://arduinoarts.com/feed/
 http://arduinoblog11.blogspot.com/feeds/posts/default
 http://arduinodev.com/feed/
+http://arduinoespresso.blogspot.com/feeds/posts/default
 http://arduinofun.blogspot.com/feeds/posts/default
-http://arduinoprojects.com/rss.xml
 http://arduinotronics.blogspot.com/feeds/posts/default
 http://arduitter.blogspot.com/feeds/posts/default
 http://arduous.orcinus.me/feed/
@@ -32,7 +33,6 @@ http://balau82.wordpress.com/feed/
 http://basbrun.com/feed/
 http://benbojanglesosd.blogspot.com/feeds/posts/default
 http://benkrasnow.blogspot.com/feeds/posts/default
-http://bildr.org/feed/
 http://bithead942.wordpress.com/feed/
 http://bitknitting.wordpress.com/feed/
 http://bleaklow.com/rss.xml
@@ -68,6 +68,7 @@ http://blogs.fsfe.org/clemens/feed/
 http://botbench.com/blog/feed/
 http://bradsduino.blogspot.com/feeds/posts/default
 http://brettbeauregard.com/blog/feed/
+http://briandorey.com/syndication.axd?format=atom
 http://brohogan.blogspot.com/feeds/posts/default
 http://burnt-traces.com/?feed=rss2
 http://carlosgs.es/rss.xml
@@ -135,6 +136,7 @@ http://feeds2.feedburner.com/chome
 http://fourwalledcubicle.com/blog/feed/
 http://fowkc.wordpress.com/feed/
 http://friedcircuits.us/docs/feed/
+http://frugaltinker.com/feed/
 http://funwitharduino.blogspot.com/feeds/posts/default
 http://geotechbd.blogspot.com/feeds/posts/default
 http://gerrysweeney.com/feed/
@@ -181,6 +183,7 @@ http://leighdaviesofficial.co.uk/blog/feed/
 http://leoricksimon.blogspot.com/feeds/posts/default
 http://liudr.wordpress.com/feed/
 http://longhornengineer.com/feed/
+http://loolee.org/wp/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php
 http://lowpowerlab.com/feed/
 http://ludzinc.blogspot.com/feeds/posts/default
 http://macetech.com/blog/rss.xml
@@ -203,6 +206,7 @@ http://mike-ibioloid.blogspot.com/feeds/posts/default
 http://monpjc.blogspot.com/feeds/posts/default
 http://mrmodemhead.com/blog/feed/
 http://mutable-instruments.net/feed/
+http://nathan.chantrell.net/feed/
 http://neophob.com/feed/
 http://nerdralph.blogspot.com/feeds/posts/default
 http://nextgenlog.blogspot.com/feeds/posts/default
@@ -223,6 +227,7 @@ http://ourduino.wordpress.com/feed/
 http://parkyjimbo.blogspot.com/feeds/posts/default
 http://pcbheaven.com/rss/rss.xml
 http://peltierfridge.wordpress.com/feed/
+http://pfalcon-oe.blogspot.com/feeds/posts/default
 http://piclock.wordpress.com/feed/
 http://picnote.blogspot.com/feeds/posts/default
 http://pleasantsoftware.com/developer/3d/feed/
@@ -310,6 +315,7 @@ http://voodoomanmiracle.com/wp/?feed=rss2
 http://vpapanik.blogspot.com/feeds/posts/default
 http://winavr.scienceprog.com/rss.xml
 http://wordpress.codewrite.co.uk/pic/feed/
+http://wp.josh.com/feed/
 http://wsnblog.com/feed/
 http://www.adafruit.com/blog/feed/
 http://www.aerodynes.fr/feed/
@@ -318,7 +324,6 @@ http://www.alivingarchitecture.com/feed/
 http://www.alkannoide.com/feed/
 http://www.alpaph.fr/blog/feed.php?rss
 http://www.arachnidlabs.com/atom.xml
-http://www.arduinoprojects.com/rss.xml
 http://www.arduteka.com/feed/
 http://www.avrfreaks.net/backend.php
 http://www.avrfreaks.net/index.php?module=FreaksFeed&amp;func=view&amp;item_module=FreaksAcademy&amp;item_type=project&amp;item_id=*
@@ -428,6 +433,7 @@ http://www.nutsvolts.com/blog/atom/
 http://www.nycresistor.com/feed/
 http://www.ooeygui.com/?feed=rss2
 http://www.open-electronics.org/feed/
+http://www.openmote.com/feed/
 http://www.ospid.com/blog/feed/
 http://www.osx-avr.org/feed/
 http://www.over-engineered.com/feed/
@@ -473,6 +479,7 @@ http://zeptobars.ru/en/rss
 https://atmelcorporation.wordpress.com/feed/
 https://github.com/arduino/Arduino/commits/master.atom
 https://github.com/queezythegreat/arduino-cmake/commits/master.atom
+https://hivesense.wordpress.com/feed/
 https://pinocc.io/blog/feed/
 https://sites.google.com/site/dbtayl/blog/posts.xml
 https://tiny-circuits.com/feed/
