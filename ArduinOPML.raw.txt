@@ -36,14 +36,17 @@ http://benkrasnow.blogspot.com/feeds/posts/default
 http://bithead942.wordpress.com/feed/
 http://bitknitting.wordpress.com/feed/
 http://bleaklow.com/rss.xml
+http://blog.abodit.com/feed/atom/
 http://blog.arduino.cc/feed/
 http://blog.aztronics.com/?feed=rss2
+http://blog.bacpluszero.com/feeds/posts/default
 http://blog.circuithub.com/feeds/posts/default
 http://blog.datasingularity.com/?feed=rss2
 http://blog.elektronicastynus.be/feed
 http://blog.erikdebruijn.nl/feeds/index.rss2
 http://blog.flytron.com/feed
 http://blog.fsck.com/atom.xml
+http://blog.grunick.com/feed/
 http://blog.homelabs.org.uk/feed/
 http://blog.kehribar.me/?feed=rss2
 http://blog.kytelabs.com/?feed=rss2
@@ -100,6 +103,7 @@ http://denishennessy.com/atom.xml
 http://digistump.com/news/feed
 http://diy.viktak.com/feeds/posts/default
 http://diyautolab.blogspot.com/feeds/posts/default
+http://diydrones.com/profiles/blog/feed?xn_auth=no
 http://diyhacksandhowtos.blogspot.com/feeds/posts/default
 http://diytronics.blogspot.com/feeds/posts/default
 http://dorkbotpdx.org/rss.xml
@@ -107,6 +111,7 @@ http://eclecti.cc/feed
 http://elco.crsndoo.com/wordpress/feed/
 http://eleccelerator.com/feed/
 http://elecrom.wordpress.com/feed/
+http://electronichamsters.wordpress.com/feed/
 http://electronicsdeli.wordpress.com/feed/
 http://electroprojects.wordpress.com/feed/
 http://elektorembedded.blogspot.com/feeds/posts/default
@@ -119,6 +124,7 @@ http://extremeelectronics.co.in/feed/
 http://fakeeequips.wordpress.com/feed/
 http://false.ekta.is/feed/
 http://feed.wiring.co/rss
+http://feeds.feedburner.com/Cerebralmeltdown
 http://feeds.feedburner.com/Circuit-Projects-RSS-Feed
 http://feeds.feedburner.com/CuriousInventor_Blog
 http://feeds.feedburner.com/DubiousHacks
@@ -154,6 +160,7 @@ http://hacknmod.com/feed/
 http://harizanov.com/feed/
 http://haxlr8r.com/blog/feed.rss
 http://hcgilje.wordpress.com/feed/
+http://heliosoph.mit-links.info/feed/
 http://hertaville.com/feed/
 http://hlt.media.mit.edu/?feed=rss2
 http://hwkitchen.com/rss/pf-all.xml
@@ -161,8 +168,10 @@ http://iloapp.baeyens.it/blog/blog?RSS
 http://indiantinker.wordpress.com/feed/
 http://infar.be/index.php?/feeds/index.rss2
 http://inventionfactory.blogspot.com/feeds/posts/default
+http://itsprojectday.wordpress.com/feed/
 http://jaanus.tech-thing.org/feed/
 http://jamiepricecreative.com/feed/
+http://jarjartee.wordpress.com/feed/
 http://jayakody2000lk.blogspot.com/feeds/posts/default
 http://jeelabs.org/feed/
 http://jeremyblum.com/feed/
@@ -194,6 +203,7 @@ http://macetech.com/blog/rss.xml
 http://magicsmoke.downingterrazas.com/feed/
 http://majolsurf.net/wordpress/?feed=rss2
 http://makerflux.com/feed/
+http://malfunction.faed.name/feeds/posts/default
 http://maniacalbits.blogspot.com/feeds/posts/default
 http://maniacbug.wordpress.com/feed/
 http://marioboehmer.blogspot.com/feeds/posts/default
@@ -209,7 +219,9 @@ http://mightyohm.com/blog/feed/
 http://mike-ibioloid.blogspot.com/feeds/posts/default
 http://monpjc.blogspot.com/feeds/posts/default
 http://mrmodemhead.com/blog/feed/
+http://murchlabs.com/feed/
 http://mutable-instruments.net/feed/
+http://myrobotnstuff.blogspot.com/feeds/posts/default
 http://nathan.chantrell.net/feed/
 http://neophob.com/feed/
 http://nerdralph.blogspot.com/feeds/posts/default
@@ -225,11 +237,14 @@ http://nutsandboltsandflyingsparks.blogspot.com/feeds/posts/default
 http://octopart.com/blog/rss
 http://odgregg.wordpress.com/feed/
 http://olimex.wordpress.com/feed/
+http://oneweekwonder.blogspot.com/feeds/posts/default
 http://openenergymonitor.blogspot.com/feeds/posts/default
 http://ossmann.blogspot.com/feeds/posts/default
+http://othermachine.co/blog/feed.xml
 http://ourduino.wordpress.com/feed/
 http://oxfloodnet.co.uk/rss
 http://parkyjimbo.blogspot.com/feeds/posts/default
+http://pauhanafun.blogspot.com/feeds/posts/default
 http://pcbheaven.com/rss/rss.xml
 http://peltierfridge.wordpress.com/feed/
 http://pfalcon-oe.blogspot.com/feeds/posts/default
@@ -251,6 +266,7 @@ http://retromaster.wordpress.com/feed/
 http://revoltlab.com/feed/
 http://robotgrrl.com/blog/feed/
 http://rodyne.com/?feed=rss2
+http://romillys-robots.blogspot.com/feeds/posts/default
 http://rsangole.wordpress.com/feed/
 http://rucalgary.hackhut.com/feed/
 http://runawaybrainz.blogspot.com/feeds/posts/default
@@ -263,6 +279,7 @@ http://schmenk.is-a-geek.com/wordpress/?feed=rss2
 http://sebastiannilsson.com/en/feed/
 http://sebastiannilsson.com/feed/
 http://sensorapp.net/?feed=rss2
+http://shrimping.it/blog/feed/
 http://sigalrm.blogspot.com/feeds/posts/default
 http://skpang.co.uk/blog/feed
 http://skyduino.wordpress.com/feed/
@@ -317,9 +334,11 @@ http://unsigned.io/?feed=rss2
 http://veys.com/feed/
 http://vidaarduina.blogspot.com/feeds/posts/default
 http://villekl.blogspot.com/feeds/posts/default
+http://voltaicsystems.com/blog/feed/
 http://vonkonow.com/wordpress/feed/
 http://voodoomanmiracle.com/wp/?feed=rss2
 http://vpapanik.blogspot.com/feeds/posts/default
+http://wemakethings.net/atom.xml
 http://winavr.scienceprog.com/rss.xml
 http://wordpress.codewrite.co.uk/pic/feed/
 http://wp.josh.com/feed/
@@ -347,6 +366,7 @@ http://www.bot-thoughts.com/feeds/posts/default
 http://www.botanicalls.com/feed/
 http://www.brainsilo.org/feed/
 http://www.breakcontinue.com/feeds/posts/default
+http://www.brewpi.com/feed/
 http://www.brokentoaster.com/blog/?feed=rss2
 http://www.buildlounge.com/feed/
 http://www.bunniestudios.com/blog/?feed=rss2
@@ -355,12 +375,14 @@ http://www.cheapscience.com/feed
 http://www.cheapvegetablegardener.com/feed/
 http://www.chipworks.com/en?format=feed&amp;amp;type=rss
 http://www.chipworks.com/en?format=feed&amp;type=atom
+http://www.chrisfenton.com/feed/
 http://www.cibomahto.com/feed/
 http://www.circuitlake.com/feed
 http://www.circuitsathome.com/feed
 http://www.citizenwatt.paris/feed/
 http://www.citoyenscapteurs.net/feed/
 http://www.cooking-hacks.com/blog/feed
+http://www.cowfishstudios.com/blog/feed
 http://www.damonkohler.com/feeds/posts/default
 http://www.dannyboy.se/blog/?feed=rss
 http://www.deepdarc.com/category/electronics/feed/atom/
@@ -380,10 +402,12 @@ http://www.eleccircuit.com/feed/
 http://www.elecfreaks.com/feed
 http://www.elecrow.com/blog/feed/
 http://www.electrobob.com/feed/
+http://www.electronicecircuits.com/feed
 http://www.electronics-lab.com/blog/?feed=rss2
 http://www.electronicsblog.net/feed/
 http://www.electroons.com/blog/feed/
 http://www.elektor-labs.com/rss.xml
+http://www.embedded-creations.com/blog?format=RSS
 http://www.embedds.com/feed/
 http://www.engblaze.com/feed/
 http://www.engscope.com/feed/
@@ -424,6 +448,7 @@ http://www.lamja.com/?feed=rss2
 http://www.layerone.org/feed/
 http://www.libelium.com/feed/
 http://www.limpkin.fr/index.php?feed/atom
+http://www.m9design.co/feed/
 http://www.makehackvoid.com/feed.xml
 http://www.microbuilder.eu/Blog.rss.ashx
 http://www.microsyl.com/index.php/feed/
@@ -449,6 +474,7 @@ http://www.ospid.com/blog/feed/
 http://www.osx-avr.org/feed/
 http://www.over-engineered.com/feed/
 http://www.parallella.org/feed/
+http://www.plaindsp.com/feed/
 http://www.plastibots.com/index.php/feed/
 http://www.pololu.com/rss/new_products
 http://www.portalmcu.com.br/feeds/posts/default
@@ -459,6 +485,7 @@ http://www.richardosgood.com/blog/feed/
 http://www.righto.com/feeds/posts/default
 http://www.rjones3.net/feed/
 http://www.robovergne.com/fr/feed/
+http://www.rocketscream.com/blog/feed/
 http://www.sainsmart.com/blog/rss/index/store_id/1/
 http://www.scienceprog.com/feed/
 http://www.seeedstudio.com/blog/feed/
@@ -482,10 +509,13 @@ http://www.tigoe.net/pcomp/code/feed/atom/
 http://www.toddfun.com/feed/
 http://www.tolaemon.com/blog/index.php/feed/
 http://www.transfabric.org/feed/
+http://www.treviso-aug.it/feed/atom/
 http://www.uchobby.com/index.php/feed/
 http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom
+http://www.walltech.cc/feed/
 http://www.wayneandlayne.com/feed/
 http://www.wsnbuzz.com/?feed=rss2
+http://www.xevel.fr/blog/index.php?feed/atom
 http://www.youritronics.com/feed/
 http://zeptobars.ru/en/rss
 https://atmelcorporation.wordpress.com/feed/
