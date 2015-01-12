@@ -243,6 +243,7 @@ http://ossmann.blogspot.com/feeds/posts/default
 http://othermachine.co/blog/feed.xml
 http://ourduino.wordpress.com/feed/
 http://oxfloodnet.co.uk/rss
+http://ozzmaker.com/feed/
 http://parkyjimbo.blogspot.com/feeds/posts/default
 http://pauhanafun.blogspot.com/feeds/posts/default
 http://pcbheaven.com/rss/rss.xml
@@ -267,6 +268,7 @@ http://revoltlab.com/feed/
 http://robotgrrl.com/blog/feed/
 http://rodyne.com/?feed=rss2
 http://romillys-robots.blogspot.com/feeds/posts/default
+http://rosinsmoke.wordpress.com/feed/
 http://rsangole.wordpress.com/feed/
 http://rucalgary.hackhut.com/feed/
 http://runawaybrainz.blogspot.com/feeds/posts/default
@@ -282,6 +284,7 @@ http://sensorapp.net/?feed=rss2
 http://shrimping.it/blog/feed/
 http://sigalrm.blogspot.com/feeds/posts/default
 http://skpang.co.uk/blog/feed
+http://sky-labs.co.uk/feed/
 http://skyduino.wordpress.com/feed/
 http://smokedprojects.blogspot.com/feeds/posts/default
 http://softsolder.com/feed/
@@ -290,6 +293,7 @@ http://solar-trap.com/?feed=rss2
 http://solarbotics.com/news/feed/
 http://soldercore.com/feed/
 http://soldering-irony.blogspot.com/feeds/posts/default
+http://soldernerd.com/feed/
 http://spritesmods.com/rss.php
 http://starfiretech.wordpress.com/feed/
 http://store.curiousinventor.com/blog/rss
@@ -383,10 +387,12 @@ http://www.citizenwatt.paris/feed/
 http://www.citoyenscapteurs.net/feed/
 http://www.cooking-hacks.com/blog/feed
 http://www.cowfishstudios.com/blog/feed
+http://www.cupidcontrols.com/feed/
 http://www.damonkohler.com/feeds/posts/default
 http://www.dannyboy.se/blog/?feed=rss
 http://www.deepdarc.com/category/electronics/feed/atom/
 http://www.devttys0.com/feed/
+http://www.dgkelectronics.com/feed/
 http://www.dharmanitech.com/feeds/posts/default
 http://www.doctormonk.com/feeds/posts/default
 http://www.edn.com/rss/design/diy
@@ -527,6 +533,7 @@ https://hivesense.wordpress.com/feed/
 https://pinocc.io/blog/feed/
 https://sites.google.com/site/dbtayl/blog/posts.xml
 https://tiny-circuits.com/feed/
+https://www.huuf.info/feed/
 https://www.kickstarter.com/projects/988159748/extracore-arduino-compatible/posts.atom
 https://www.sparkfun.com/feeds/news
 https://www.synthetos.com/feed/
