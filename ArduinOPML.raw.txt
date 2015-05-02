@@ -91,6 +91,7 @@ http://coolarduino.wordpress.com/feed/
 http://cosa-arduino.blogspot.com/feeds/posts/default
 http://coverclock.blogspot.com/feeds/posts/default
 http://cpldcpu.wordpress.com/feed/
+http://culturemaker.fr/feed/
 http://cybertronics.blogspot.com/feeds/posts/default
 http://daisyhill.net/steve/feed/
 http://dammitcoetzee.com/feed/

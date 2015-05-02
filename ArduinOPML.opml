@@ -562,6 +562,7 @@
 	<outline text="Zak's Electronics Blog ~*" title="Zak's Electronics Blog ~*" type="rss" version="RSS" htmlUrl="http://blog.zakkemble.co.uk" xmlUrl="http://blog.zakkemble.co.uk/feed/"/>
 	<outline text="ZeptoBars - RSS feed" title="ZeptoBars - RSS feed" type="rss" version="RSS" htmlUrl="http://zeptobars.ru/en/" xmlUrl="http://zeptobars.ru/en/rss"/>
 	<outline text="µ[micro]electronics info" title="µ[micro]electronics info" type="rss" version="RSS" htmlUrl="http://www.uelectronics.info" xmlUrl="http://feeds.feedburner.com/micro-electronics"/>
+	<outline text="My CMS" title="My CMS" type="rss" version="RSS" htmlUrl="http://culturemaker.fr" xmlUrl="http://culturemaker.fr/feed/"/>
 </outline>
 <outline text="Drones" title="Drones">
 	<outline text="Dave Akerman" title="Dave Akerman" type="rss" version="RSS" htmlUrl="http://www.daveakerman.com" xmlUrl="http://www.daveakerman.com/?feed=rss2"/>
