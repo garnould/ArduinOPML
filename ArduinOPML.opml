@@ -351,6 +351,7 @@
 	<outline text="mruby.sh" title="mruby.sh" type="rss" version="RSS" htmlUrl="http://blog.mruby.sh/" xmlUrl="http://blog.mruby.sh/rss.xml"/>
 	<outline text="Mutable Instruments" title="Mutable Instruments" type="rss" version="RSS" htmlUrl="http://mutable-instruments.net" xmlUrl="http://mutable-instruments.net/feed/"/>
 	<outline text="My 2µF" title="My 2µF" type="rss" version="RSS" htmlUrl="http://blog.spitzenpfeil.org/wordpress" xmlUrl="http://blog.spitzenpfeil.org/wordpress/feed/"/>
+	<outline text="My CMS" title="My CMS" type="rss" version="RSS" htmlUrl="http://culturemaker.fr" xmlUrl="http://culturemaker.fr/feed/"/>
 	<outline text="My Contraption" title="My Contraption" type="rss" version="RSS" htmlUrl="http://www.mycontraption.com" xmlUrl="http://www.mycontraption.com/feed/"/>
 	<outline text="My Electronics Hobby" title="My Electronics Hobby" type="rss" version="RSS" htmlUrl="http://leoricksimon.blogspot.com/" xmlUrl="http://leoricksimon.blogspot.com/feeds/posts/default"/>
 	<outline text="My Projects[ ]Electronics" title="My Projects[ ]Electronics" type="rss" version="RSS" htmlUrl="http://www.ianjohnston.com" xmlUrl="http://www.ianjohnston.com/index.php?option=com_content&amp;view=category&amp;id=3&amp;Itemid=8&amp;format=feed&amp;type=atom"/>
@@ -562,7 +563,6 @@
 	<outline text="Zak's Electronics Blog ~*" title="Zak's Electronics Blog ~*" type="rss" version="RSS" htmlUrl="http://blog.zakkemble.co.uk" xmlUrl="http://blog.zakkemble.co.uk/feed/"/>
 	<outline text="ZeptoBars - RSS feed" title="ZeptoBars - RSS feed" type="rss" version="RSS" htmlUrl="http://zeptobars.ru/en/" xmlUrl="http://zeptobars.ru/en/rss"/>
 	<outline text="µ[micro]electronics info" title="µ[micro]electronics info" type="rss" version="RSS" htmlUrl="http://www.uelectronics.info" xmlUrl="http://feeds.feedburner.com/micro-electronics"/>
-	<outline text="My CMS" title="My CMS" type="rss" version="RSS" htmlUrl="http://culturemaker.fr" xmlUrl="http://culturemaker.fr/feed/"/>
 </outline>
 <outline text="Drones" title="Drones">
 	<outline text="Dave Akerman" title="Dave Akerman" type="rss" version="RSS" htmlUrl="http://www.daveakerman.com" xmlUrl="http://www.daveakerman.com/?feed=rss2"/>
@@ -575,6 +575,7 @@
 	<outline text="My Robot and Other Stuff" title="My Robot and Other Stuff" type="rss" version="RSS" htmlUrl="http://myrobotnstuff.blogspot.com/" xmlUrl="http://myrobotnstuff.blogspot.com/feeds/posts/default"/>
 	<outline text="NYC CNC Machining, Fabrication &amp;amp; Prototype Shop - Project Blog" title="NYC CNC Machining, Fabrication &amp;amp; Prototype Shop - Project Blog" type="rss" version="RSS" htmlUrl="http://www.nyccnc.com/wednesday-widget" xmlUrl="http://www.nyccnc.com/2/feed"/>
 	<outline text="tim.jagenberg.info" title="tim.jagenberg.info" type="rss" version="RSS" htmlUrl="http://tim.jagenberg.info" xmlUrl="http://tim.jagenberg.info/feed/"/>
+	<outline text="Maker Faire Paris" title="Maker Faire Paris" type="rss" version="RSS" htmlUrl="http://www.makerfaireparis.com" xmlUrl="http://www.makerfaireparis.com/feed/"/>
 </outline>
 <outline text="Random Bits" title="Random Bits" type="rss" version="RSS" htmlUrl="http://blog.grunick.com" xmlUrl="http://blog.grunick.com/feed/"/>
 <outline text="Stuff to buy" title="Stuff to buy">

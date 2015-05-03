@@ -478,6 +478,7 @@ http://www.libelium.com/feed/
 http://www.limpkin.fr/index.php?feed/atom
 http://www.m9design.co/feed/
 http://www.makehackvoid.com/feed.xml
+http://www.makerfaireparis.com/feed/
 http://www.microbuilder.eu/Blog.rss.ashx
 http://www.microsyl.com/index.php/feed/
 http://www.mictronics.de/feed/
