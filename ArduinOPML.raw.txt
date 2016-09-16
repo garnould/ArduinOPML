@@ -1,5 +1,6 @@
 http://3dhomemade.blogspot.com/feeds/posts/default
 http://3namebasis.blogspot.com/feeds/posts/default
+http://41j.com/blog/feed/
 http://43oh.com/feed/
 http://4ms.org/?feed=rss2
 http://aaroneiche.com/feed/
@@ -533,6 +534,7 @@ https://github.com/arduino/Arduino/commits/master.atom
 https://github.com/queezythegreat/arduino-cmake/commits/master.atom
 https://hivesense.wordpress.com/feed/
 https://ilias.giechaskiel.com/posts/posts.xml
+https://lab.whitequark.org/atom.xml
 https://openhardwarecoza.wordpress.com/feed/
 https://partofthething.com/thoughts/?feed=rss2
 https://pcbsmoke.wordpress.com/feed/
