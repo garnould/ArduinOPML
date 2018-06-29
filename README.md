@@ -8,57 +8,53 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 
 * [‹‹ Stµpid Hax ››](http://stupidhax.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://stupidhax.blogspot.com/feeds/posts/default))*
 * [» feed](http://www.electroons.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.electroons.com/blog/feed/))*
-* [» feed](http://blog.initialstate.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.initialstate.com/feed/))*
-* [[NoahFarrington]'s Intensely Interesting Blog!](https://noahfarrington.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://noahfarrington.wordpress.com/feed/))*
 * [[protofusion]](http://protofusion.org/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://protofusion.org/wordpress/feed/))*
 * [/dev/Jarzębski](http://www.jarzebski.pl?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jarzebski.pl/feed.xml))*
 * [/dev/ttyS0](http://www.devttys0.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.devttys0.com/feed/))*
 * [/home/pierce](http://blog.dylanjpierce.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.dylanjpierce.com/feed.xml))*
-* [＋galileo7＋ Arduinoシールドの輸入・オリジナル製品の販売](http://www.galileo-7.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.galileo-7.com/?mode=rss))*
 * [3 Name Basis](http://3namebasis.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://3namebasis.blogspot.com/feeds/posts/default))*
 * [3D Printer - High Resolution - DIY](http://3dhomemade.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://3dhomemade.blogspot.com/feeds/posts/default))*
 * [4ms Projects](http://4ms.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://4ms.org/?feed=rss2))*
 * [41J Blog](http://41j.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://41j.com/blog/feed/))*
+* [96Boards](https://www.96boards.org/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://www.96boards.org/feed/))*
 * [a5d-project-hub](http://pro.a5d.biz?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://pro.a5d.biz/feed/))*
 * [AaronEiche.com](http://aaroneiche.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://aaroneiche.com/feed/))*
 * [adafruit industries blog](https://blog.adafruit.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.adafruit.com/blog/feed/))*
 * [Adventures of a programmer in embedded electronics](http://mcumix.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mcumix.blogspot.com/feeds/posts/default))*
 * [akafugu.jp English Atom feed](http://www.akafugu.jp/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.akafugu.jp/atom.xml))*
-* [Alan Zucconi](http://www.alanzucconi.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.alanzucconi.com/feed/))*
-* [Alan's Ramblings](http://bleaklow.com:80/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://bleaklow.com/rss.xml))*
+* [Alan Zucconi](https://www.alanzucconi.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.alanzucconi.com/feed/))*
+* [Alan's Ramblings](http://81.149.45.14:80/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://bleaklow.com/rss.xml))*
 * [alicedownthecoffeepot](https://alicedownthecoffeepot.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://alicedownthecoffeepot.wordpress.com/feed/))*
 * [The Amp Hour](https://theamphour.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.theamphour.com/feed/))*
 * [Andrew's Memory Blog](https://andrewmemory.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://andrewmemory.wordpress.com/feed/))*
 * [Andy's Life](http://blog.thiseldo.co.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.thiseldo.co.uk/?feed=rss2))*
+* [AndyFelong.com](https://andyfelong.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://andyfelong.com/feed/))*
 * [Andys Workshop](http://andybrown.me.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://andybrown.me.uk/wk/feed/))*
 * [Andys Workshop](#comments?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://andybrown.me.uk/wk/feed/atom/))*
-* [AntedoroDesigns](http://antedoro.it?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://antedoro.blogspot.com/feeds/posts/default))*
+* [AntedoroDesigns](https://antedoro.it?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://antedoro.blogspot.com/feeds/posts/default))*
 * [Antipasto Hardware Blog](http://antipastohw.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://antipastohw.blogspot.com/feeds/posts/default))*
 * [Arachnid Labs](http://www.arachnidlabs.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.arachnidlabs.com/atom.xml))*
 * [Arduiniana](http://arduiniana.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduiniana.org/feed/))*
 * [Arduino](http://mercenarymind.com/arduino?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mercenarymind.com/arduino?format=feed&amp;type=rss))*
-* [Arduino Arts](http://arduinoarts.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinoarts.com/feed/))*
 * [Arduino based coffee &amp; espresso projects](http://arduinoespresso.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinoespresso.blogspot.com/feeds/posts/default))*
-* [Arduino based underwater sensors](https://edwardmallon.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://edwardmallon.wordpress.com/feed/))*
+* [Arduino based underwater sensors](https://thecavepearlproject.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://edwardmallon.wordpress.com/feed/))*
 * [Arduino Blog](https://blog.arduino.cc?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.arduino.cc/feed/))*
 * [Arduino Blog](http://arduinoblog11.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinoblog11.blogspot.com/feeds/posts/default))*
 * [Arduino blog Feed](http://blog.baeyens.it/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://iloapp.baeyens.it/blog/blog?RSS))*
 * [Arduino Experiences](http://geotechbd.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://geotechbd.blogspot.com/feeds/posts/default))*
 * [Arduino for Beginners](http://arduino-for-beginners.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduino-for-beginners.blogspot.com/feeds/posts/default))*
-* [Arduino Notepad](http://arduino103.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduino103.blogspot.com/feeds/posts/default))*
+* [Arduino Notepad](https://arduino103.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduino103.blogspot.com/feeds/posts/default))*
 * [Arduino Praxis](http://arduino-praxis.ch?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduino-praxis.ch/feed/))*
 * [Arduino Projects](https://murchlabs.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://murchlabs.com/feed/))*
-* [Arduino Tutorials | JeremyBlum.com](http://www.jeremyblum.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jeremyblum.com/feed/))*
+* [Arduino Tutorials | JeremyBlum.com](https://www.jeremyblum.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jeremyblum.com/feed/))*
 * [Arduino X10 Collection](http://brohogan.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://brohogan.blogspot.com/feeds/posts/default))*
 * [Arduino Your Environment](http://arduinotronics.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinotronics.blogspot.com/feeds/posts/default))*
 * [Arduino, Arduino Shields, Arduino Sensors, and Arduino Kits](https://www.hacktronics.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.hacktronics.com/feed/rss.html))*
 * [Arduino, Web, Mobile, Technologies…](https://www.alkannoide.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.alkannoide.com/feed/))*
 * [arduino/Arduino · GitHub](https://github.com/arduino/Arduino/commits/master?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://github.com/arduino/Arduino/commits/master.atom))*
-* [ArduinoExperts: Arduino Developers + Arduino Jobs](http://jobs.arduinoexperts.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jobs.arduinoexperts.com/feed/))*
 * [Arduitter](http://arduitter.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduitter.blogspot.com/feeds/posts/default))*
 * [Asciimation](http://www.asciimation.co.nz/bb?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.asciimation.co.nz/bb/feed/atom))*
-* [Average Man Vs Raspberry Pi](http://www.averagemanvsraspberrypi.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.averagemanvsraspberrypi.com/feed))*
-* [Average Man vs Raspberry Pi - RPi Projects, Python and More](http://www.averagemanvsraspberrypi.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.averagemanvsraspberrypi.com/feeds/posts/default))*
+* [Average Man Vs Raspberry Pi](http://averagemaker.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.averagemanvsraspberrypi.com/feed))*
 * [Avian’s Blog](https://www.tablix.org/~avian/blog/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.tablix.org/~avian/blog/atom.xml))*
 * [Azear's Build-Blog](https://azear.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://azear.wordpress.com/feed/))*
 * [basbrun.com](http://basbrun.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://basbrun.com/feed/))*
@@ -80,36 +76,30 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [bunnie's blog](https://www.bunniestudios.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.bunniestudios.com/blog/?feed=rss2))*
 * [Burnt Traces](http://burnt-traces.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://burnt-traces.com/?feed=rss2))*
 * [Buxtronix](http://www.buxtronix.net/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.buxtronix.net/feeds/posts/default))*
-* [C i b o M a h t o . c o m](http://www.cibomahto.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.cibomahto.com/feed/))*
 * [a c i d b o u r b o n](https://acidbourbon.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://acidbourbon.wordpress.com/feed/))*
-* [Carriots Blog](https://blog.carriots.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://blog.carriots.com/feed/))*
 * [Catmacey's stuff](https://catmacey.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://catmacey.wordpress.com/feed/))*
-* [CerebralMeltdown.com](http://www.cerebralmeltdown.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/Cerebralmeltdown))*
+* [CerebralMeltdown.com](https://www.cerebralmeltdown.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/Cerebralmeltdown))*
 * [ch00ftech Industries](http://ch00ftech.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://ch00ftech.com/feed/))*
 * [Charles Wilkinson](https://charleswilkinson.co.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://charleswilkinson.co.uk/feed/))*
-* [Charles's Blog](http://hallard.me?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://hallard.me/feed/))*
+* [Charles's Blog](https://hallard.me?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://hallard.me/feed/))*
 * [CHEAP SCIENCE](http://www.cheapscience.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.cheapscience.com/feed))*
 * [The Cheap Vegetable Gardener](http://www.cheapvegetablegardener.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.cheapvegetablegardener.com/feed/))*
 * [chibitronics](https://chibitronics.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://chibitronics.com/feed/))*
-* [Chip Overclock](http://coverclock.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://coverclock.blogspot.com/feeds/posts/default))*
-* [Chris Gammell's Analog Life](http://chrisgammell.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://chrisgammell.com/feed/))*
+* [Chip Overclock](https://coverclock.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://coverclock.blogspot.com/feeds/posts/default))*
+* [Chris Gammell's Analog Life](https://chrisgammell.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://chrisgammell.com/feed/))*
 * [Circuit Lake](http://www.circuitlake.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.circuitlake.com/feed))*
 * [Circuit Project Electronic](https://www.eleccircuit.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eleccircuit.com/feed/))*
 * [CircuitHub Blog](http://blog.circuithub.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.circuithub.com/feeds/posts/default))*
 * [Circuits@Home](https://localhost?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds2.feedburner.com/chome))*
-* [Citoyens Capteurs](http://www.citoyenscapteurs.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.citoyenscapteurs.net/feed/))*
 * [CMiYC Labs, Inc.](https://www.baldengineer.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.baldengineer.com/feed))*
 * [CMiYC Labs, Inc.](https://www.baldengineer.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.baldengineer.com/feed/))*
-* [code, circuits, &amp; construction](http://www.tigoe.com/pcomp/code?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.tigoe.net/pcomp/code/feed/atom/))*
-* [code, circuits, &amp; construction](http://www.tigoe.com/pcomp/code?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.tigoe.net/pcomp/code/feed/))*
-* [Comments for Carriots Blog](https://blog.carriots.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://blog.carriots.com/comments/feed/))*
-* [Connected-Objects.fr](http://connected-objects.fr?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://connected-objects.fr/feed/))*
+* [code, circuits, &amp; construction](https://www.tigoe.com/pcomp/code?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.tigoe.net/pcomp/code/feed/atom/))*
+* [code, circuits, &amp; construction](https://www.tigoe.com/pcomp/code?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.tigoe.net/pcomp/code/feed/))*
 * [Conversations with spaces](https://hcgilje.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://hcgilje.wordpress.com/feed/))*
 * [Coretech Robotics](http://coretechrobotics.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://coretechrobotics.blogspot.com/feeds/posts/default))*
 * [Cosa](http://cosa-arduino.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://cosa-arduino.blogspot.com/feeds/posts/default))*
 * [CowFish Studios - Blog](http://www.cowfishstudios.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.cowfishstudios.com/blog/feed))*
-* [cpldcpu](https://cpldcpu.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://cpldcpu.wordpress.com/feed/))*
-* [Cupid Controls](http://www.cupidcontrols.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.cupidcontrols.com/feed/))*
+* [cpldcpu](https://cpldcpu.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://cpldcpu.wordpress.com/feed/))*
 * [The Custom Geek](http://thecustomgeek.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://thecustomgeek.com/feed/))*
 * [Cybertronics](http://cybertronics.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://cybertronics.blogspot.com/feeds/posts/default))*
 * [Dammit Coetzee](http://dammitcoetzee.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://dammitcoetzee.com/feed/))*
@@ -118,15 +108,15 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [DanielAndrade.net](https://www.danielandrade.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/danielsandrade))*
 * [DannyBlog](http://www.dannyboy.se/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.dannyboy.se/blog/?feed=rss))*
 * [danstrother.com](https://danstrother.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://danstrother.com/feed/))*
+* [Dave Schmenk's Projects Page](http://schmenk.is-a-geek.com/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://schmenk.is-a-geek.com/wordpress/?feed=rss2))*
 * [David Bynoe ... works in progress](http://dbynoe.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://dbynoe.blogspot.com/feeds/posts/default))*
 * [Davide Gironi](http://davidegironi.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://davidegironi.blogspot.com/feeds/posts/default))*
 * [Desert Home](http://www.desert-home.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.desert-home.com/feeds/posts/default))*
-* [Design Notes - EEWeb](https://www.eeweb.com/feeds/application-design-notes/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/application-design-notes/))*
 * [Design with Microcontrollers](http://www.dharmanitech.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.dharmanitech.com/feeds/posts/default))*
 * [Dev-O-Rama](http://marioboehmer.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://marioboehmer.blogspot.com/feeds/posts/default))*
 * [Develop with Arduino](http://arduinodev.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinodev.com/feed/))*
 * [DGK Electronics](http://www.dgkelectronics.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.dgkelectronics.com/feed/))*
-* [Digital Me](https://ba0sh1.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/digitalmeblog))*
+* [Digital Me](https://www.ba0sh1.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/digitalmeblog))*
 * [Dilshan R Jayakody’s Web Log](http://jayakody2000lk.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jayakody2000lk.blogspot.com/feeds/posts/default))*
 * [DIY](https://www.edn.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.edn.com/rss/design/diy))*
 * [DIY AutoLab](http://diyautolab.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://diyautolab.blogspot.com/feeds/posts/default))*
@@ -138,15 +128,11 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Dr. Michael Kroll](http://www.mkroll.mobi?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.mkroll.mobi/?feed=rss2))*
 * [Dr. Monk's DIY Electronics Blog](http://www.doctormonk.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.doctormonk.com/feeds/posts/default))*
 * [Dr. Rainer Hessmer](http://www.hessmer.org/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.hessmer.org/blog/feed/))*
-* [Dylan's Projects](http://blog.dylanhrush.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.dylanhrush.com/feeds/posts/default))*
-* [eclecticc](http://eclecti.cc?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://eclecti.cc/feed))*
+* [eclecticc](https://eclecti.cc?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://eclecti.cc/feed))*
 * [EEVblog - Electronics Engineering Video Blog](https://www.eevblog.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eevblog.com/feed/))*
 * [EEWeb Articles](https://www.eeweb.com/feeds/articles/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/articles/))*
 * [EEWeb Design News](https://www.eeweb.com/feeds/news/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/news/))*
-* [EEWeb Projects](https://www.eeweb.com/feeds/projects/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/projects/))*
 * [Eleccelerator](http://eleccelerator.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://eleccelerator.com/feed/))*
-* [ElecFreaks](https://www.elecfreaks.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.elecfreaks.com/feed))*
-* [The Electric Squid](http://theelectricsquid.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://theelectricsquid.com/blog?format=rss))*
 * [Electro Bob](http://www.electrobob.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.electrobob.com/feed/))*
 * [Electronic Circuits](http://www.electronicecircuits.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.electronicecircuits.com/feed))*
 * [electronic hamsters](https://electronichamsters.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://electronichamsters.wordpress.com/feed/))*
@@ -156,34 +142,26 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [The Electronics Deli](https://electronicsdeli.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://electronicsdeli.wordpress.com/feed/))*
 * [Electronics projects and kits](http://www.knutsel.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.knutsel.org/feed/))*
 * [Electronics-Lab.com Blog](http://www.electronics-lab.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.electronics-lab.com/blog/?feed=rss2))*
-* [electronicsblog.net](http://www.electronicsblog.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.electronicsblog.net/feed/))*
 * [electronut.in](http://electronut.in/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://electronut.in/feed.xml))*
 * [electropages.com Latest Articles](https://www.electropages.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/Electropages/))*
 * [elek101](http://www.polaxis.be?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://elek101.blogspot.com/feeds/posts/default))*
 * [ElektorEmbedded](http://elektorembedded.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://elektorembedded.blogspot.com/feeds/posts/default))*
 * [Elektronika.ba](http://www.elektronika.ba/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds2.feedburner.com/Elektronikaba-en))*
 * [ELETTRONICA OPEN SOURCE](https://it.emcelettronica.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/emcelettronica/it))*
-* [Embedded Development on OSX.](http://www.osx-avr.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.osx-avr.org/feed/))*
 * [Embedded Electrical Engineering Plus](https://embeddedengineer.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://embeddedengineer.wordpress.com/feed/))*
 * [Embedded Innovation](http://yveaux.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://yveaux.blogspot.com/feeds/posts/default))*
 * [Embedded Lab](http://embedded-lab.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://embedded-lab.com/blog/?feed=rss2))*
-* [Embedded projects from around the web](http://www.embedds.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.embedds.com/feed/))*
-* [EngBlaze](http://www.engblaze.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.engblaze.com/feed/))*
-* [Engineering blog of Nick Leijenhorst  —  Benkyo Lab](http://www.benkyo.nl/lab?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.benkyo.nl/lab/feed/))*
+* [Embedded projects from around the web](https://embedds.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.embedds.com/feed/))*
 * [epictronics](https://epictronics.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://epictronics.wordpress.com/feed/))*
 * [ermicroblog](http://www.ermicro.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.ermicro.com/blog/?feed=rss2))*
 * [Evil Mad Scientist Laboratories](https://www.evilmadscientist.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.evilmadscientist.com/feed/))*
 * [Explore all projects - Page 1 - Hackster.io](https://www.hackster.io?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://www.hackster.io/projects.atom?sort=recent))*
 * [eXtreme Electronics](http://extremeelectronics.co.in?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://extremeelectronics.co.in/feed/))*
-* [Fablab RUC](http://fablab.ruc.dk/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://fablab.ruc.dk/rss/))*
 * [Fake EE Quips](https://fakeeequips.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://fakeeequips.wordpress.com/feed/))*
-* [False and misleading information](http://false.ekta.is?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://false.ekta.is/feed/))*
 * [Faz Jaxton](http://www.fazjaxton.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.fazjaxton.net/feed/))*
 * [Featured Engineers - EEWeb](https://www.eeweb.com/feeds/featured-engineers/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/featured-engineers/))*
-* [Featured Websites - EEWeb](https://www.eeweb.com/feeds/featured-sites/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.eeweb.com/feeds/featured-sites/))*
-* [Four-Three-Oh!](http://43oh.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://43oh.com/feed/))*
+* [Four-Three-Oh!](https://43oh.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://43oh.com/feed/))*
 * [Freetronics - News](https://www.freetronics.com.au/blogs/news?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.freetronics.com/blogs/news.atom))*
-* [FriedCircuits DocsFriedCircuits Docs](https://learn.friedcircuits.us?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://friedcircuits.us/docs/feed/))*
 * [frugaltinker](https://frugaltinker.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://frugaltinker.com/feed/))*
 * [Fun with Microcontrollers!](http://arduinofun.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduinofun.blogspot.com/feeds/posts/default))*
 * [a gde](http://elco.crsndoo.com/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://elco.crsndoo.com/wordpress/feed/))*
@@ -204,40 +182,39 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [heliosoph](http://heliosoph.mit-links.info?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://heliosoph.mit-links.info/feed/))*
 * [High-Low Tech – Programming an ATtiny w/ Arduino](http://highlowtech.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://hlt.media.mit.edu/?feed=rss2))*
 * [Hive sense](https://hivesense.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://hivesense.wordpress.com/feed/))*
-* [HiveMQ | Enterprise MQTT Broker » Blog](http://www.hivemq.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.hivemq.com/blog/feed/))*
+* [HiveMQ | Enterprise MQTT Broker » Blog](https://www.hivemq.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.hivemq.com/blog/feed/))*
 * [Hobby Robotics](http://www.glacialwanderer.com/hobbyrobotics?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.glacialwanderer.com/hobbyrobotics/?feed=rss2))*
 * [Hoektronics.com](http://www.hoektronics.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.hoektronics.com/feed/))*
 * [Home](http://mercenarymind.com/component/content/frontpage?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mercenarymind.com/index.php?format=feed&amp;type=rss))*
 * [HomeLabs Blog](http://blog.homelabs.org.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.homelabs.org.uk/feed/))*
-* [Hong's Electronics](http://www.jhongelectronics.org/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jhongelectronics.org/feeds/posts/default))*
+* [Hong's Electronics](https://www.jhongelectronics.org/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jhongelectronics.org/feeds/posts/default))*
 * [I, Bioloid](http://mike-ibioloid.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mike-ibioloid.blogspot.com/feeds/posts/default))*
 * [I'd Rather Be Building Robots » Released: 3rd Party ROBOTC Driver Suite V1.6](http://botbench.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://botbench.com/blog/feed/))*
 * [IDEO Labs](https://labs.ideo.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://labs.ideo.com/feed/))*
 * [IEEE Spectrum Geek Life Channel](https://spectrum.ieee.orggeek-life?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/IeeeSpectrumGeekLife))*
 * [Ilias Giechaskiel](https://ilias.giechaskiel.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://ilias.giechaskiel.com/posts/posts.xml))*
-* [ILoveFPV.COM](http://www.ilovefpv.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.ilovefpv.com/feed/))*
 * [imsolidstate](http://www.imsolidstate.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.imsolidstate.com/feed))*
+* [In Which Jarrett Builds](https://jrainimo.com/build?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jrainimo.com/build/?feed=rss2))*
 * [Indian Tinker](https://indiantinker.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://indiantinker.wordpress.com/feed/))*
 * [The Inebriator | Arduino powered cocktail machine](http://www.theinebriator.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.theinebriator.com/feed/))*
 * [infar.be](http://infar.be/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://infar.be/index.php?/feeds/index.rss2))*
 * [insideGadgets](https://www.insidegadgets.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.insidegadgets.com/feed/))*
 * [The Invention Factory](http://www.inventionfactory.xyz/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://inventionfactory.blogspot.com/feeds/posts/default))*
-* [IoTivity blogs](https://www.iotivity.org/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://www.iotivity.org/blog/feed))*
+* [IoTivity blogs](https://iotivity.org/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://www.iotivity.org/blog/feed))*
 * [JamiePriceCreative.com](http://jamiepricecreative.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jamiepricecreative.com/feed/))*
 * [Jee Labs](https://jeelabs.org/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jeelabs.org/feed/))*
 * [Jeff's Arduino Blog](http://jmsarduino.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jmsarduino.blogspot.com/feeds/posts/default))*
 * [Jelmer Tiete](https://jelmertiete.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jelmertiete.com/feed.xml))*
-* [JeremyBlum.com](http://www.jeremyblum.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jeremyblum.com/feed/))*
+* [JeremyBlum.com](https://www.jeremyblum.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jeremyblum.com/feed/))*
 * [Jim's Blog](http://parkyjimbo.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://parkyjimbo.blogspot.com/feeds/posts/default))*
 * [Joe Garrison 2011 Web Edition](https://blog.saleae.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.saleae.com/feed/))*
 * [Johan von Konow](http://vonkonow.com/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://vonkonow.com/wordpress/feed/))*
 * [John's Exploits](http://johnsexploits.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://johnsexploits.blogspot.com/feeds/posts/default))*
-* [johngineer](http://www.johngineer.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.johngineer.com/blog/?feed=rss2))*
 * [Jonathan Oxer\'s Brain(cell)](http://jon.oxer.com.au/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jon.oxer.com.au/sb/modules/blog/feeds/rss2.xml))*
 * [Jonathan Oxer\'s Brain(cell)](http://jon.oxer.com.au/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jon.oxer.com.au/sb/modules/blog/feeds/atom.xml))*
 * [josh.com](https://wp.josh.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://wp.josh.com/feed/))*
 * [Jumptuck](http://jumptuck.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jumptuck.com/feed/))*
-* [Just Another JAL Website](http://justanotherlanguage.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://justanotherlanguage.org/rss.xml))*
+* [Just Another JAL Website](http://www.justanotherlanguage.org:3389?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://justanotherlanguage.org/rss.xml))*
 * [K / G](http://kylegabriel.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://kylegabriel.com/feed))*
 * [Keith's Electronics Blog](http://www.neufeld.newton.ks.us/electronics?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.neufeld.newton.ks.us/electronics/?feed=rss2))*
 * [Ken Shirriff's blog](http://www.righto.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.righto.com/feeds/posts/default))*
@@ -251,11 +228,11 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Kytelab blog](http://blog.kytelabs.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.kytelabs.com/?feed=rss2))*
 * [Lamja.com](http://www.lamja.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.lamja.com/?feed=rss2))*
 * [Laser Hacker Alternative Energy](http://laserhacker.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://laserhacker.com/?feed=atom))*
-* [LayerOne 2014](http://www.layerone.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.layerone.org/feed/))*
+* [LayerOne 2014](https://www.layerone.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.layerone.org/feed/))*
 * [Libelium World](http://www.libelium.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.libelium.com/feed/))*
 * [The Life of Kenneth](http://blog.thelifeofkenneth.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/TheLifeOfKenneth))*
 * [Lifelong Learning](https://www.jaycollett.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jaycollett.com/feed/))*
-* [Limpkin's blog](http://www.limpkin.fr/index.php?&utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.limpkin.fr/index.php?feed/atom))*
+* [Limpkin's blog](https://www.limpkin.fr/index.php?&utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.limpkin.fr/index.php?feed/atom))*
 * [Linux, IT, DIY, Interesting Stuff...](http://pfalcon-oe.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://pfalcon-oe.blogspot.com/feeds/posts/default))*
 * [Liudr's Blog](https://liudr.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://liudr.wordpress.com/feed/))*
 * [The Longhorn Engineer](http://longhornengineer.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://longhornengineer.com/feed/))*
@@ -274,23 +251,21 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Maniacal Bits](http://maniacalbits.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://maniacalbits.blogspot.com/feeds/posts/default))*
 * [maniacbug](https://maniacbug.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://maniacbug.wordpress.com/feed/))*
 * [Markus' Blog](http://www.jave.de/blog2?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jave.de/blog2/?feed=rss2))*
-* [Martin's corner on the web](http://harizanov.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://harizanov.com/feed/))*
+* [Martin's corner on the web](https://harizanov.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://harizanov.com/feed/))*
 * [Massively Parallel Procrastination](http://blog.fsck.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.fsck.com/atom.xml))*
-* [mbed](https://mbed.org/blog/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mbed.org/blog/feeds/entries/))*
+* [mbed](https://os.mbed.com/blog/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mbed.org/blog/feeds/entries/))*
 * [MCU on Eclipse](https://mcuoneclipse.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mcuoneclipse.com/feed/))*
 * [Measuring Battery Capacity with an Arduino - Denis Hennessy](http://denishennessy.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://denishennessy.com/atom.xml))*
 * [Mekonikuv blog](https://mekonik.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mekonik.wordpress.com/feed/))*
 * [The Memoirs of Jim 'ung](http://www.jimhung.co.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jimhung.co.uk/?feed=rss2))*
 * [The Memoirs of Jim 'ung » Hacks](http://www.jimhung.co.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.jimhung.co.uk/?feed=rss2&amp;cat=21))*
 * [Memos From the Cube](http://fourwalledcubicle.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://fourwalledcubicle.com/blog/feed/))*
-* [Micah's Bloggy Widget](http://scanlime.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://micah.navi.cx/feed/))*
+* [Micah's Bloggy Widget](https://scanlime.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://micah.navi.cx/feed/))*
 * [MicroSyl | MCU Electronics projects](http://www.microsyl.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.microsyl.com/index.php/feed/))*
 * [Mictronics](https://www.mictronics.de?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.mictronics.de/feed/))*
-* [MightyOhm](http://mightyohm.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mightyohm.com/blog/feed/))*
+* [MightyOhm](https://mightyohm.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mightyohm.com/blog/feed/))*
 * [Mika Tuupola](https://appelsiini.net/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/tuupola))*
 * [Mike's Lab Notes](http://www.mike-stirling.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.mike-stirling.com/feed/))*
-* [Mikronauts.com](http://www.mikronauts.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.mikronauts.com/feed/))*
-* [The Mind of Bill Porter](http://www.billporter.info?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.billporter.info/feed/))*
 * [MobileWill](https://mobilewill.us?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.mobilewill.us/feeds/posts/default))*
 * [Modern News](https://moderndevice.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.moderndevice.com/feed/))*
 * [Moi et mon Arduino, pour le fun](http://funwitharduino.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://funwitharduino.blogspot.com/feeds/posts/default))*
@@ -298,15 +273,12 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [möp, möp!](http://blogs.fsfe.org/clemens?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blogs.fsfe.org/clemens/feed/))*
 * [mossmann's blog](http://ossmann.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://ossmann.blogspot.com/feeds/posts/default))*
 * [Mr. ModemHead](http://mrmodemhead.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://mrmodemhead.com/blog/feed/))*
-* [mruby.sh](https://blog.mruby.sh/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.mruby.sh/rss.xml))*
 * [My 2µF](http://blog.spitzenpfeil.org/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.spitzenpfeil.org/wordpress/feed/))*
-* [My CMS](http://culturemaker.fr?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://culturemaker.fr/feed/))*
-* [My Electronics Hobby](http://leoricksimon.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://leoricksimon.blogspot.com/feeds/posts/default))*
+* [My Electronics Hobby](https://leoricksimon.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://leoricksimon.blogspot.com/feeds/posts/default))*
 * [My Projects[ ]Electronics](http://www.ianjohnston.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.ianjohnston.com/index.php?option=com_content&amp;view=category&amp;id=3&amp;Itemid=8&amp;format=feed&amp;type=atom))*
 * [My Raspberry Pi project](http://raspberrypi.werquin.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://raspberrypi.werquin.com/rss))*
 * [My Tech Weblog](https://scargill.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://scargill.wordpress.com/feed/))*
 * [N1IR Electronics Website](http://www.n1ir.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.n1ir.com/feeds/posts/default))*
-* [Nanode](http://www.nanode.eu?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nanode.eu/feed/))*
 * [nathan.chantrell.net](https://nathan.chantrell.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://nathan.chantrell.net/feed/))*
 * [neophob.com](http://neophob.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://neophob.com/feed/))*
 * [Nerd Club](http://nerdclub-uk.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://nerdclub-uk.blogspot.com/feeds/posts/default))*
@@ -314,8 +286,6 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Nerdy By Nature](http://www.nerdybynature.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nerdybynature.com/feed/))*
 * [News @ Suspect Devices](http://www.suspectdevices.com/blahg?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.suspectdevices.com/blahg/feed/))*
 * [NextGenLog](http://nextgenlog.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://nextgenlog.blogspot.com/feeds/posts/default))*
-* [Niklas Roy](http://www.niklasroy.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.niklasroy.com/atom/))*
-* [noise is life](http://noiseislife.tumblr.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://noiseislife.tumblr.com/rss))*
 * [Norwegian Creations](https://www.norwegiancreations.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.norwegiancreations.com/feed/))*
 * [Nothing Labs](http://www.nothinglabs.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nothinglabs.com/?feed=rss2))*
 * [Nothing Labs (Rich Olson)](http://nothinglabs.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://nothinglabs.blogspot.com/feeds/posts/default))*
@@ -325,10 +295,8 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Nuts and Volts](http://www.nutsvolts.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nutsvolts.com/blog/atom/))*
 * [NutsAndBoltsAndFlyingSparks](http://nutsandboltsandflyingsparks.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://nutsandboltsandflyingsparks.blogspot.com/feeds/posts/default))*
 * [NYC Resistor](https://www.nycresistor.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nycresistor.com/feed/))*
-* [Octopart Blog - News and Updates](https://blog.octopart.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://octopart.com/blog/rss))*
 * [olimex](https://olimex.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://olimex.wordpress.com/feed/))*
 * [Once Around the Block](https://thedialist.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://thedialist.wordpress.com/feed/))*
-* [One Fridge off the Grid](http://solar-trap.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://solar-trap.com/?feed=rss2))*
 * [One Week Wonder](http://oneweekwonder.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://oneweekwonder.blogspot.com/feeds/posts/default))*
 * [OoeyGUI](http://www.ooeygui.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.ooeygui.com/?feed=rss2))*
 * [Open Electronics](https://www.open-electronics.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.open-electronics.org/feed/))*
@@ -356,7 +324,6 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [PIClock's Blog](https://piclock.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://piclock.wordpress.com/feed/))*
 * [Pieter @ KraaimaPieter @ Kraaima](http://kraaima.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://kraaima.com/feed/))*
 * [Pinta the Autonomous Sailing Robot](https://microtransat.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://microtransat.wordpress.com/feed/))*
-* [PlainDSP - Empower your arduino's experience](http://www.plaindsp.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.plaindsp.com/feed/))*
 * [PlanetArduino](http://www.planetarduino.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/planetarduino))*
 * [PlastiBots](http://www.plastibots.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.plastibots.com/index.php/feed/))*
 * [Pleasant Hardware](http://pleasantsoftware.com/developer/3d?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://pleasantsoftware.com/developer/3d/feed/))*
@@ -378,9 +345,9 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [The Rantings of a Techno-Mage](https://thefallenindustries.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://thefallenindustries.wordpress.com/feed/))*
 * [Rants from the Embedded Hardware Guy](http://embeddederic.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://embeddederic.blogspot.com/feeds/posts/default))*
 * [Raspberry Pi](https://www.raspberrypi.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.raspberrypi.org/feed/))*
-* [Raspberry Pi Pod](http://www.recantha.co.uk/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.recantha.co.uk/blog/?feed=rss2))*
+* [Raspberry Pi Pod](https://www.recantha.co.uk/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.recantha.co.uk/blog/?feed=rss2))*
 * [Raspberry Pi Python Adventures](http://raspberry-python.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://raspberry-python.blogspot.com/feeds/posts/default))*
-* [RAYSHOBBY.NET](https://rayshobby.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://rayshobby.net/?feed=rss2))*
+* [RAYSHOBBY.NET](https://rayshobby.net/wordpress?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://rayshobby.net/?feed=rss2))*
 * [RCArduino](http://rcarduino.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://rcarduino.blogspot.com/feeds/posts/default))*
 * [Reactance Labs](http://reactancelabs.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://reactancelabs.com/?feed=rss2))*
 * [Recent Commits to arduino-cmake:master](https://github.com/queezythegreat/arduino-cmake/commits/master?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://github.com/queezythegreat/arduino-cmake/commits/master.atom))*
@@ -394,22 +361,19 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Rocket Scream](http://www.rocketscream.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.rocketscream.com/blog/feed/))*
 * [ROG's blog](https://odgregg.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://odgregg.wordpress.com/feed/))*
 * [Romilly's Arduino, Robotics and Electronics Blog](http://blog.rareschool.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://romillys-robots.blogspot.com/feeds/posts/default))*
-* [Roving Dynamics](http://rodyne.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://rodyne.com/?feed=rss2))*
 * [Run Away Brainz](http://runawaybrainz.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://runawaybrainz.blogspot.com/feeds/posts/default))*
-* [Rustic Engineering](https://rusticengineering.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://rusticengineering.com/feed/))*
 * [Same Limmat Twice](http://samelimmat.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://samelimmat.blogspot.com/feeds/posts/default))*
-* [scanlime](http://scanlime.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://scanlime.org/feed/))*
+* [scanlime](https://scanlime.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://scanlime.org/feed/))*
 * [Scargill's Tech Blog](https://tech.scargill.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://tech.scargill.net/feed/))*
-* [Scientific, embedded, biomedical, electronics contents.](http://www.scienceprog.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.scienceprog.com/feed/))*
+* [Scientific, embedded, biomedical, electronics contents.](https://scienceprog.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.scienceprog.com/feed/))*
 * [Screaming Circuits](http://blog.screamingcircuits.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.screamingcircuits.com/atom.xml))*
 * [SDG Electronics](https://sdgelectronics.co.uk?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://sdgelectronics.co.uk/feed/))*
-* [Sebastian Nilsson](http://sebastiannilsson.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sebastiannilsson.com/en/feed/))*
-* [Sebastian Nilsson](http://sebastiannilsson.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sebastiannilsson.com/feed/))*
+* [Sebastian Nilsson](https://sebastiannilsson.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sebastiannilsson.com/en/feed/))*
+* [Sebastian Nilsson](https://sebastiannilsson.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sebastiannilsson.com/feed/))*
 * [See the fun side of things](http://funsideofthings.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://funsideofthings.blogspot.com/feeds/posts/default))*
 * [Seeed Studio](http://www.seeedstudio.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.seeedstudio.com/blog/feed/))*
 * [SEMAGEEK : Le Web Magazine des technologies High Tech.](http://www.semageek.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.semageek.com/feed/))*
-* [SevenWatt](https://www.sevenwatt.com/main?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.sevenwatt.com/main/feed/))*
-* [Shrimping It](http://shrimping.it/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://shrimping.it/blog/feed/))*
+* [Shrimping It](https://shrimping.it/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://shrimping.it/blog/feed/))*
 * [Signal and noise](http://pmonta.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://pmonta.com/blog/feed/))*
 * [The Signal Path](http://thesignalpath.com/blogs?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://thesignalpath.com/blogs/feed/))*
 * [SK Pang Electronics Ltd](http://skpang.co.uk/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://skpang.co.uk/blog/feed))*
@@ -429,14 +393,13 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Starfire's Tech Blog](https://starfiretech.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://starfiretech.wordpress.com/feed/))*
 * [Starlino Electronics](http://www.starlino.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.starlino.com/feed))*
 * [Steve Cooley Fine Art](http://sc-fa.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sc-fa.com/blog/feed/))*
-* [Steve Marple's blog](http://blog.stevemarple.co.uk/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.stevemarple.co.uk/feeds/posts/default))*
+* [Steve Marple's blog](https://blog.stevemarple.co.uk/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.stevemarple.co.uk/feeds/posts/default))*
 * [Sustainable Living Lab | Sustainable Living Lab](http://www.sl2square.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.sl2square.org/feed/))*
 * [Sustainable Suburbia](http://sustburbia.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://sustburbia.blogspot.com/feeds/posts/default))*
 * [SwitchDoc Labs](http://www.switchdoc.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.switchdoc.com/feed/))*
 * [The Sync Channel Blog](http://syncchannel.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://syncchannel.blogspot.com/feeds/posts/default))*
 * [syntax_errØr](https://jarjartee.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://jarjartee.wordpress.com/feed/))*
 * [Synthetos](https://www.synthetos.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://www.synthetos.com/feed/))*
-* [Take a break](http://www.breakcontinue.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.breakcontinue.com/feeds/posts/default))*
 * [Taller Arduino](https://tallerarduino.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://tallerarduino.com/feed/))*
 * [Tech Tut](http://tech-tut.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://tech-tut.com/feed/))*
 * [TechBitar - Blog](http://www.techbitar.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.techbitar.com/1/feed))*
@@ -456,12 +419,11 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Tomi Engdahl's ePanorama blog](http://www.epanorama.net/newepa?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.epanorama.net/blog/feed/))*
 * [Tomi Engdahl's ePanorama blog» Arduino](http://www.epanorama.net/newepa/2012/05/31/arduino-and-rasberry-pi-together/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.epanorama.net/newepa/2012/05/31/arduino-and-rasberry-pi-together/feed/))*
 * [Toolex](http://toolex.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://toolex.blogspot.com/feeds/posts/default))*
-* [transitlab](http://transitlab.org?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://transitlab.org/feed))*
 * [Trashbear Labs](https://trashbearlabs.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://trashbearlabs.wordpress.com/feed/))*
 * [Travis Goodspeed's Blog](http://travisgoodspeed.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://travisgoodspeed.blogspot.com/feeds/posts/default))*
 * [TropicArduino](http://tropicarduino.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://tropicarduino.blogspot.com/feeds/posts/default))*
 * [uC Hobby](http://www.uchobby.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.uchobby.com/index.php/feed/))*
-* [unsigned.io](http://unsigned.io?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://unsigned.io/?feed=rss2))*
+* [unsigned.io](https://unsigned.io?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://unsigned.io/?feed=rss2))*
 * [Untitled Source](https://blog.particle.io/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://blog.spark.io/feed.xml))*
 * [veys.com](http://veys.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://veys.com/feed/))*
 * [Vida Arduina](http://vidaarduina.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://vidaarduina.blogspot.com/feeds/posts/default))*
@@ -473,7 +435,7 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [Walltech](http://www.walltech.cc?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.walltech.cc/feed/))*
 * [Wayne and Layne](https://www.wayneandlayne.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.wayneandlayne.com/feed/))*
 * [wemakethings](https://wemakethings.net?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://wemakethings.net/atom.xml))*
-* [WFFwiki - Recent changes [en]](http://www.waitingforfriday.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom))*
+* [WFFwiki - Recent changes [en]](https://www.waitingforfriday.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom))*
 * [whitequark's lab notebook](https://lab.whitequark.org/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://lab.whitequark.org/atom.xml))*
 * [Wikispaces : arduino-info : home - edits](http://arduino-info.wikispaces.com/home?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://arduino-info.wikispaces.com/page/xml/home?v=rss_2_0))*
 * [WinAVR AVR-GCC Tutorial](http://winavr.scienceprog.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://winavr.scienceprog.com/rss.xml))*
@@ -487,14 +449,18 @@ Get notified when ArduinOPML updated by following [@ArduinOPML](https://twitter.
 * [ZeptoBars - RSS feed](http://zeptobars.com/en/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://zeptobars.ru/en/rss))*
 * [µ[micro]electronics info](https://www.uelectronics.info?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://feeds.feedburner.com/micro-electronics))*
 * [Dave Akerman](http://www.daveakerman.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.daveakerman.com/?feed=rss2))*
-* [Everyone's Blog Posts - DIY Drones](http://diydrones.com/profiles/blog/feed?xn_auth=no&utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://diydrones.com/profiles/blog/feed?xn_auth=no))*
+* [Everyone's Blog Posts - DIY Drones](https://diydrones.com/profiles/blog/feed?xn_auth=no&utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://diydrones.com/profiles/blog/feed?xn_auth=no))*
 * [Robotic Arts](https://roboticarts.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](https://roboticarts.wordpress.com/feed/))*
 * [» feed](http://www.chrisfenton.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.chrisfenton.com/feed/))*
 * [Blog - Fabbaloo](http://www.fabbaloo.com/blog/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.fabbaloo.com/blog?format=rss))*
 * [It's Project Day!](https://itsprojectday.wordpress.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://itsprojectday.wordpress.com/feed/))*
+* [Makerflux](http://makerflux.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://makerflux.com/feed/))*
+* [Makery](http://www.makery.info?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.makery.info/feed/))*
 * [My Robot and Other Stuff](http://myrobotnstuff.blogspot.com/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://myrobotnstuff.blogspot.com/feeds/posts/default))*
 * [NYC CNC Machining, Fabrication &amp;amp; Prototype Shop - Project Blog](http://www.nyccnc.com/wednesday-widget?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.nyccnc.com/2/feed))*
 * [tim.jagenberg.info](https://tim.jagenberg.info?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://tim.jagenberg.info/feed/))*
+* [Res Publica Non Dominetur - カルマン](http://karman.cc/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://karman.cc/blog/feed))*
+* [Blog](https://www.sainsmart.com/blog/?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.sainsmart.com/blog/rss/index/store_id/1/))*
 * [BLOGBLOG](https://www.elecrow.com/blog?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://www.elecrow.com/blog/feed/))*
 * [Digistump News Posts](urn:uuid:4fbc2502-133c-29a1-d49c-682c916f2431?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://digistump.com/news/feed))*
 * [hwkitchen.com](http://www.hwkitchen.com?utm_source=ArduinOPML&utm_campaign=Please_contribute_on_ArduinOPML&utm_medium=RSS) *([RSS feed](http://hwkitchen.com/rss/pf-all.xml))*

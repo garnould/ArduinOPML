@@ -8,57 +8,53 @@
 <outline text="Arduino" title="Arduino">
 	<outline text="‹‹ Stµpid Hax ››" title="‹‹ Stµpid Hax ››" type="rss" version="RSS" htmlUrl="http://stupidhax.blogspot.com/" xmlUrl="http://stupidhax.blogspot.com/feeds/posts/default" />
 	<outline text="» feed" title="» feed" type="rss" version="RSS" htmlUrl="http://www.electroons.com/blog" xmlUrl="http://www.electroons.com/blog/feed/" />
-	<outline text="» feed" title="» feed" type="rss" version="RSS" htmlUrl="http://blog.initialstate.com" xmlUrl="http://blog.initialstate.com/feed/" />
-	<outline text="[NoahFarrington]'s Intensely Interesting Blog!" title="[NoahFarrington]'s Intensely Interesting Blog!" type="rss" version="RSS" htmlUrl="https://noahfarrington.wordpress.com" xmlUrl="http://noahfarrington.wordpress.com/feed/" />
 	<outline text="[protofusion]" title="[protofusion]" type="rss" version="RSS" htmlUrl="http://protofusion.org/wordpress" xmlUrl="http://protofusion.org/wordpress/feed/" />
 	<outline text="/dev/Jarzębski" title="/dev/Jarzębski" type="rss" version="RSS" htmlUrl="http://www.jarzebski.pl" xmlUrl="http://www.jarzebski.pl/feed.xml" />
 	<outline text="/dev/ttyS0" title="/dev/ttyS0" type="rss" version="RSS" htmlUrl="http://www.devttys0.com" xmlUrl="http://www.devttys0.com/feed/" />
 	<outline text="/home/pierce" title="/home/pierce" type="rss" version="RSS" htmlUrl="http://blog.dylanjpierce.com/" xmlUrl="http://blog.dylanjpierce.com/feed.xml" />
-	<outline text="＋galileo7＋ Arduinoシールドの輸入・オリジナル製品の販売" title="＋galileo7＋ Arduinoシールドの輸入・オリジナル製品の販売" type="rss" version="RSS" htmlUrl="http://www.galileo-7.com/" xmlUrl="http://www.galileo-7.com/?mode=rss" />
 	<outline text="3 Name Basis" title="3 Name Basis" type="rss" version="RSS" htmlUrl="http://3namebasis.blogspot.com/" xmlUrl="http://3namebasis.blogspot.com/feeds/posts/default" />
 	<outline text="3D Printer - High Resolution - DIY" title="3D Printer - High Resolution - DIY" type="rss" version="RSS" htmlUrl="http://3dhomemade.blogspot.com/" xmlUrl="http://3dhomemade.blogspot.com/feeds/posts/default" />
 	<outline text="4ms Projects" title="4ms Projects" type="rss" version="RSS" htmlUrl="http://4ms.org" xmlUrl="http://4ms.org/?feed=rss2" />
 	<outline text="41J Blog" title="41J Blog" type="rss" version="RSS" htmlUrl="http://41j.com/blog" xmlUrl="http://41j.com/blog/feed/" />
+	<outline text="96Boards" title="96Boards" type="rss" version="RSS" htmlUrl="https://www.96boards.org/" xmlUrl="https://www.96boards.org/feed/" />
 	<outline text="a5d-project-hub" title="a5d-project-hub" type="rss" version="RSS" htmlUrl="http://pro.a5d.biz" xmlUrl="http://pro.a5d.biz/feed/" />
 	<outline text="AaronEiche.com" title="AaronEiche.com" type="rss" version="RSS" htmlUrl="http://aaroneiche.com" xmlUrl="http://aaroneiche.com/feed/" />
 	<outline text="adafruit industries blog" title="adafruit industries blog" type="rss" version="RSS" htmlUrl="https://blog.adafruit.com" xmlUrl="http://www.adafruit.com/blog/feed/" />
 	<outline text="Adventures of a programmer in embedded electronics" title="Adventures of a programmer in embedded electronics" type="rss" version="RSS" htmlUrl="http://mcumix.blogspot.com/" xmlUrl="http://mcumix.blogspot.com/feeds/posts/default" />
 	<outline text="akafugu.jp English Atom feed" title="akafugu.jp English Atom feed" type="rss" version="RSS" htmlUrl="http://www.akafugu.jp/" xmlUrl="http://www.akafugu.jp/atom.xml" />
-	<outline text="Alan Zucconi" title="Alan Zucconi" type="rss" version="RSS" htmlUrl="http://www.alanzucconi.com" xmlUrl="http://www.alanzucconi.com/feed/" />
-	<outline text="Alan's Ramblings" title="Alan's Ramblings" type="rss" version="RSS" htmlUrl="http://bleaklow.com:80/" xmlUrl="http://bleaklow.com/rss.xml" />
+	<outline text="Alan Zucconi" title="Alan Zucconi" type="rss" version="RSS" htmlUrl="https://www.alanzucconi.com" xmlUrl="http://www.alanzucconi.com/feed/" />
+	<outline text="Alan's Ramblings" title="Alan's Ramblings" type="rss" version="RSS" htmlUrl="http://81.149.45.14:80/" xmlUrl="http://bleaklow.com/rss.xml" />
 	<outline text="alicedownthecoffeepot" title="alicedownthecoffeepot" type="rss" version="RSS" htmlUrl="https://alicedownthecoffeepot.wordpress.com" xmlUrl="http://alicedownthecoffeepot.wordpress.com/feed/" />
 	<outline text="The Amp Hour" title="The Amp Hour" type="rss" version="RSS" htmlUrl="https://theamphour.com" xmlUrl="http://www.theamphour.com/feed/" />
 	<outline text="Andrew's Memory Blog" title="Andrew's Memory Blog" type="rss" version="RSS" htmlUrl="https://andrewmemory.wordpress.com" xmlUrl="http://andrewmemory.wordpress.com/feed/" />
 	<outline text="Andy's Life" title="Andy's Life" type="rss" version="RSS" htmlUrl="http://blog.thiseldo.co.uk" xmlUrl="http://blog.thiseldo.co.uk/?feed=rss2" />
+	<outline text="AndyFelong.com" title="AndyFelong.com" type="rss" version="RSS" htmlUrl="https://andyfelong.com" xmlUrl="http://andyfelong.com/feed/" />
 	<outline text="Andys Workshop" title="Andys Workshop" type="rss" version="RSS" htmlUrl="http://andybrown.me.uk" xmlUrl="http://andybrown.me.uk/wk/feed/" />
 	<outline text="Andys Workshop" title="Andys Workshop" type="rss" version="RSS" htmlUrl="#comments" xmlUrl="http://andybrown.me.uk/wk/feed/atom/" />
-	<outline text="AntedoroDesigns" title="AntedoroDesigns" type="rss" version="RSS" htmlUrl="http://antedoro.it" xmlUrl="http://antedoro.blogspot.com/feeds/posts/default" />
+	<outline text="AntedoroDesigns" title="AntedoroDesigns" type="rss" version="RSS" htmlUrl="https://antedoro.it" xmlUrl="http://antedoro.blogspot.com/feeds/posts/default" />
 	<outline text="Antipasto Hardware Blog" title="Antipasto Hardware Blog" type="rss" version="RSS" htmlUrl="http://antipastohw.blogspot.com/" xmlUrl="http://antipastohw.blogspot.com/feeds/posts/default" />
 	<outline text="Arachnid Labs" title="Arachnid Labs" type="rss" version="RSS" htmlUrl="http://www.arachnidlabs.com/" xmlUrl="http://www.arachnidlabs.com/atom.xml" />
 	<outline text="Arduiniana" title="Arduiniana" type="rss" version="RSS" htmlUrl="http://arduiniana.org" xmlUrl="http://arduiniana.org/feed/" />
 	<outline text="Arduino" title="Arduino" type="rss" version="RSS" htmlUrl="http://mercenarymind.com/arduino" xmlUrl="http://mercenarymind.com/arduino?format=feed&amp;type=rss" />
-	<outline text="Arduino Arts" title="Arduino Arts" type="rss" version="RSS" htmlUrl="http://arduinoarts.com" xmlUrl="http://arduinoarts.com/feed/" />
 	<outline text="Arduino based coffee &amp; espresso projects" title="Arduino based coffee &amp; espresso projects" type="rss" version="RSS" htmlUrl="http://arduinoespresso.blogspot.com/" xmlUrl="http://arduinoespresso.blogspot.com/feeds/posts/default" />
-	<outline text="Arduino based underwater sensors" title="Arduino based underwater sensors" type="rss" version="RSS" htmlUrl="https://edwardmallon.wordpress.com" xmlUrl="https://edwardmallon.wordpress.com/feed/" />
+	<outline text="Arduino based underwater sensors" title="Arduino based underwater sensors" type="rss" version="RSS" htmlUrl="https://thecavepearlproject.org" xmlUrl="https://edwardmallon.wordpress.com/feed/" />
 	<outline text="Arduino Blog" title="Arduino Blog" type="rss" version="RSS" htmlUrl="https://blog.arduino.cc" xmlUrl="http://blog.arduino.cc/feed/" />
 	<outline text="Arduino Blog" title="Arduino Blog" type="rss" version="RSS" htmlUrl="http://arduinoblog11.blogspot.com/" xmlUrl="http://arduinoblog11.blogspot.com/feeds/posts/default" />
 	<outline text="Arduino blog Feed" title="Arduino blog Feed" type="rss" version="RSS" htmlUrl="http://blog.baeyens.it/" xmlUrl="http://iloapp.baeyens.it/blog/blog?RSS" />
 	<outline text="Arduino Experiences" title="Arduino Experiences" type="rss" version="RSS" htmlUrl="http://geotechbd.blogspot.com/" xmlUrl="http://geotechbd.blogspot.com/feeds/posts/default" />
 	<outline text="Arduino for Beginners" title="Arduino for Beginners" type="rss" version="RSS" htmlUrl="http://arduino-for-beginners.blogspot.com/" xmlUrl="http://arduino-for-beginners.blogspot.com/feeds/posts/default" />
-	<outline text="Arduino Notepad" title="Arduino Notepad" type="rss" version="RSS" htmlUrl="http://arduino103.blogspot.com/" xmlUrl="http://arduino103.blogspot.com/feeds/posts/default" />
+	<outline text="Arduino Notepad" title="Arduino Notepad" type="rss" version="RSS" htmlUrl="https://arduino103.blogspot.com/" xmlUrl="http://arduino103.blogspot.com/feeds/posts/default" />
 	<outline text="Arduino Praxis" title="Arduino Praxis" type="rss" version="RSS" htmlUrl="http://arduino-praxis.ch" xmlUrl="http://arduino-praxis.ch/feed/" />
 	<outline text="Arduino Projects" title="Arduino Projects" type="rss" version="RSS" htmlUrl="https://murchlabs.com" xmlUrl="http://murchlabs.com/feed/" />
-	<outline text="Arduino Tutorials | JeremyBlum.com" title="Arduino Tutorials | JeremyBlum.com" type="rss" version="RSS" htmlUrl="http://www.jeremyblum.com" xmlUrl="http://jeremyblum.com/feed/" />
+	<outline text="Arduino Tutorials | JeremyBlum.com" title="Arduino Tutorials | JeremyBlum.com" type="rss" version="RSS" htmlUrl="https://www.jeremyblum.com" xmlUrl="http://jeremyblum.com/feed/" />
 	<outline text="Arduino X10 Collection" title="Arduino X10 Collection" type="rss" version="RSS" htmlUrl="http://brohogan.blogspot.com/" xmlUrl="http://brohogan.blogspot.com/feeds/posts/default" />
 	<outline text="Arduino Your Environment" title="Arduino Your Environment" type="rss" version="RSS" htmlUrl="http://arduinotronics.blogspot.com/" xmlUrl="http://arduinotronics.blogspot.com/feeds/posts/default" />
 	<outline text="Arduino, Arduino Shields, Arduino Sensors, and Arduino Kits" title="Arduino, Arduino Shields, Arduino Sensors, and Arduino Kits" type="rss" version="RSS" htmlUrl="https://www.hacktronics.com/" xmlUrl="http://www.hacktronics.com/feed/rss.html" />
 	<outline text="Arduino, Web, Mobile, Technologies…" title="Arduino, Web, Mobile, Technologies…" type="rss" version="RSS" htmlUrl="https://www.alkannoide.com" xmlUrl="http://www.alkannoide.com/feed/" />
 	<outline text="arduino/Arduino · GitHub" title="arduino/Arduino · GitHub" type="rss" version="RSS" htmlUrl="https://github.com/arduino/Arduino/commits/master" xmlUrl="https://github.com/arduino/Arduino/commits/master.atom" />
-	<outline text="ArduinoExperts: Arduino Developers + Arduino Jobs" title="ArduinoExperts: Arduino Developers + Arduino Jobs" type="rss" version="RSS" htmlUrl="http://jobs.arduinoexperts.com" xmlUrl="http://jobs.arduinoexperts.com/feed/" />
 	<outline text="Arduitter" title="Arduitter" type="rss" version="RSS" htmlUrl="http://arduitter.blogspot.com/" xmlUrl="http://arduitter.blogspot.com/feeds/posts/default" />
 	<outline text="Asciimation" title="Asciimation" type="rss" version="RSS" htmlUrl="http://www.asciimation.co.nz/bb" xmlUrl="http://www.asciimation.co.nz/bb/feed/atom" />
-	<outline text="Average Man Vs Raspberry Pi" title="Average Man Vs Raspberry Pi" type="rss" version="RSS" htmlUrl="http://www.averagemanvsraspberrypi.com" xmlUrl="http://www.averagemanvsraspberrypi.com/feed" />
-	<outline text="Average Man vs Raspberry Pi - RPi Projects, Python and More" title="Average Man vs Raspberry Pi - RPi Projects, Python and More" type="rss" version="RSS" htmlUrl="http://www.averagemanvsraspberrypi.com" xmlUrl="http://www.averagemanvsraspberrypi.com/feeds/posts/default" />
+	<outline text="Average Man Vs Raspberry Pi" title="Average Man Vs Raspberry Pi" type="rss" version="RSS" htmlUrl="http://averagemaker.com" xmlUrl="http://www.averagemanvsraspberrypi.com/feed" />
 	<outline text="Avian’s Blog" title="Avian’s Blog" type="rss" version="RSS" htmlUrl="https://www.tablix.org/~avian/blog/" xmlUrl="http://www.tablix.org/~avian/blog/atom.xml" />
 	<outline text="Azear's Build-Blog" title="Azear's Build-Blog" type="rss" version="RSS" htmlUrl="https://azear.wordpress.com" xmlUrl="http://azear.wordpress.com/feed/" />
 	<outline text="basbrun.com" title="basbrun.com" type="rss" version="RSS" htmlUrl="http://basbrun.com" xmlUrl="http://basbrun.com/feed/" />
@@ -80,36 +76,30 @@
 	<outline text="bunnie's blog" title="bunnie's blog" type="rss" version="RSS" htmlUrl="https://www.bunniestudios.com/blog" xmlUrl="http://www.bunniestudios.com/blog/?feed=rss2" />
 	<outline text="Burnt Traces" title="Burnt Traces" type="rss" version="RSS" htmlUrl="http://burnt-traces.com" xmlUrl="http://burnt-traces.com/?feed=rss2" />
 	<outline text="Buxtronix" title="Buxtronix" type="rss" version="RSS" htmlUrl="http://www.buxtronix.net/" xmlUrl="http://www.buxtronix.net/feeds/posts/default" />
-	<outline text="C i b o M a h t o . c o m" title="C i b o M a h t o . c o m" type="rss" version="RSS" htmlUrl="http://www.cibomahto.com" xmlUrl="http://www.cibomahto.com/feed/" />
 	<outline text="a c i d b o u r b o n" title="a c i d b o u r b o n" type="rss" version="RSS" htmlUrl="https://acidbourbon.wordpress.com" xmlUrl="https://acidbourbon.wordpress.com/feed/" />
-	<outline text="Carriots Blog" title="Carriots Blog" type="rss" version="RSS" htmlUrl="https://blog.carriots.com" xmlUrl="https://blog.carriots.com/feed/" />
 	<outline text="Catmacey's stuff" title="Catmacey's stuff" type="rss" version="RSS" htmlUrl="https://catmacey.wordpress.com" xmlUrl="http://catmacey.wordpress.com/feed/" />
-	<outline text="CerebralMeltdown.com" title="CerebralMeltdown.com" type="rss" version="RSS" htmlUrl="http://www.cerebralmeltdown.com" xmlUrl="http://feeds.feedburner.com/Cerebralmeltdown" />
+	<outline text="CerebralMeltdown.com" title="CerebralMeltdown.com" type="rss" version="RSS" htmlUrl="https://www.cerebralmeltdown.com" xmlUrl="http://feeds.feedburner.com/Cerebralmeltdown" />
 	<outline text="ch00ftech Industries" title="ch00ftech Industries" type="rss" version="RSS" htmlUrl="http://ch00ftech.com" xmlUrl="http://ch00ftech.com/feed/" />
 	<outline text="Charles Wilkinson" title="Charles Wilkinson" type="rss" version="RSS" htmlUrl="https://charleswilkinson.co.uk" xmlUrl="http://charleswilkinson.co.uk/feed/" />
-	<outline text="Charles's Blog" title="Charles's Blog" type="rss" version="RSS" htmlUrl="http://hallard.me" xmlUrl="http://hallard.me/feed/" />
+	<outline text="Charles's Blog" title="Charles's Blog" type="rss" version="RSS" htmlUrl="https://hallard.me" xmlUrl="https://hallard.me/feed/" />
 	<outline text="CHEAP SCIENCE" title="CHEAP SCIENCE" type="rss" version="RSS" htmlUrl="http://www.cheapscience.com" xmlUrl="http://www.cheapscience.com/feed" />
 	<outline text="The Cheap Vegetable Gardener" title="The Cheap Vegetable Gardener" type="rss" version="RSS" htmlUrl="http://www.cheapvegetablegardener.com" xmlUrl="http://www.cheapvegetablegardener.com/feed/" />
 	<outline text="chibitronics" title="chibitronics" type="rss" version="RSS" htmlUrl="https://chibitronics.com" xmlUrl="http://chibitronics.com/feed/" />
-	<outline text="Chip Overclock" title="Chip Overclock" type="rss" version="RSS" htmlUrl="http://coverclock.blogspot.com/" xmlUrl="http://coverclock.blogspot.com/feeds/posts/default" />
-	<outline text="Chris Gammell's Analog Life" title="Chris Gammell's Analog Life" type="rss" version="RSS" htmlUrl="http://chrisgammell.com" xmlUrl="http://chrisgammell.com/feed/" />
+	<outline text="Chip Overclock" title="Chip Overclock" type="rss" version="RSS" htmlUrl="https://coverclock.blogspot.com/" xmlUrl="http://coverclock.blogspot.com/feeds/posts/default" />
+	<outline text="Chris Gammell's Analog Life" title="Chris Gammell's Analog Life" type="rss" version="RSS" htmlUrl="https://chrisgammell.com" xmlUrl="http://chrisgammell.com/feed/" />
 	<outline text="Circuit Lake" title="Circuit Lake" type="rss" version="RSS" htmlUrl="http://www.circuitlake.com" xmlUrl="http://www.circuitlake.com/feed" />
 	<outline text="Circuit Project Electronic" title="Circuit Project Electronic" type="rss" version="RSS" htmlUrl="https://www.eleccircuit.com" xmlUrl="http://www.eleccircuit.com/feed/" />
 	<outline text="CircuitHub Blog" title="CircuitHub Blog" type="rss" version="RSS" htmlUrl="http://blog.circuithub.com/" xmlUrl="http://blog.circuithub.com/feeds/posts/default" />
 	<outline text="Circuits@Home" title="Circuits@Home" type="rss" version="RSS" htmlUrl="https://localhost" xmlUrl="http://feeds2.feedburner.com/chome" />
-	<outline text="Citoyens Capteurs" title="Citoyens Capteurs" type="rss" version="RSS" htmlUrl="http://www.citoyenscapteurs.net" xmlUrl="http://www.citoyenscapteurs.net/feed/" />
 	<outline text="CMiYC Labs, Inc." title="CMiYC Labs, Inc." type="rss" version="RSS" htmlUrl="https://www.baldengineer.com" xmlUrl="http://www.baldengineer.com/feed" />
 	<outline text="CMiYC Labs, Inc." title="CMiYC Labs, Inc." type="rss" version="RSS" htmlUrl="https://www.baldengineer.com" xmlUrl="http://www.baldengineer.com/feed/" />
-	<outline text="code, circuits, &amp; construction" title="code, circuits, &amp; construction" type="rss" version="RSS" htmlUrl="http://www.tigoe.com/pcomp/code" xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom/" />
-	<outline text="code, circuits, &amp; construction" title="code, circuits, &amp; construction" type="rss" version="RSS" htmlUrl="http://www.tigoe.com/pcomp/code" xmlUrl="http://www.tigoe.net/pcomp/code/feed/" />
-	<outline text="Comments for Carriots Blog" title="Comments for Carriots Blog" type="rss" version="RSS" htmlUrl="https://blog.carriots.com" xmlUrl="https://blog.carriots.com/comments/feed/" />
-	<outline text="Connected-Objects.fr" title="Connected-Objects.fr" type="rss" version="RSS" htmlUrl="http://connected-objects.fr" xmlUrl="http://connected-objects.fr/feed/" />
+	<outline text="code, circuits, &amp; construction" title="code, circuits, &amp; construction" type="rss" version="RSS" htmlUrl="https://www.tigoe.com/pcomp/code" xmlUrl="http://www.tigoe.net/pcomp/code/feed/atom/" />
+	<outline text="code, circuits, &amp; construction" title="code, circuits, &amp; construction" type="rss" version="RSS" htmlUrl="https://www.tigoe.com/pcomp/code" xmlUrl="http://www.tigoe.net/pcomp/code/feed/" />
 	<outline text="Conversations with spaces" title="Conversations with spaces" type="rss" version="RSS" htmlUrl="https://hcgilje.wordpress.com" xmlUrl="http://hcgilje.wordpress.com/feed/" />
 	<outline text="Coretech Robotics" title="Coretech Robotics" type="rss" version="RSS" htmlUrl="http://coretechrobotics.blogspot.com/" xmlUrl="http://coretechrobotics.blogspot.com/feeds/posts/default" />
 	<outline text="Cosa" title="Cosa" type="rss" version="RSS" htmlUrl="http://cosa-arduino.blogspot.com/" xmlUrl="http://cosa-arduino.blogspot.com/feeds/posts/default" />
 	<outline text="CowFish Studios - Blog" title="CowFish Studios - Blog" type="rss" version="RSS" htmlUrl="http://www.cowfishstudios.com/blog" xmlUrl="http://www.cowfishstudios.com/blog/feed" />
-	<outline text="cpldcpu" title="cpldcpu" type="rss" version="RSS" htmlUrl="https://cpldcpu.com" xmlUrl="http://cpldcpu.wordpress.com/feed/" />
-	<outline text="Cupid Controls" title="Cupid Controls" type="rss" version="RSS" htmlUrl="http://www.cupidcontrols.com" xmlUrl="http://www.cupidcontrols.com/feed/" />
+	<outline text="cpldcpu" title="cpldcpu" type="rss" version="RSS" htmlUrl="https://cpldcpu.wordpress.com" xmlUrl="http://cpldcpu.wordpress.com/feed/" />
 	<outline text="The Custom Geek" title="The Custom Geek" type="rss" version="RSS" htmlUrl="http://thecustomgeek.com" xmlUrl="http://thecustomgeek.com/feed/" />
 	<outline text="Cybertronics" title="Cybertronics" type="rss" version="RSS" htmlUrl="http://cybertronics.blogspot.com/" xmlUrl="http://cybertronics.blogspot.com/feeds/posts/default" />
 	<outline text="Dammit Coetzee" title="Dammit Coetzee" type="rss" version="RSS" htmlUrl="http://dammitcoetzee.com" xmlUrl="http://dammitcoetzee.com/feed/" />
@@ -118,15 +108,15 @@
 	<outline text="DanielAndrade.net" title="DanielAndrade.net" type="rss" version="RSS" htmlUrl="https://www.danielandrade.net" xmlUrl="http://feeds.feedburner.com/danielsandrade" />
 	<outline text="DannyBlog" title="DannyBlog" type="rss" version="RSS" htmlUrl="http://www.dannyboy.se/blog" xmlUrl="http://www.dannyboy.se/blog/?feed=rss" />
 	<outline text="danstrother.com" title="danstrother.com" type="rss" version="RSS" htmlUrl="https://danstrother.com" xmlUrl="http://danstrother.com/feed/" />
+	<outline text="Dave Schmenk's Projects Page" title="Dave Schmenk's Projects Page" type="rss" version="RSS" htmlUrl="http://schmenk.is-a-geek.com/wordpress" xmlUrl="http://schmenk.is-a-geek.com/wordpress/?feed=rss2" />
 	<outline text="David Bynoe ... works in progress" title="David Bynoe ... works in progress" type="rss" version="RSS" htmlUrl="http://dbynoe.blogspot.com/" xmlUrl="http://dbynoe.blogspot.com/feeds/posts/default" />
 	<outline text="Davide Gironi" title="Davide Gironi" type="rss" version="RSS" htmlUrl="http://davidegironi.blogspot.com/" xmlUrl="http://davidegironi.blogspot.com/feeds/posts/default" />
 	<outline text="Desert Home" title="Desert Home" type="rss" version="RSS" htmlUrl="http://www.desert-home.com/" xmlUrl="http://www.desert-home.com/feeds/posts/default" />
-	<outline text="Design Notes - EEWeb" title="Design Notes - EEWeb" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/application-design-notes/" xmlUrl="http://www.eeweb.com/feeds/application-design-notes/" />
 	<outline text="Design with Microcontrollers" title="Design with Microcontrollers" type="rss" version="RSS" htmlUrl="http://www.dharmanitech.com/" xmlUrl="http://www.dharmanitech.com/feeds/posts/default" />
 	<outline text="Dev-O-Rama" title="Dev-O-Rama" type="rss" version="RSS" htmlUrl="http://marioboehmer.blogspot.com/" xmlUrl="http://marioboehmer.blogspot.com/feeds/posts/default" />
 	<outline text="Develop with Arduino" title="Develop with Arduino" type="rss" version="RSS" htmlUrl="http://arduinodev.com" xmlUrl="http://arduinodev.com/feed/" />
 	<outline text="DGK Electronics" title="DGK Electronics" type="rss" version="RSS" htmlUrl="http://www.dgkelectronics.com" xmlUrl="http://www.dgkelectronics.com/feed/" />
-	<outline text="Digital Me" title="Digital Me" type="rss" version="RSS" htmlUrl="https://ba0sh1.com" xmlUrl="http://feeds.feedburner.com/digitalmeblog" />
+	<outline text="Digital Me" title="Digital Me" type="rss" version="RSS" htmlUrl="https://www.ba0sh1.com" xmlUrl="http://feeds.feedburner.com/digitalmeblog" />
 	<outline text="Dilshan R Jayakody’s Web Log" title="Dilshan R Jayakody’s Web Log" type="rss" version="RSS" htmlUrl="http://jayakody2000lk.blogspot.com/" xmlUrl="http://jayakody2000lk.blogspot.com/feeds/posts/default" />
 	<outline text="DIY" title="DIY" type="rss" version="RSS" htmlUrl="https://www.edn.com" xmlUrl="http://www.edn.com/rss/design/diy" />
 	<outline text="DIY AutoLab" title="DIY AutoLab" type="rss" version="RSS" htmlUrl="http://diyautolab.blogspot.com/" xmlUrl="http://diyautolab.blogspot.com/feeds/posts/default" />
@@ -138,15 +128,11 @@
 	<outline text="Dr. Michael Kroll" title="Dr. Michael Kroll" type="rss" version="RSS" htmlUrl="http://www.mkroll.mobi" xmlUrl="http://www.mkroll.mobi/?feed=rss2" />
 	<outline text="Dr. Monk's DIY Electronics Blog" title="Dr. Monk's DIY Electronics Blog" type="rss" version="RSS" htmlUrl="http://www.doctormonk.com/" xmlUrl="http://www.doctormonk.com/feeds/posts/default" />
 	<outline text="Dr. Rainer Hessmer" title="Dr. Rainer Hessmer" type="rss" version="RSS" htmlUrl="http://www.hessmer.org/blog" xmlUrl="http://www.hessmer.org/blog/feed/" />
-	<outline text="Dylan's Projects" title="Dylan's Projects" type="rss" version="RSS" htmlUrl="http://blog.dylanhrush.com/" xmlUrl="http://blog.dylanhrush.com/feeds/posts/default" />
-	<outline text="eclecticc" title="eclecticc" type="rss" version="RSS" htmlUrl="http://eclecti.cc" xmlUrl="http://eclecti.cc/feed" />
+	<outline text="eclecticc" title="eclecticc" type="rss" version="RSS" htmlUrl="https://eclecti.cc" xmlUrl="http://eclecti.cc/feed" />
 	<outline text="EEVblog - Electronics Engineering Video Blog" title="EEVblog - Electronics Engineering Video Blog" type="rss" version="RSS" htmlUrl="https://www.eevblog.com" xmlUrl="http://www.eevblog.com/feed/" />
 	<outline text="EEWeb Articles" title="EEWeb Articles" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/articles/" xmlUrl="http://www.eeweb.com/feeds/articles/" />
 	<outline text="EEWeb Design News" title="EEWeb Design News" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/news/" xmlUrl="http://www.eeweb.com/feeds/news/" />
-	<outline text="EEWeb Projects" title="EEWeb Projects" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/projects/" xmlUrl="http://www.eeweb.com/feeds/projects/" />
 	<outline text="Eleccelerator" title="Eleccelerator" type="rss" version="RSS" htmlUrl="http://eleccelerator.com" xmlUrl="http://eleccelerator.com/feed/" />
-	<outline text="ElecFreaks" title="ElecFreaks" type="rss" version="RSS" htmlUrl="https://www.elecfreaks.com" xmlUrl="http://www.elecfreaks.com/feed" />
-	<outline text="The Electric Squid" title="The Electric Squid" type="rss" version="RSS" htmlUrl="http://theelectricsquid.com/" xmlUrl="http://theelectricsquid.com/blog?format=rss" />
 	<outline text="Electro Bob" title="Electro Bob" type="rss" version="RSS" htmlUrl="http://www.electrobob.com" xmlUrl="http://www.electrobob.com/feed/" />
 	<outline text="Electronic Circuits" title="Electronic Circuits" type="rss" version="RSS" htmlUrl="http://www.electronicecircuits.com" xmlUrl="http://www.electronicecircuits.com/feed" />
 	<outline text="electronic hamsters" title="electronic hamsters" type="rss" version="RSS" htmlUrl="https://electronichamsters.wordpress.com" xmlUrl="http://electronichamsters.wordpress.com/feed/" />
@@ -156,34 +142,26 @@
 	<outline text="The Electronics Deli" title="The Electronics Deli" type="rss" version="RSS" htmlUrl="https://electronicsdeli.wordpress.com" xmlUrl="http://electronicsdeli.wordpress.com/feed/" />
 	<outline text="Electronics projects and kits" title="Electronics projects and kits" type="rss" version="RSS" htmlUrl="http://www.knutsel.org" xmlUrl="http://www.knutsel.org/feed/" />
 	<outline text="Electronics-Lab.com Blog" title="Electronics-Lab.com Blog" type="rss" version="RSS" htmlUrl="http://www.electronics-lab.com" xmlUrl="http://www.electronics-lab.com/blog/?feed=rss2" />
-	<outline text="electronicsblog.net" title="electronicsblog.net" type="rss" version="RSS" htmlUrl="http://www.electronicsblog.net" xmlUrl="http://www.electronicsblog.net/feed/" />
 	<outline text="electronut.in" title="electronut.in" type="rss" version="RSS" htmlUrl="http://electronut.in/" xmlUrl="http://electronut.in/feed.xml" />
 	<outline text="electropages.com Latest Articles" title="electropages.com Latest Articles" type="rss" version="RSS" htmlUrl="https://www.electropages.com" xmlUrl="http://feeds.feedburner.com/Electropages/" />
 	<outline text="elek101" title="elek101" type="rss" version="RSS" htmlUrl="http://www.polaxis.be" xmlUrl="http://elek101.blogspot.com/feeds/posts/default" />
 	<outline text="ElektorEmbedded" title="ElektorEmbedded" type="rss" version="RSS" htmlUrl="http://elektorembedded.blogspot.com/" xmlUrl="http://elektorembedded.blogspot.com/feeds/posts/default" />
 	<outline text="Elektronika.ba" title="Elektronika.ba" type="rss" version="RSS" htmlUrl="http://www.elektronika.ba/" xmlUrl="http://feeds2.feedburner.com/Elektronikaba-en" />
 	<outline text="ELETTRONICA OPEN SOURCE" title="ELETTRONICA OPEN SOURCE" type="rss" version="RSS" htmlUrl="https://it.emcelettronica.com" xmlUrl="http://feeds.feedburner.com/emcelettronica/it" />
-	<outline text="Embedded Development on OSX." title="Embedded Development on OSX." type="rss" version="RSS" htmlUrl="http://www.osx-avr.org" xmlUrl="http://www.osx-avr.org/feed/" />
 	<outline text="Embedded Electrical Engineering Plus" title="Embedded Electrical Engineering Plus" type="rss" version="RSS" htmlUrl="https://embeddedengineer.wordpress.com" xmlUrl="http://embeddedengineer.wordpress.com/feed/" />
 	<outline text="Embedded Innovation" title="Embedded Innovation" type="rss" version="RSS" htmlUrl="http://yveaux.blogspot.com/" xmlUrl="http://yveaux.blogspot.com/feeds/posts/default" />
 	<outline text="Embedded Lab" title="Embedded Lab" type="rss" version="RSS" htmlUrl="http://embedded-lab.com/blog" xmlUrl="http://embedded-lab.com/blog/?feed=rss2" />
-	<outline text="Embedded projects from around the web" title="Embedded projects from around the web" type="rss" version="RSS" htmlUrl="http://www.embedds.com" xmlUrl="http://www.embedds.com/feed/" />
-	<outline text="EngBlaze" title="EngBlaze" type="rss" version="RSS" htmlUrl="http://www.engblaze.com" xmlUrl="http://www.engblaze.com/feed/" />
-	<outline text="Engineering blog of Nick Leijenhorst  —  Benkyo Lab" title="Engineering blog of Nick Leijenhorst  —  Benkyo Lab" type="rss" version="RSS" htmlUrl="http://www.benkyo.nl/lab" xmlUrl="http://www.benkyo.nl/lab/feed/" />
+	<outline text="Embedded projects from around the web" title="Embedded projects from around the web" type="rss" version="RSS" htmlUrl="https://embedds.com" xmlUrl="http://www.embedds.com/feed/" />
 	<outline text="epictronics" title="epictronics" type="rss" version="RSS" htmlUrl="https://epictronics.wordpress.com" xmlUrl="http://epictronics.wordpress.com/feed/" />
 	<outline text="ermicroblog" title="ermicroblog" type="rss" version="RSS" htmlUrl="http://www.ermicro.com/blog" xmlUrl="http://www.ermicro.com/blog/?feed=rss2" />
 	<outline text="Evil Mad Scientist Laboratories" title="Evil Mad Scientist Laboratories" type="rss" version="RSS" htmlUrl="https://www.evilmadscientist.com" xmlUrl="http://www.evilmadscientist.com/feed/" />
 	<outline text="Explore all projects - Page 1 - Hackster.io" title="Explore all projects - Page 1 - Hackster.io" type="rss" version="RSS" htmlUrl="https://www.hackster.io" xmlUrl="https://www.hackster.io/projects.atom?sort=recent" />
 	<outline text="eXtreme Electronics" title="eXtreme Electronics" type="rss" version="RSS" htmlUrl="http://extremeelectronics.co.in" xmlUrl="http://extremeelectronics.co.in/feed/" />
-	<outline text="Fablab RUC" title="Fablab RUC" type="rss" version="RSS" htmlUrl="http://fablab.ruc.dk/" xmlUrl="http://fablab.ruc.dk/rss/" />
 	<outline text="Fake EE Quips" title="Fake EE Quips" type="rss" version="RSS" htmlUrl="https://fakeeequips.wordpress.com" xmlUrl="http://fakeeequips.wordpress.com/feed/" />
-	<outline text="False and misleading information" title="False and misleading information" type="rss" version="RSS" htmlUrl="http://false.ekta.is" xmlUrl="http://false.ekta.is/feed/" />
 	<outline text="Faz Jaxton" title="Faz Jaxton" type="rss" version="RSS" htmlUrl="http://www.fazjaxton.net" xmlUrl="http://www.fazjaxton.net/feed/" />
 	<outline text="Featured Engineers - EEWeb" title="Featured Engineers - EEWeb" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/featured-engineers/" xmlUrl="http://www.eeweb.com/feeds/featured-engineers/" />
-	<outline text="Featured Websites - EEWeb" title="Featured Websites - EEWeb" type="rss" version="RSS" htmlUrl="https://www.eeweb.com/feeds/featured-sites/" xmlUrl="http://www.eeweb.com/feeds/featured-sites/" />
-	<outline text="Four-Three-Oh!" title="Four-Three-Oh!" type="rss" version="RSS" htmlUrl="http://43oh.com" xmlUrl="http://43oh.com/feed/" />
+	<outline text="Four-Three-Oh!" title="Four-Three-Oh!" type="rss" version="RSS" htmlUrl="https://43oh.com" xmlUrl="http://43oh.com/feed/" />
 	<outline text="Freetronics - News" title="Freetronics - News" type="rss" version="RSS" htmlUrl="https://www.freetronics.com.au/blogs/news" xmlUrl="http://www.freetronics.com/blogs/news.atom" />
-	<outline text="FriedCircuits DocsFriedCircuits Docs" title="FriedCircuits DocsFriedCircuits Docs" type="rss" version="RSS" htmlUrl="https://learn.friedcircuits.us" xmlUrl="http://friedcircuits.us/docs/feed/" />
 	<outline text="frugaltinker" title="frugaltinker" type="rss" version="RSS" htmlUrl="https://frugaltinker.com" xmlUrl="http://frugaltinker.com/feed/" />
 	<outline text="Fun with Microcontrollers!" title="Fun with Microcontrollers!" type="rss" version="RSS" htmlUrl="http://arduinofun.blogspot.com/" xmlUrl="http://arduinofun.blogspot.com/feeds/posts/default" />
 	<outline text="a gde" title="a gde" type="rss" version="RSS" htmlUrl="http://elco.crsndoo.com/wordpress" xmlUrl="http://elco.crsndoo.com/wordpress/feed/" />
@@ -204,40 +182,39 @@
 	<outline text="heliosoph" title="heliosoph" type="rss" version="RSS" htmlUrl="http://heliosoph.mit-links.info" xmlUrl="http://heliosoph.mit-links.info/feed/" />
 	<outline text="High-Low Tech – Programming an ATtiny w/ Arduino" title="High-Low Tech – Programming an ATtiny w/ Arduino" type="rss" version="RSS" htmlUrl="http://highlowtech.org" xmlUrl="http://hlt.media.mit.edu/?feed=rss2" />
 	<outline text="Hive sense" title="Hive sense" type="rss" version="RSS" htmlUrl="https://hivesense.wordpress.com" xmlUrl="https://hivesense.wordpress.com/feed/" />
-	<outline text="HiveMQ | Enterprise MQTT Broker » Blog" title="HiveMQ | Enterprise MQTT Broker » Blog" type="rss" version="RSS" htmlUrl="http://www.hivemq.com" xmlUrl="http://www.hivemq.com/blog/feed/" />
+	<outline text="HiveMQ | Enterprise MQTT Broker » Blog" title="HiveMQ | Enterprise MQTT Broker » Blog" type="rss" version="RSS" htmlUrl="https://www.hivemq.com" xmlUrl="http://www.hivemq.com/blog/feed/" />
 	<outline text="Hobby Robotics" title="Hobby Robotics" type="rss" version="RSS" htmlUrl="http://www.glacialwanderer.com/hobbyrobotics" xmlUrl="http://www.glacialwanderer.com/hobbyrobotics/?feed=rss2" />
 	<outline text="Hoektronics.com" title="Hoektronics.com" type="rss" version="RSS" htmlUrl="http://www.hoektronics.com" xmlUrl="http://www.hoektronics.com/feed/" />
 	<outline text="Home" title="Home" type="rss" version="RSS" htmlUrl="http://mercenarymind.com/component/content/frontpage" xmlUrl="http://mercenarymind.com/index.php?format=feed&amp;type=rss" />
 	<outline text="HomeLabs Blog" title="HomeLabs Blog" type="rss" version="RSS" htmlUrl="http://blog.homelabs.org.uk" xmlUrl="http://blog.homelabs.org.uk/feed/" />
-	<outline text="Hong's Electronics" title="Hong's Electronics" type="rss" version="RSS" htmlUrl="http://www.jhongelectronics.org/" xmlUrl="http://www.jhongelectronics.org/feeds/posts/default" />
+	<outline text="Hong's Electronics" title="Hong's Electronics" type="rss" version="RSS" htmlUrl="https://www.jhongelectronics.org/" xmlUrl="http://www.jhongelectronics.org/feeds/posts/default" />
 	<outline text="I, Bioloid" title="I, Bioloid" type="rss" version="RSS" htmlUrl="http://mike-ibioloid.blogspot.com/" xmlUrl="http://mike-ibioloid.blogspot.com/feeds/posts/default" />
 	<outline text="I'd Rather Be Building Robots » Released: 3rd Party ROBOTC Driver Suite V1.6" title="I'd Rather Be Building Robots » Released: 3rd Party ROBOTC Driver Suite V1.6" type="rss" version="RSS" htmlUrl="http://botbench.com/blog" xmlUrl="http://botbench.com/blog/feed/" />
 	<outline text="IDEO Labs" title="IDEO Labs" type="rss" version="RSS" htmlUrl="https://labs.ideo.com" xmlUrl="http://labs.ideo.com/feed/" />
 	<outline text="IEEE Spectrum Geek Life Channel" title="IEEE Spectrum Geek Life Channel" type="rss" version="RSS" htmlUrl="https://spectrum.ieee.orggeek-life" xmlUrl="http://feeds.feedburner.com/IeeeSpectrumGeekLife" />
 	<outline text="Ilias Giechaskiel" title="Ilias Giechaskiel" type="rss" version="RSS" htmlUrl="https://ilias.giechaskiel.com/" xmlUrl="https://ilias.giechaskiel.com/posts/posts.xml" />
-	<outline text="ILoveFPV.COM" title="ILoveFPV.COM" type="rss" version="RSS" htmlUrl="http://www.ilovefpv.com" xmlUrl="http://www.ilovefpv.com/feed/" />
 	<outline text="imsolidstate" title="imsolidstate" type="rss" version="RSS" htmlUrl="http://www.imsolidstate.com" xmlUrl="http://www.imsolidstate.com/feed" />
+	<outline text="In Which Jarrett Builds" title="In Which Jarrett Builds" type="rss" version="RSS" htmlUrl="https://jrainimo.com/build" xmlUrl="http://jrainimo.com/build/?feed=rss2" />
 	<outline text="Indian Tinker" title="Indian Tinker" type="rss" version="RSS" htmlUrl="https://indiantinker.wordpress.com" xmlUrl="http://indiantinker.wordpress.com/feed/" />
 	<outline text="The Inebriator | Arduino powered cocktail machine" title="The Inebriator | Arduino powered cocktail machine" type="rss" version="RSS" htmlUrl="http://www.theinebriator.com" xmlUrl="http://www.theinebriator.com/feed/" />
 	<outline text="infar.be" title="infar.be" type="rss" version="RSS" htmlUrl="http://infar.be/" xmlUrl="http://infar.be/index.php?/feeds/index.rss2" />
 	<outline text="insideGadgets" title="insideGadgets" type="rss" version="RSS" htmlUrl="https://www.insidegadgets.com" xmlUrl="http://www.insidegadgets.com/feed/" />
 	<outline text="The Invention Factory" title="The Invention Factory" type="rss" version="RSS" htmlUrl="http://www.inventionfactory.xyz/" xmlUrl="http://inventionfactory.blogspot.com/feeds/posts/default" />
-	<outline text="IoTivity blogs" title="IoTivity blogs" type="rss" version="RSS" htmlUrl="https://www.iotivity.org/blog" xmlUrl="https://www.iotivity.org/blog/feed" />
+	<outline text="IoTivity blogs" title="IoTivity blogs" type="rss" version="RSS" htmlUrl="https://iotivity.org/blog" xmlUrl="https://www.iotivity.org/blog/feed" />
 	<outline text="JamiePriceCreative.com" title="JamiePriceCreative.com" type="rss" version="RSS" htmlUrl="http://jamiepricecreative.com" xmlUrl="http://jamiepricecreative.com/feed/" />
 	<outline text="Jee Labs" title="Jee Labs" type="rss" version="RSS" htmlUrl="https://jeelabs.org/" xmlUrl="http://jeelabs.org/feed/" />
 	<outline text="Jeff's Arduino Blog" title="Jeff's Arduino Blog" type="rss" version="RSS" htmlUrl="http://jmsarduino.blogspot.com/" xmlUrl="http://jmsarduino.blogspot.com/feeds/posts/default" />
 	<outline text="Jelmer Tiete" title="Jelmer Tiete" type="rss" version="RSS" htmlUrl="https://jelmertiete.com/" xmlUrl="http://jelmertiete.com/feed.xml" />
-	<outline text="JeremyBlum.com" title="JeremyBlum.com" type="rss" version="RSS" htmlUrl="http://www.jeremyblum.com" xmlUrl="http://www.jeremyblum.com/feed/" />
+	<outline text="JeremyBlum.com" title="JeremyBlum.com" type="rss" version="RSS" htmlUrl="https://www.jeremyblum.com" xmlUrl="http://www.jeremyblum.com/feed/" />
 	<outline text="Jim's Blog" title="Jim's Blog" type="rss" version="RSS" htmlUrl="http://parkyjimbo.blogspot.com/" xmlUrl="http://parkyjimbo.blogspot.com/feeds/posts/default" />
 	<outline text="Joe Garrison 2011 Web Edition" title="Joe Garrison 2011 Web Edition" type="rss" version="RSS" htmlUrl="https://blog.saleae.com/" xmlUrl="http://blog.saleae.com/feed/" />
 	<outline text="Johan von Konow" title="Johan von Konow" type="rss" version="RSS" htmlUrl="http://vonkonow.com/wordpress" xmlUrl="http://vonkonow.com/wordpress/feed/" />
 	<outline text="John's Exploits" title="John's Exploits" type="rss" version="RSS" htmlUrl="http://johnsexploits.blogspot.com/" xmlUrl="http://johnsexploits.blogspot.com/feeds/posts/default" />
-	<outline text="johngineer" title="johngineer" type="rss" version="RSS" htmlUrl="http://www.johngineer.com/blog" xmlUrl="http://www.johngineer.com/blog/?feed=rss2" />
 	<outline text="Jonathan Oxer\'s Brain(cell)" title="Jonathan Oxer\'s Brain(cell)" type="rss" version="RSS" htmlUrl="http://jon.oxer.com.au/" xmlUrl="http://jon.oxer.com.au/sb/modules/blog/feeds/rss2.xml" />
 	<outline text="Jonathan Oxer\'s Brain(cell)" title="Jonathan Oxer\'s Brain(cell)" type="rss" version="RSS" htmlUrl="http://jon.oxer.com.au/" xmlUrl="http://jon.oxer.com.au/sb/modules/blog/feeds/atom.xml" />
 	<outline text="josh.com" title="josh.com" type="rss" version="RSS" htmlUrl="https://wp.josh.com" xmlUrl="http://wp.josh.com/feed/" />
 	<outline text="Jumptuck" title="Jumptuck" type="rss" version="RSS" htmlUrl="http://jumptuck.com" xmlUrl="http://jumptuck.com/feed/" />
-	<outline text="Just Another JAL Website" title="Just Another JAL Website" type="rss" version="RSS" htmlUrl="http://justanotherlanguage.org" xmlUrl="http://justanotherlanguage.org/rss.xml" />
+	<outline text="Just Another JAL Website" title="Just Another JAL Website" type="rss" version="RSS" htmlUrl="http://www.justanotherlanguage.org:3389" xmlUrl="http://justanotherlanguage.org/rss.xml" />
 	<outline text="K / G" title="K / G" type="rss" version="RSS" htmlUrl="http://kylegabriel.com" xmlUrl="http://kylegabriel.com/feed" />
 	<outline text="Keith's Electronics Blog" title="Keith's Electronics Blog" type="rss" version="RSS" htmlUrl="http://www.neufeld.newton.ks.us/electronics" xmlUrl="http://www.neufeld.newton.ks.us/electronics/?feed=rss2" />
 	<outline text="Ken Shirriff's blog" title="Ken Shirriff's blog" type="rss" version="RSS" htmlUrl="http://www.righto.com/" xmlUrl="http://www.righto.com/feeds/posts/default" />
@@ -251,11 +228,11 @@
 	<outline text="Kytelab blog" title="Kytelab blog" type="rss" version="RSS" htmlUrl="http://blog.kytelabs.com" xmlUrl="http://blog.kytelabs.com/?feed=rss2" />
 	<outline text="Lamja.com" title="Lamja.com" type="rss" version="RSS" htmlUrl="http://www.lamja.com" xmlUrl="http://www.lamja.com/?feed=rss2" />
 	<outline text="Laser Hacker Alternative Energy" title="Laser Hacker Alternative Energy" type="rss" version="RSS" htmlUrl="http://laserhacker.com" xmlUrl="http://laserhacker.com/?feed=atom" />
-	<outline text="LayerOne 2014" title="LayerOne 2014" type="rss" version="RSS" htmlUrl="http://www.layerone.org" xmlUrl="http://www.layerone.org/feed/" />
+	<outline text="LayerOne 2014" title="LayerOne 2014" type="rss" version="RSS" htmlUrl="https://www.layerone.org" xmlUrl="http://www.layerone.org/feed/" />
 	<outline text="Libelium World" title="Libelium World" type="rss" version="RSS" htmlUrl="http://www.libelium.com" xmlUrl="http://www.libelium.com/feed/" />
 	<outline text="The Life of Kenneth" title="The Life of Kenneth" type="rss" version="RSS" htmlUrl="http://blog.thelifeofkenneth.com/" xmlUrl="http://feeds.feedburner.com/TheLifeOfKenneth" />
 	<outline text="Lifelong Learning" title="Lifelong Learning" type="rss" version="RSS" htmlUrl="https://www.jaycollett.com" xmlUrl="http://www.jaycollett.com/feed/" />
-	<outline text="Limpkin's blog" title="Limpkin's blog" type="rss" version="RSS" htmlUrl="http://www.limpkin.fr/index.php?" xmlUrl="http://www.limpkin.fr/index.php?feed/atom" />
+	<outline text="Limpkin's blog" title="Limpkin's blog" type="rss" version="RSS" htmlUrl="https://www.limpkin.fr/index.php?" xmlUrl="http://www.limpkin.fr/index.php?feed/atom" />
 	<outline text="Linux, IT, DIY, Interesting Stuff..." title="Linux, IT, DIY, Interesting Stuff..." type="rss" version="RSS" htmlUrl="http://pfalcon-oe.blogspot.com/" xmlUrl="http://pfalcon-oe.blogspot.com/feeds/posts/default" />
 	<outline text="Liudr's Blog" title="Liudr's Blog" type="rss" version="RSS" htmlUrl="https://liudr.wordpress.com" xmlUrl="http://liudr.wordpress.com/feed/" />
 	<outline text="The Longhorn Engineer" title="The Longhorn Engineer" type="rss" version="RSS" htmlUrl="http://longhornengineer.com" xmlUrl="http://longhornengineer.com/feed/" />
@@ -274,23 +251,21 @@
 	<outline text="Maniacal Bits" title="Maniacal Bits" type="rss" version="RSS" htmlUrl="http://maniacalbits.blogspot.com/" xmlUrl="http://maniacalbits.blogspot.com/feeds/posts/default" />
 	<outline text="maniacbug" title="maniacbug" type="rss" version="RSS" htmlUrl="https://maniacbug.wordpress.com" xmlUrl="http://maniacbug.wordpress.com/feed/" />
 	<outline text="Markus' Blog" title="Markus' Blog" type="rss" version="RSS" htmlUrl="http://www.jave.de/blog2" xmlUrl="http://www.jave.de/blog2/?feed=rss2" />
-	<outline text="Martin's corner on the web" title="Martin's corner on the web" type="rss" version="RSS" htmlUrl="http://harizanov.com" xmlUrl="http://harizanov.com/feed/" />
+	<outline text="Martin's corner on the web" title="Martin's corner on the web" type="rss" version="RSS" htmlUrl="https://harizanov.com" xmlUrl="http://harizanov.com/feed/" />
 	<outline text="Massively Parallel Procrastination" title="Massively Parallel Procrastination" type="rss" version="RSS" htmlUrl="http://blog.fsck.com/" xmlUrl="http://blog.fsck.com/atom.xml" />
-	<outline text="mbed" title="mbed" type="rss" version="RSS" htmlUrl="https://mbed.org/blog/" xmlUrl="http://mbed.org/blog/feeds/entries/" />
+	<outline text="mbed" title="mbed" type="rss" version="RSS" htmlUrl="https://os.mbed.com/blog/" xmlUrl="http://mbed.org/blog/feeds/entries/" />
 	<outline text="MCU on Eclipse" title="MCU on Eclipse" type="rss" version="RSS" htmlUrl="https://mcuoneclipse.com" xmlUrl="http://mcuoneclipse.com/feed/" />
 	<outline text="Measuring Battery Capacity with an Arduino - Denis Hennessy" title="Measuring Battery Capacity with an Arduino - Denis Hennessy" type="rss" version="RSS" htmlUrl="http://denishennessy.com/" xmlUrl="http://denishennessy.com/atom.xml" />
 	<outline text="Mekonikuv blog" title="Mekonikuv blog" type="rss" version="RSS" htmlUrl="https://mekonik.wordpress.com" xmlUrl="http://mekonik.wordpress.com/feed/" />
 	<outline text="The Memoirs of Jim 'ung" title="The Memoirs of Jim 'ung" type="rss" version="RSS" htmlUrl="http://www.jimhung.co.uk" xmlUrl="http://www.jimhung.co.uk/?feed=rss2" />
 	<outline text="The Memoirs of Jim 'ung » Hacks" title="The Memoirs of Jim 'ung » Hacks" type="rss" version="RSS" htmlUrl="http://www.jimhung.co.uk" xmlUrl="http://www.jimhung.co.uk/?feed=rss2&amp;cat=21" />
 	<outline text="Memos From the Cube" title="Memos From the Cube" type="rss" version="RSS" htmlUrl="http://fourwalledcubicle.com/blog" xmlUrl="http://fourwalledcubicle.com/blog/feed/" />
-	<outline text="Micah's Bloggy Widget" title="Micah's Bloggy Widget" type="rss" version="RSS" htmlUrl="http://scanlime.org" xmlUrl="http://micah.navi.cx/feed/" />
+	<outline text="Micah's Bloggy Widget" title="Micah's Bloggy Widget" type="rss" version="RSS" htmlUrl="https://scanlime.org" xmlUrl="http://micah.navi.cx/feed/" />
 	<outline text="MicroSyl | MCU Electronics projects" title="MicroSyl | MCU Electronics projects" type="rss" version="RSS" htmlUrl="http://www.microsyl.com" xmlUrl="http://www.microsyl.com/index.php/feed/" />
 	<outline text="Mictronics" title="Mictronics" type="rss" version="RSS" htmlUrl="https://www.mictronics.de" xmlUrl="http://www.mictronics.de/feed/" />
-	<outline text="MightyOhm" title="MightyOhm" type="rss" version="RSS" htmlUrl="http://mightyohm.com/blog" xmlUrl="http://mightyohm.com/blog/feed/" />
+	<outline text="MightyOhm" title="MightyOhm" type="rss" version="RSS" htmlUrl="https://mightyohm.com/blog" xmlUrl="http://mightyohm.com/blog/feed/" />
 	<outline text="Mika Tuupola" title="Mika Tuupola" type="rss" version="RSS" htmlUrl="https://appelsiini.net/" xmlUrl="http://feeds.feedburner.com/tuupola" />
 	<outline text="Mike's Lab Notes" title="Mike's Lab Notes" type="rss" version="RSS" htmlUrl="http://www.mike-stirling.com" xmlUrl="http://www.mike-stirling.com/feed/" />
-	<outline text="Mikronauts.com" title="Mikronauts.com" type="rss" version="RSS" htmlUrl="http://www.mikronauts.com" xmlUrl="http://www.mikronauts.com/feed/" />
-	<outline text="The Mind of Bill Porter" title="The Mind of Bill Porter" type="rss" version="RSS" htmlUrl="http://www.billporter.info" xmlUrl="http://www.billporter.info/feed/" />
 	<outline text="MobileWill" title="MobileWill" type="rss" version="RSS" htmlUrl="https://mobilewill.us" xmlUrl="http://www.mobilewill.us/feeds/posts/default" />
 	<outline text="Modern News" title="Modern News" type="rss" version="RSS" htmlUrl="https://moderndevice.com" xmlUrl="http://blog.moderndevice.com/feed/" />
 	<outline text="Moi et mon Arduino, pour le fun" title="Moi et mon Arduino, pour le fun" type="rss" version="RSS" htmlUrl="http://funwitharduino.blogspot.com/" xmlUrl="http://funwitharduino.blogspot.com/feeds/posts/default" />
@@ -298,15 +273,12 @@
 	<outline text="möp, möp!" title="möp, möp!" type="rss" version="RSS" htmlUrl="http://blogs.fsfe.org/clemens" xmlUrl="http://blogs.fsfe.org/clemens/feed/" />
 	<outline text="mossmann's blog" title="mossmann's blog" type="rss" version="RSS" htmlUrl="http://ossmann.blogspot.com/" xmlUrl="http://ossmann.blogspot.com/feeds/posts/default" />
 	<outline text="Mr. ModemHead" title="Mr. ModemHead" type="rss" version="RSS" htmlUrl="http://mrmodemhead.com/blog" xmlUrl="http://mrmodemhead.com/blog/feed/" />
-	<outline text="mruby.sh" title="mruby.sh" type="rss" version="RSS" htmlUrl="https://blog.mruby.sh/" xmlUrl="http://blog.mruby.sh/rss.xml" />
 	<outline text="My 2µF" title="My 2µF" type="rss" version="RSS" htmlUrl="http://blog.spitzenpfeil.org/wordpress" xmlUrl="http://blog.spitzenpfeil.org/wordpress/feed/" />
-	<outline text="My CMS" title="My CMS" type="rss" version="RSS" htmlUrl="http://culturemaker.fr" xmlUrl="http://culturemaker.fr/feed/" />
-	<outline text="My Electronics Hobby" title="My Electronics Hobby" type="rss" version="RSS" htmlUrl="http://leoricksimon.blogspot.com/" xmlUrl="http://leoricksimon.blogspot.com/feeds/posts/default" />
+	<outline text="My Electronics Hobby" title="My Electronics Hobby" type="rss" version="RSS" htmlUrl="https://leoricksimon.blogspot.com/" xmlUrl="http://leoricksimon.blogspot.com/feeds/posts/default" />
 	<outline text="My Projects[ ]Electronics" title="My Projects[ ]Electronics" type="rss" version="RSS" htmlUrl="http://www.ianjohnston.com" xmlUrl="http://www.ianjohnston.com/index.php?option=com_content&amp;view=category&amp;id=3&amp;Itemid=8&amp;format=feed&amp;type=atom" />
 	<outline text="My Raspberry Pi project" title="My Raspberry Pi project" type="rss" version="RSS" htmlUrl="http://raspberrypi.werquin.com/" xmlUrl="http://raspberrypi.werquin.com/rss" />
 	<outline text="My Tech Weblog" title="My Tech Weblog" type="rss" version="RSS" htmlUrl="https://scargill.wordpress.com" xmlUrl="http://scargill.wordpress.com/feed/" />
 	<outline text="N1IR Electronics Website" title="N1IR Electronics Website" type="rss" version="RSS" htmlUrl="http://www.n1ir.com/" xmlUrl="http://www.n1ir.com/feeds/posts/default" />
-	<outline text="Nanode" title="Nanode" type="rss" version="RSS" htmlUrl="http://www.nanode.eu" xmlUrl="http://www.nanode.eu/feed/" />
 	<outline text="nathan.chantrell.net" title="nathan.chantrell.net" type="rss" version="RSS" htmlUrl="https://nathan.chantrell.net" xmlUrl="http://nathan.chantrell.net/feed/" />
 	<outline text="neophob.com" title="neophob.com" type="rss" version="RSS" htmlUrl="http://neophob.com" xmlUrl="http://neophob.com/feed/" />
 	<outline text="Nerd Club" title="Nerd Club" type="rss" version="RSS" htmlUrl="http://nerdclub-uk.blogspot.com/" xmlUrl="http://nerdclub-uk.blogspot.com/feeds/posts/default" />
@@ -314,8 +286,6 @@
 	<outline text="Nerdy By Nature" title="Nerdy By Nature" type="rss" version="RSS" htmlUrl="http://www.nerdybynature.com" xmlUrl="http://www.nerdybynature.com/feed/" />
 	<outline text="News @ Suspect Devices" title="News @ Suspect Devices" type="rss" version="RSS" htmlUrl="http://www.suspectdevices.com/blahg" xmlUrl="http://www.suspectdevices.com/blahg/feed/" />
 	<outline text="NextGenLog" title="NextGenLog" type="rss" version="RSS" htmlUrl="http://nextgenlog.blogspot.com/" xmlUrl="http://nextgenlog.blogspot.com/feeds/posts/default" />
-	<outline text="Niklas Roy" title="Niklas Roy" type="rss" version="RSS" htmlUrl="http://www.niklasroy.com/" xmlUrl="http://www.niklasroy.com/atom/" />
-	<outline text="noise is life" title="noise is life" type="rss" version="RSS" htmlUrl="http://noiseislife.tumblr.com/" xmlUrl="http://noiseislife.tumblr.com/rss" />
 	<outline text="Norwegian Creations" title="Norwegian Creations" type="rss" version="RSS" htmlUrl="https://www.norwegiancreations.com" xmlUrl="http://www.norwegiancreations.com/feed/" />
 	<outline text="Nothing Labs" title="Nothing Labs" type="rss" version="RSS" htmlUrl="http://www.nothinglabs.com" xmlUrl="http://www.nothinglabs.com/?feed=rss2" />
 	<outline text="Nothing Labs (Rich Olson)" title="Nothing Labs (Rich Olson)" type="rss" version="RSS" htmlUrl="http://nothinglabs.blogspot.com/" xmlUrl="http://nothinglabs.blogspot.com/feeds/posts/default" />
@@ -325,10 +295,8 @@
 	<outline text="Nuts and Volts" title="Nuts and Volts" type="rss" version="RSS" htmlUrl="http://www.nutsvolts.com/" xmlUrl="http://www.nutsvolts.com/blog/atom/" />
 	<outline text="NutsAndBoltsAndFlyingSparks" title="NutsAndBoltsAndFlyingSparks" type="rss" version="RSS" htmlUrl="http://nutsandboltsandflyingsparks.blogspot.com/" xmlUrl="http://nutsandboltsandflyingsparks.blogspot.com/feeds/posts/default" />
 	<outline text="NYC Resistor" title="NYC Resistor" type="rss" version="RSS" htmlUrl="https://www.nycresistor.com" xmlUrl="http://www.nycresistor.com/feed/" />
-	<outline text="Octopart Blog - News and Updates" title="Octopart Blog - News and Updates" type="rss" version="RSS" htmlUrl="https://blog.octopart.com" xmlUrl="http://octopart.com/blog/rss" />
 	<outline text="olimex" title="olimex" type="rss" version="RSS" htmlUrl="https://olimex.wordpress.com" xmlUrl="http://olimex.wordpress.com/feed/" />
 	<outline text="Once Around the Block" title="Once Around the Block" type="rss" version="RSS" htmlUrl="https://thedialist.wordpress.com" xmlUrl="http://thedialist.wordpress.com/feed/" />
-	<outline text="One Fridge off the Grid" title="One Fridge off the Grid" type="rss" version="RSS" htmlUrl="http://solar-trap.com" xmlUrl="http://solar-trap.com/?feed=rss2" />
 	<outline text="One Week Wonder" title="One Week Wonder" type="rss" version="RSS" htmlUrl="http://oneweekwonder.blogspot.com/" xmlUrl="http://oneweekwonder.blogspot.com/feeds/posts/default" />
 	<outline text="OoeyGUI" title="OoeyGUI" type="rss" version="RSS" htmlUrl="http://www.ooeygui.com" xmlUrl="http://www.ooeygui.com/?feed=rss2" />
 	<outline text="Open Electronics" title="Open Electronics" type="rss" version="RSS" htmlUrl="https://www.open-electronics.org" xmlUrl="http://www.open-electronics.org/feed/" />
@@ -356,7 +324,6 @@
 	<outline text="PIClock's Blog" title="PIClock's Blog" type="rss" version="RSS" htmlUrl="https://piclock.wordpress.com" xmlUrl="http://piclock.wordpress.com/feed/" />
 	<outline text="Pieter @ KraaimaPieter @ Kraaima" title="Pieter @ KraaimaPieter @ Kraaima" type="rss" version="RSS" htmlUrl="http://kraaima.com" xmlUrl="http://kraaima.com/feed/" />
 	<outline text="Pinta the Autonomous Sailing Robot" title="Pinta the Autonomous Sailing Robot" type="rss" version="RSS" htmlUrl="https://microtransat.wordpress.com" xmlUrl="http://microtransat.wordpress.com/feed/" />
-	<outline text="PlainDSP - Empower your arduino's experience" title="PlainDSP - Empower your arduino's experience" type="rss" version="RSS" htmlUrl="http://www.plaindsp.com" xmlUrl="http://www.plaindsp.com/feed/" />
 	<outline text="PlanetArduino" title="PlanetArduino" type="rss" version="RSS" htmlUrl="http://www.planetarduino.org" xmlUrl="http://feeds.feedburner.com/planetarduino" />
 	<outline text="PlastiBots" title="PlastiBots" type="rss" version="RSS" htmlUrl="http://www.plastibots.com" xmlUrl="http://www.plastibots.com/index.php/feed/" />
 	<outline text="Pleasant Hardware" title="Pleasant Hardware" type="rss" version="RSS" htmlUrl="http://pleasantsoftware.com/developer/3d" xmlUrl="http://pleasantsoftware.com/developer/3d/feed/" />
@@ -378,9 +345,9 @@
 	<outline text="The Rantings of a Techno-Mage" title="The Rantings of a Techno-Mage" type="rss" version="RSS" htmlUrl="https://thefallenindustries.wordpress.com" xmlUrl="http://thefallenindustries.wordpress.com/feed/" />
 	<outline text="Rants from the Embedded Hardware Guy" title="Rants from the Embedded Hardware Guy" type="rss" version="RSS" htmlUrl="http://embeddederic.blogspot.com/" xmlUrl="http://embeddederic.blogspot.com/feeds/posts/default" />
 	<outline text="Raspberry Pi" title="Raspberry Pi" type="rss" version="RSS" htmlUrl="https://www.raspberrypi.org" xmlUrl="http://www.raspberrypi.org/feed/" />
-	<outline text="Raspberry Pi Pod" title="Raspberry Pi Pod" type="rss" version="RSS" htmlUrl="http://www.recantha.co.uk/blog" xmlUrl="http://www.recantha.co.uk/blog/?feed=rss2" />
+	<outline text="Raspberry Pi Pod" title="Raspberry Pi Pod" type="rss" version="RSS" htmlUrl="https://www.recantha.co.uk/blog" xmlUrl="http://www.recantha.co.uk/blog/?feed=rss2" />
 	<outline text="Raspberry Pi Python Adventures" title="Raspberry Pi Python Adventures" type="rss" version="RSS" htmlUrl="http://raspberry-python.blogspot.com/" xmlUrl="http://raspberry-python.blogspot.com/feeds/posts/default" />
-	<outline text="RAYSHOBBY.NET" title="RAYSHOBBY.NET" type="rss" version="RSS" htmlUrl="https://rayshobby.net" xmlUrl="http://rayshobby.net/?feed=rss2" />
+	<outline text="RAYSHOBBY.NET" title="RAYSHOBBY.NET" type="rss" version="RSS" htmlUrl="https://rayshobby.net/wordpress" xmlUrl="http://rayshobby.net/?feed=rss2" />
 	<outline text="RCArduino" title="RCArduino" type="rss" version="RSS" htmlUrl="http://rcarduino.blogspot.com/" xmlUrl="http://rcarduino.blogspot.com/feeds/posts/default" />
 	<outline text="Reactance Labs" title="Reactance Labs" type="rss" version="RSS" htmlUrl="http://reactancelabs.com" xmlUrl="http://reactancelabs.com/?feed=rss2" />
 	<outline text="Recent Commits to arduino-cmake:master" title="Recent Commits to arduino-cmake:master" type="rss" version="RSS" htmlUrl="https://github.com/queezythegreat/arduino-cmake/commits/master" xmlUrl="https://github.com/queezythegreat/arduino-cmake/commits/master.atom" />
@@ -394,22 +361,19 @@
 	<outline text="Rocket Scream" title="Rocket Scream" type="rss" version="RSS" htmlUrl="http://www.rocketscream.com/blog" xmlUrl="http://www.rocketscream.com/blog/feed/" />
 	<outline text="ROG's blog" title="ROG's blog" type="rss" version="RSS" htmlUrl="https://odgregg.wordpress.com" xmlUrl="http://odgregg.wordpress.com/feed/" />
 	<outline text="Romilly's Arduino, Robotics and Electronics Blog" title="Romilly's Arduino, Robotics and Electronics Blog" type="rss" version="RSS" htmlUrl="http://blog.rareschool.com/" xmlUrl="http://romillys-robots.blogspot.com/feeds/posts/default" />
-	<outline text="Roving Dynamics" title="Roving Dynamics" type="rss" version="RSS" htmlUrl="http://rodyne.com" xmlUrl="http://rodyne.com/?feed=rss2" />
 	<outline text="Run Away Brainz" title="Run Away Brainz" type="rss" version="RSS" htmlUrl="http://runawaybrainz.blogspot.com/" xmlUrl="http://runawaybrainz.blogspot.com/feeds/posts/default" />
-	<outline text="Rustic Engineering" title="Rustic Engineering" type="rss" version="RSS" htmlUrl="https://rusticengineering.com" xmlUrl="http://rusticengineering.com/feed/" />
 	<outline text="Same Limmat Twice" title="Same Limmat Twice" type="rss" version="RSS" htmlUrl="http://samelimmat.blogspot.com/" xmlUrl="http://samelimmat.blogspot.com/feeds/posts/default" />
-	<outline text="scanlime" title="scanlime" type="rss" version="RSS" htmlUrl="http://scanlime.org" xmlUrl="http://scanlime.org/feed/" />
+	<outline text="scanlime" title="scanlime" type="rss" version="RSS" htmlUrl="https://scanlime.org" xmlUrl="http://scanlime.org/feed/" />
 	<outline text="Scargill's Tech Blog" title="Scargill's Tech Blog" type="rss" version="RSS" htmlUrl="https://tech.scargill.net" xmlUrl="http://tech.scargill.net/feed/" />
-	<outline text="Scientific, embedded, biomedical, electronics contents." title="Scientific, embedded, biomedical, electronics contents." type="rss" version="RSS" htmlUrl="http://www.scienceprog.com" xmlUrl="http://www.scienceprog.com/feed/" />
+	<outline text="Scientific, embedded, biomedical, electronics contents." title="Scientific, embedded, biomedical, electronics contents." type="rss" version="RSS" htmlUrl="https://scienceprog.com" xmlUrl="http://www.scienceprog.com/feed/" />
 	<outline text="Screaming Circuits" title="Screaming Circuits" type="rss" version="RSS" htmlUrl="http://blog.screamingcircuits.com/" xmlUrl="http://blog.screamingcircuits.com/atom.xml" />
 	<outline text="SDG Electronics" title="SDG Electronics" type="rss" version="RSS" htmlUrl="https://sdgelectronics.co.uk" xmlUrl="https://sdgelectronics.co.uk/feed/" />
-	<outline text="Sebastian Nilsson" title="Sebastian Nilsson" type="rss" version="RSS" htmlUrl="http://sebastiannilsson.com" xmlUrl="http://sebastiannilsson.com/en/feed/" />
-	<outline text="Sebastian Nilsson" title="Sebastian Nilsson" type="rss" version="RSS" htmlUrl="http://sebastiannilsson.com" xmlUrl="http://sebastiannilsson.com/feed/" />
+	<outline text="Sebastian Nilsson" title="Sebastian Nilsson" type="rss" version="RSS" htmlUrl="https://sebastiannilsson.com" xmlUrl="http://sebastiannilsson.com/en/feed/" />
+	<outline text="Sebastian Nilsson" title="Sebastian Nilsson" type="rss" version="RSS" htmlUrl="https://sebastiannilsson.com" xmlUrl="http://sebastiannilsson.com/feed/" />
 	<outline text="See the fun side of things" title="See the fun side of things" type="rss" version="RSS" htmlUrl="http://funsideofthings.blogspot.com/" xmlUrl="http://funsideofthings.blogspot.com/feeds/posts/default" />
 	<outline text="Seeed Studio" title="Seeed Studio" type="rss" version="RSS" htmlUrl="http://www.seeedstudio.com/blog" xmlUrl="http://www.seeedstudio.com/blog/feed/" />
 	<outline text="SEMAGEEK : Le Web Magazine des technologies High Tech." title="SEMAGEEK : Le Web Magazine des technologies High Tech." type="rss" version="RSS" htmlUrl="http://www.semageek.com" xmlUrl="http://www.semageek.com/feed/" />
-	<outline text="SevenWatt" title="SevenWatt" type="rss" version="RSS" htmlUrl="https://www.sevenwatt.com/main" xmlUrl="http://www.sevenwatt.com/main/feed/" />
-	<outline text="Shrimping It" title="Shrimping It" type="rss" version="RSS" htmlUrl="http://shrimping.it/blog" xmlUrl="http://shrimping.it/blog/feed/" />
+	<outline text="Shrimping It" title="Shrimping It" type="rss" version="RSS" htmlUrl="https://shrimping.it/blog" xmlUrl="http://shrimping.it/blog/feed/" />
 	<outline text="Signal and noise" title="Signal and noise" type="rss" version="RSS" htmlUrl="http://pmonta.com/blog" xmlUrl="http://pmonta.com/blog/feed/" />
 	<outline text="The Signal Path" title="The Signal Path" type="rss" version="RSS" htmlUrl="http://thesignalpath.com/blogs" xmlUrl="http://thesignalpath.com/blogs/feed/" />
 	<outline text="SK Pang Electronics Ltd" title="SK Pang Electronics Ltd" type="rss" version="RSS" htmlUrl="http://skpang.co.uk/blog" xmlUrl="http://skpang.co.uk/blog/feed" />
@@ -429,14 +393,13 @@
 	<outline text="Starfire's Tech Blog" title="Starfire's Tech Blog" type="rss" version="RSS" htmlUrl="https://starfiretech.wordpress.com" xmlUrl="http://starfiretech.wordpress.com/feed/" />
 	<outline text="Starlino Electronics" title="Starlino Electronics" type="rss" version="RSS" htmlUrl="http://www.starlino.com" xmlUrl="http://www.starlino.com/feed" />
 	<outline text="Steve Cooley Fine Art" title="Steve Cooley Fine Art" type="rss" version="RSS" htmlUrl="http://sc-fa.com/blog" xmlUrl="http://sc-fa.com/blog/feed/" />
-	<outline text="Steve Marple's blog" title="Steve Marple's blog" type="rss" version="RSS" htmlUrl="http://blog.stevemarple.co.uk/" xmlUrl="http://blog.stevemarple.co.uk/feeds/posts/default" />
+	<outline text="Steve Marple's blog" title="Steve Marple's blog" type="rss" version="RSS" htmlUrl="https://blog.stevemarple.co.uk/" xmlUrl="http://blog.stevemarple.co.uk/feeds/posts/default" />
 	<outline text="Sustainable Living Lab | Sustainable Living Lab" title="Sustainable Living Lab | Sustainable Living Lab" type="rss" version="RSS" htmlUrl="http://www.sl2square.org" xmlUrl="http://www.sl2square.org/feed/" />
 	<outline text="Sustainable Suburbia" title="Sustainable Suburbia" type="rss" version="RSS" htmlUrl="http://sustburbia.blogspot.com/" xmlUrl="http://sustburbia.blogspot.com/feeds/posts/default" />
 	<outline text="SwitchDoc Labs" title="SwitchDoc Labs" type="rss" version="RSS" htmlUrl="http://www.switchdoc.com" xmlUrl="http://www.switchdoc.com/feed/" />
 	<outline text="The Sync Channel Blog" title="The Sync Channel Blog" type="rss" version="RSS" htmlUrl="http://syncchannel.blogspot.com/" xmlUrl="http://syncchannel.blogspot.com/feeds/posts/default" />
 	<outline text="syntax_errØr" title="syntax_errØr" type="rss" version="RSS" htmlUrl="https://jarjartee.wordpress.com" xmlUrl="http://jarjartee.wordpress.com/feed/" />
 	<outline text="Synthetos" title="Synthetos" type="rss" version="RSS" htmlUrl="https://www.synthetos.com" xmlUrl="https://www.synthetos.com/feed/" />
-	<outline text="Take a break" title="Take a break" type="rss" version="RSS" htmlUrl="http://www.breakcontinue.com/" xmlUrl="http://www.breakcontinue.com/feeds/posts/default" />
 	<outline text="Taller Arduino" title="Taller Arduino" type="rss" version="RSS" htmlUrl="https://tallerarduino.com" xmlUrl="http://tallerarduino.com/feed/" />
 	<outline text="Tech Tut" title="Tech Tut" type="rss" version="RSS" htmlUrl="http://tech-tut.com" xmlUrl="http://tech-tut.com/feed/" />
 	<outline text="TechBitar - Blog" title="TechBitar - Blog" type="rss" version="RSS" htmlUrl="http://www.techbitar.com/blog" xmlUrl="http://www.techbitar.com/1/feed" />
@@ -456,12 +419,11 @@
 	<outline text="Tomi Engdahl's ePanorama blog" title="Tomi Engdahl's ePanorama blog" type="rss" version="RSS" htmlUrl="http://www.epanorama.net/newepa" xmlUrl="http://www.epanorama.net/blog/feed/" />
 	<outline text="Tomi Engdahl's ePanorama blog» Arduino" title="Tomi Engdahl's ePanorama blog» Arduino" type="rss" version="RSS" htmlUrl="http://www.epanorama.net/newepa/2012/05/31/arduino-and-rasberry-pi-together/" xmlUrl="http://www.epanorama.net/newepa/2012/05/31/arduino-and-rasberry-pi-together/feed/" />
 	<outline text="Toolex" title="Toolex" type="rss" version="RSS" htmlUrl="http://toolex.blogspot.com/" xmlUrl="http://toolex.blogspot.com/feeds/posts/default" />
-	<outline text="transitlab" title="transitlab" type="rss" version="RSS" htmlUrl="http://transitlab.org" xmlUrl="http://transitlab.org/feed" />
 	<outline text="Trashbear Labs" title="Trashbear Labs" type="rss" version="RSS" htmlUrl="https://trashbearlabs.wordpress.com" xmlUrl="http://trashbearlabs.wordpress.com/feed/" />
 	<outline text="Travis Goodspeed's Blog" title="Travis Goodspeed's Blog" type="rss" version="RSS" htmlUrl="http://travisgoodspeed.blogspot.com/" xmlUrl="http://travisgoodspeed.blogspot.com/feeds/posts/default" />
 	<outline text="TropicArduino" title="TropicArduino" type="rss" version="RSS" htmlUrl="http://tropicarduino.blogspot.com/" xmlUrl="http://tropicarduino.blogspot.com/feeds/posts/default" />
 	<outline text="uC Hobby" title="uC Hobby" type="rss" version="RSS" htmlUrl="http://www.uchobby.com" xmlUrl="http://www.uchobby.com/index.php/feed/" />
-	<outline text="unsigned.io" title="unsigned.io" type="rss" version="RSS" htmlUrl="http://unsigned.io" xmlUrl="http://unsigned.io/?feed=rss2" />
+	<outline text="unsigned.io" title="unsigned.io" type="rss" version="RSS" htmlUrl="https://unsigned.io" xmlUrl="http://unsigned.io/?feed=rss2" />
 	<outline text="Untitled Source" title="Untitled Source" type="rss" version="RSS" htmlUrl="https://blog.particle.io/" xmlUrl="http://blog.spark.io/feed.xml" />
 	<outline text="veys.com" title="veys.com" type="rss" version="RSS" htmlUrl="http://veys.com" xmlUrl="http://veys.com/feed/" />
 	<outline text="Vida Arduina" title="Vida Arduina" type="rss" version="RSS" htmlUrl="http://vidaarduina.blogspot.com/" xmlUrl="http://vidaarduina.blogspot.com/feeds/posts/default" />
@@ -473,7 +435,7 @@
 	<outline text="Walltech" title="Walltech" type="rss" version="RSS" htmlUrl="http://www.walltech.cc" xmlUrl="http://www.walltech.cc/feed/" />
 	<outline text="Wayne and Layne" title="Wayne and Layne" type="rss" version="RSS" htmlUrl="https://www.wayneandlayne.com" xmlUrl="http://www.wayneandlayne.com/feed/" />
 	<outline text="wemakethings" title="wemakethings" type="rss" version="RSS" htmlUrl="https://wemakethings.net" xmlUrl="http://wemakethings.net/atom.xml" />
-	<outline text="WFFwiki - Recent changes [en]" title="WFFwiki - Recent changes [en]" type="rss" version="RSS" htmlUrl="http://www.waitingforfriday.com" xmlUrl="http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom" />
+	<outline text="WFFwiki - Recent changes [en]" title="WFFwiki - Recent changes [en]" type="rss" version="RSS" htmlUrl="https://www.waitingforfriday.com" xmlUrl="http://www.waitingforfriday.com/index.php?title=Special:RecentChanges&amp;feed=atom" />
 	<outline text="whitequark's lab notebook" title="whitequark's lab notebook" type="rss" version="RSS" htmlUrl="https://lab.whitequark.org/" xmlUrl="https://lab.whitequark.org/atom.xml" />
 	<outline text="Wikispaces : arduino-info : home - edits" title="Wikispaces : arduino-info : home - edits" type="rss" version="RSS" htmlUrl="http://arduino-info.wikispaces.com/home" xmlUrl="http://arduino-info.wikispaces.com/page/xml/home?v=rss_2_0" />
 	<outline text="WinAVR AVR-GCC Tutorial" title="WinAVR AVR-GCC Tutorial" type="rss" version="RSS" htmlUrl="http://winavr.scienceprog.com" xmlUrl="http://winavr.scienceprog.com/rss.xml" />
@@ -489,18 +451,22 @@
 </outline>
 <outline text="Drones" title="Drones">
 	<outline text="Dave Akerman" title="Dave Akerman" type="rss" version="RSS" htmlUrl="http://www.daveakerman.com" xmlUrl="http://www.daveakerman.com/?feed=rss2" />
-	<outline text="Everyone's Blog Posts - DIY Drones" title="Everyone's Blog Posts - DIY Drones" type="rss" version="RSS" htmlUrl="http://diydrones.com/profiles/blog/feed?xn_auth=no" xmlUrl="http://diydrones.com/profiles/blog/feed?xn_auth=no" />
+	<outline text="Everyone's Blog Posts - DIY Drones" title="Everyone's Blog Posts - DIY Drones" type="rss" version="RSS" htmlUrl="https://diydrones.com/profiles/blog/feed?xn_auth=no" xmlUrl="http://diydrones.com/profiles/blog/feed?xn_auth=no" />
 	<outline text="Robotic Arts" title="Robotic Arts" type="rss" version="RSS" htmlUrl="https://roboticarts.wordpress.com" xmlUrl="https://roboticarts.wordpress.com/feed/" />
 </outline>
 <outline text="Makers" title="Makers">
 	<outline text="» feed" title="» feed" type="rss" version="RSS" htmlUrl="http://www.chrisfenton.com" xmlUrl="http://www.chrisfenton.com/feed/" />
 	<outline text="Blog - Fabbaloo" title="Blog - Fabbaloo" type="rss" version="RSS" htmlUrl="http://www.fabbaloo.com/blog/" xmlUrl="http://www.fabbaloo.com/blog?format=rss" />
 	<outline text="It's Project Day!" title="It's Project Day!" type="rss" version="RSS" htmlUrl="https://itsprojectday.wordpress.com" xmlUrl="http://itsprojectday.wordpress.com/feed/" />
+	<outline text="Makerflux" title="Makerflux" type="rss" version="RSS" htmlUrl="http://makerflux.com" xmlUrl="http://makerflux.com/feed/" />
+	<outline text="Makery" title="Makery" type="rss" version="RSS" htmlUrl="http://www.makery.info" xmlUrl="http://www.makery.info/feed/" />
 	<outline text="My Robot and Other Stuff" title="My Robot and Other Stuff" type="rss" version="RSS" htmlUrl="http://myrobotnstuff.blogspot.com/" xmlUrl="http://myrobotnstuff.blogspot.com/feeds/posts/default" />
 	<outline text="NYC CNC Machining, Fabrication &amp;amp; Prototype Shop - Project Blog" title="NYC CNC Machining, Fabrication &amp;amp; Prototype Shop - Project Blog" type="rss" version="RSS" htmlUrl="http://www.nyccnc.com/wednesday-widget" xmlUrl="http://www.nyccnc.com/2/feed" />
 	<outline text="tim.jagenberg.info" title="tim.jagenberg.info" type="rss" version="RSS" htmlUrl="https://tim.jagenberg.info" xmlUrl="http://tim.jagenberg.info/feed/" />
 </outline>
+<outline text="Res Publica Non Dominetur - カルマン" title="Res Publica Non Dominetur - カルマン" type="rss" version="RSS" htmlUrl="http://karman.cc/blog" xmlUrl="http://karman.cc/blog/feed" />
 <outline text="Stuff to buy" title="Stuff to buy">
+	<outline text="Blog" title="Blog" type="rss" version="RSS" htmlUrl="https://www.sainsmart.com/blog/" xmlUrl="http://www.sainsmart.com/blog/rss/index/store_id/1/" />
 	<outline text="BLOGBLOG" title="BLOGBLOG" type="rss" version="RSS" htmlUrl="https://www.elecrow.com/blog" xmlUrl="http://www.elecrow.com/blog/feed/" />
 	<outline text="Digistump News Posts" title="Digistump News Posts" type="rss" version="RSS" htmlUrl="urn:uuid:4fbc2502-133c-29a1-d49c-682c916f2431" xmlUrl="http://digistump.com/news/feed" />
 	<outline text="hwkitchen.com" title="hwkitchen.com" type="rss" version="RSS" htmlUrl="http://www.hwkitchen.com" xmlUrl="http://hwkitchen.com/rss/pf-all.xml" />
